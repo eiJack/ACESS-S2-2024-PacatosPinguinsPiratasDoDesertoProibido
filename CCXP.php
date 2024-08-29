@@ -32,6 +32,7 @@
             </div>
         </article>
         </main>
+        <section>
         <div class="container col-md-12 justify-content-center">
                 <div class="row justify-content-center">
                     <a class="col-md-5 col-lg-2 col-sm-12" href="artistas_CCXP.php">
@@ -85,7 +86,7 @@
         </div>
         <a href="#" class="bt"></a>
     </div>
-
+    <section/>
     <?php require "footer.inc.php"; ?>
 
 </body>
