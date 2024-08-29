@@ -86,7 +86,7 @@
         </div>
         <a href="#" class="bt"></a>
     </div>
-    <section/>
+        </section>
     <?php require "footer.inc.php"; ?>
 
 </body>
