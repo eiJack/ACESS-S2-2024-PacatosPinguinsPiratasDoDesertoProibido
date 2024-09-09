@@ -113,6 +113,8 @@
 
     <?php require "footer.inc.php"; ?>
 
+    </div>
+
 </body>
 
 </html>
