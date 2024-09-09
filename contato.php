@@ -25,25 +25,25 @@
                     <div class="field">
                         <label>Nome do evento:</label>
                         <label for="nome">
-                            <input type="text" id="nome" name="nome" placeholder="Digite o nome do evento">
+                            <input type="text" id="nome" name="nome" placeholder="Digite o nome do evento" area-describedby="Coloque nessa área o nome do evento para divulgação">
                         </label>
                     </div>
                     <div class="field">
                         <label>Cidade em que ocorre:</label>
                         <label for="cidade">
-                            <input type="text" id="cidade" name="cidade" placeholder="Digite a cidade">
+                            <input type="text" id="cidade" name="cidade" placeholder="Digite a cidade" area-describedby="Coloque nessa área o nome da cidade onde ocorre o evento">
                         </label>
                     </div>
                     <div class="field">
                         <label>Responsável pelo evento:</label>
                         <label for="responsavel">
-                            <input type="text" id="responsavel" name="responsavel" placeholder="Digite o nome do resposavel">
+                            <input type="text" id="responsavel" name="responsavel" placeholder="Digite o nome do resposavel" area-describedby="Coloque nessa área o nome do responsavel do evento">
                         </label>
                     </div>
                     <div class="field">
                         <label>Email:</label>
                         <label for="email">
-                            <input type="email" id="email" name="email" placeholder="Digite seu email">
+                            <input type="email" id="email" name="email" placeholder="Digite seu email" area-describedby="Digite um email de contato do responsavel do evento">
                         </label>
                     </div>
                     <div class="d-grid gap-2 col-2 mx-auto centropagina margem margem9">
