@@ -53,7 +53,7 @@
             </div>
             <div class="col-sm-12 col-md-4 col-lg-4 centropagina">
                 <figure>
-                    <img src="imagem/logo3.webp" alt="representação do logo que contem no footer">
+                    <img src="imagem/logo3.webp" alt="representação do logo que contem no footer, sendo um pinguim com o chapeu de pirata, num fundo roxo por ser a cor padrão do nosso site, ele tambem tem um tapa olho e uma espadinha.">
                 </figure>
             </div>
         </div>
