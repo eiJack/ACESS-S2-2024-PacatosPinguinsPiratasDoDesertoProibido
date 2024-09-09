@@ -12,7 +12,7 @@
 <body>
     
 <?php require "header.inc.php"; ?>
-
+<main role="main">
 <div class="container">
     <article>
         <div class="row">
@@ -60,6 +60,7 @@
     </article> 
     <a href="#" class="bt"></a>
 </div>
+</main>
 
 <?php require "footer.inc.php"; ?>
 
