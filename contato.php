@@ -47,7 +47,7 @@
                         </label>
                     </div>
                     <div class="d-grid gap-2 col-2 mx-auto centropagina margem margem9">
-                        <button type="submit" class="btn btn-primary margem3">Enviar</button>
+                        <button type="submit" class="btn btn-primary margem3" aria-label="Enviar respostas do questionario a cima">Enviar</button>
                     </div>
                  </form>   
             </div>
