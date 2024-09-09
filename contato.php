@@ -58,7 +58,7 @@
             </div>
         </div>
     </article> 
-    <a href="#" class="bt"></a>
+    <a href="#" class="bt" aria-describedby="Botão para subir até o topo da pagina"></a>
 </div>
 </main>
 
