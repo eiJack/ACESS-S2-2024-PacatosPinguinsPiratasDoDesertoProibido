@@ -15,17 +15,12 @@
 <body>
     <?php require "header.inc.php"; ?>
     <?php require "ccxp.nav.inc.php"; ?>
-    <div class="container margem">
-
-    <table role="table" class="espaco" role="tabela de artistas da CCXP">
-
-        <tr role="row">
-            <th role="columnheader" colspan="3">
-            <article class="h1 text-center">
+     <div role="main" class="container margem">
+           <article class="h1 text-center">
                 <h1 class="h1">Artists' Valley by Bis</h1>
             </article>
-            <th>
-        </tr>    
+         
+   <table role="table" class="espaco" aria-label="tabela de artistas da CCXP">
      
         <tr role="row">
             <td role="cell" class= "celula text-center">
@@ -33,7 +28,7 @@
                         <img src="imagem/gabrielpicolo_ccxp.webp" alt="é uma imagem do artista Gabriel Picolo">
                         <figcaption class="figure-caption">Gabriel Picolo</figcaption>
                 </figure> 
-                    <a href="https://exame.com/pop/o-melhor-do-artists-valley-8-quadrinistas-para-conhecer-na-ccxp/" class="btn btn-primary"
+                    <a role="button" aria-label="botão que redireciona para a fonte de pesquisa" href="https://exame.com/pop/o-melhor-do-artists-valley-8-quadrinistas-para-conhecer-na-ccxp/" class="btn btn-primary"
                         target=_blank>Fonte</a>
                     <p class="p pmargem">Gabriel Picolo é um quadrinista e ilustrador brasileiro com um grande reconhecimento
                         mundial, por ter em suas obras uma forte narrativa e cores atmosféricas, sendo as suas
@@ -46,7 +41,7 @@
                         <img src="imagem/ilustralu_ccxp.webp" alt="é uma imagem da artista ilustralu">
                         <figcaption class="figure-caption">Luiza de Souza (Ilustralu)</figcaption>
                 </figure>
-                    <a href="https://exame.com/pop/o-melhor-do-artists-valley-8-quadrinistas-para-conhecer-na-ccxp/" class="btn btn-primary"
+                    <a role="button" aria-label="botão que redireciona para a fonte de pesquisa" href="https://exame.com/pop/o-melhor-do-artists-valley-8-quadrinistas-para-conhecer-na-ccxp/" class="btn btn-primary"
                         target=_blank>Fonte</a>
                     <p class="p">Nascida em Currais Novos (RN), Luiza de Souza estudou na UFRN publicidade e trabalha
                         como ilustradora e desenhista de história em quadrinhos, publicando seus trabalhos na internet,
@@ -60,7 +55,7 @@
                         <img src="imagem/marcelocampos_ccxp.webp" alt="é uma imagem do artista Marcelo Campos">
                         <figcaption class="figure-caption">Marcelo Campos</figcaption>
                 </figure>
-                    <a href="https://www.omelete.com.br/ccxp/23-artists-valley-marcelo-campos" class="btn btn-primary" target=_blank>Fonte</a>
+                    <a role="button" aria-label="botão que redireciona para a fonte de pesquisa" href="https://www.omelete.com.br/ccxp/23-artists-valley-marcelo-campos" class="btn btn-primary" target=_blank>Fonte</a>
                     <p class="p">Na CCXP ocorre anualmente uma homenagem a um artista com grande destaque no mercado de
                         quadrinhos brasileiros e na edição de 2023 foi homenageado o artista Marcelo Campos, além de sua
                         atuação no mercado nacional, com seu personagem destaque o “Quebra-queixo”, também teve atuação
@@ -74,7 +69,7 @@
                         <img src="imagem/mongehan_ccxp.webp" alt="é uma imagem do artista Monge Han">
                         <figcaption class="figure-caption">Monge Han</figcaption>
                 </figure>
-                    <a href="https://g1.globo.com/pr/parana/noticia/2019/12/30/ao-transformar-memorias-pessoais-em-quadrinhos-artista-reflete-sobre-a-vida-de-descendentes-de-asiaticos-no-brasil.ghtml" class="btn btn-primary"
+                    <a role="button" aria-label="botão que redireciona para a fonte de pesquisa" href="https://g1.globo.com/pr/parana/noticia/2019/12/30/ao-transformar-memorias-pessoais-em-quadrinhos-artista-reflete-sobre-a-vida-de-descendentes-de-asiaticos-no-brasil.ghtml" class="btn btn-primary"
                         target=_blank>Fonte</a>
                     <p class="p">Monge Han é um artista Amarelo-Brasileiro, descendente de coreanos. Em suas obras,
                         Monge Han retrata temas autobiográficos relacionados a sua identidade racializada, além de
@@ -88,7 +83,7 @@
                         <img src="imagem/ceciliamarins_ccxp.webp" alt="é uma imagem da artista Cecilia Marins">
                         <figcaption class="figure-caption">Cecilia Marins</figcaption>
                 </figure>
-                    <a href="https://ceciliamarins.com/sobre" class="btn btn-primary" target=_blank>Fonte</a>
+                    <a role="button" aria-label="botão que redireciona para a fonte de pesquisa" href="https://ceciliamarins.com/sobre" class="btn btn-primary" target=_blank>Fonte</a>
                     <p class="p pmargem2">Cecilia é uma quadrinista, ilustradora e jornalista, dentre suas principais obras temos
                         a HQ “Parques das Luzes”, que retrata histórias de mulheres que estão em situação de
                         prostituição em um dos parques mais antigos de São Paulo, além de ser uma das ilustradoras do
@@ -100,7 +95,7 @@
                         <img src="imagem/helodangelo_ccxp.webp" alt="é uma imagem da artista Helô D'Angelo">
                         <figcaption class="figure-caption">Helô D'Angelo</figcaption>
                 </figure>
-                    <a href="https://www.helodangelo.com.br/sobre" class="btn btn-primary" target=_blank>Fonte</a>
+                    <a role="button" aria-label="botão que redireciona para a fonte de pesquisa" href="https://www.helodangelo.com.br/sobre" class="btn btn-primary" target=_blank>Fonte</a>
                     <p class="p">Ilustradora e quadrinista, possui diversas obras, dentre as mais conhecidas tem a obra
                         “Dora e a Gata”, “Pequeno Manual de Defesa Pessoal”, “Nos olhos de quem vê” e “Isolamento”,
                         obras essas que lhe garantiram diversas premiações, dentre elas a HQ MIX do qual foi finalista e
@@ -111,9 +106,11 @@
 
     </table>
 
-    <?php require "footer.inc.php"; ?>
+    
 
     </div>
+
+    <?php require "footer.inc.php"; ?>
 
 </body>
 
