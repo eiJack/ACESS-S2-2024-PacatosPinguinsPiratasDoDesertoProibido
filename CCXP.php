@@ -21,7 +21,7 @@
             <h1>Apresentando a CCXP</h1>
             <div class="row">
                 <figure class="col-lg-6 col-sm-12 ccxp">
-                    <img src="imagem/ccxp.webp" class="img" alt="é uma imagem de apresentação do evento ">
+                    <img src="imagem/ccxp.webp" class="img" alt="Imagem com o nome da CCXP">
                 </figure>
                 <p class="col-lg-5 col-sm-12 p">A CCXP (Comic Con Experience) é um evento Nerd e geek que acontece anualmente no
                     mês de dezembro na São Paulo Expo, sendo considerado um dos maiores festivais de cultura pop do
@@ -33,9 +33,10 @@
         </article>
         </main>
         <section>
+            <h2>Links de acesso para as páginas relacionadas a CCXP</h2>
         <div class="container col-md-12 justify-content-center">
                 <div class="row justify-content-center">
-                    <a class="col-md-5 col-lg-2 col-sm-12" href="artistas_CCXP.php">
+                    <a aria-label="Link para página de artistas da CCXP" role="button" class="col-md-5 col-lg-2 col-sm-12" href="artistas_CCXP.php">
                         <figure class="col-md-6 col-lg-2 imagem">
                             <img class="imagem" src="imagem/artistasccxp.webp"
                                 alt="é uma imagem de apresentação da Artists Valley">
@@ -44,7 +45,7 @@
                             </figcaption>
                         </figure>
                     </a>
-                    <a class="col-md-4 col-lg-2 col-sm-12" href="eSports_CCXP.php">
+                    <a aria-label="Link para página de eSports da CCXP" role="button" class="col-md-4 col-lg-2 col-sm-12" href="eSports_CCXP.php">
                         <figure class="col-md-6 col-lg-2 col-sm-12 imagem">
                             <img class="imagem" src="imagem/eSportsCCXp.webp"
                                 alt="é uma imagem de apresentação de eSports">
@@ -54,7 +55,7 @@
                         </figure>
                     </a>
 
-                    <a class="col-md-5 col-lg-2 col-sm-12 text-center" href="cosplay_CCXP.php">
+                    <a aria-label="Link para página de cosplays da CCXP" role="button" class="col-md-5 col-lg-2 col-sm-12 text-center" href="cosplay_CCXP.php">
                         <figure class="col-md-6 col-lg-2 col-sm-12 imagem">
                             <img class="imagem" src="imagem/cosplayccxp.webp"
                                 alt="é uma imagem de apresentação dos Cosplays">
@@ -63,7 +64,7 @@
                             </figcaption>
                         </figure>
                     </a>
-                    <a class="col-md-4 col-lg-2 col-sm-12" href="entrevista_CCXP.php">
+                    <a aria-label="Link para página de entrevistas da CCXP" role="button" class="col-md-4 col-lg-2 col-sm-12" href="entrevista_CCXP.php">
                         <figure class="col-md-6 col-lg-2 col-sm-12 imagem">
                             <img class="imagem" src="imagem/entrevistaCCXP.webp"
                                 alt="é uma imagem de apresentação das entrevistas">
@@ -72,7 +73,7 @@
                             </figcaption>
                         </figure>
                     </a>
-                    <a class="col-lg-3 col-sm-12" href="https://www.ccxp.com.br/" target="_blank">
+                    <a aria-label="Link para página oficial da CCXP" role="button" class="col-lg-3 col-sm-12" href="https://www.ccxp.com.br/" target="_blank">
                         <figure class="col-sm-12">
                             <img class="novidades" src="imagem/novidadesccxp.jpg"
                                 alt="link externo que redireciona para a página oficial da CCXP ">
@@ -84,7 +85,7 @@
                 </div>
             
         </div>
-        <a href="#" class="bt"></a>
+        <a aria-hidden="true" href="#" class="bt"></a>
     </div>
         </section>
     <?php require "footer.inc.php"; ?>
