@@ -67,7 +67,7 @@
             </section>
         </div>
 
-        <div class="col-sm-12 col-md-6 col-lg-6 margem8">
+        <div class="col-sm-12 col-md-6 col-lg-6 margem8" role="article">
             <section class="corroxa">
                 <figure class="centropagina">
                     <img class="img img2" src="imagem/noticia1.webp" alt="é uma imagem de uma noticia que fala sobre o aumento dos valores dos plano da netflix">
@@ -81,7 +81,7 @@
             </section>
         </div>
 
-        <div class="col-sm-12 col-md-6 col-lg-6 margem8">
+        <div class="col-sm-12 col-md-6 col-lg-6 margem8" role="article">
             <section class="corroxa">
                 <figure class="centropagina">
                     <img class="img img2" src="imagem/noticia2.webp" alt="é uma imagem de uma noticia para representar um personagem de star wars no jogo de starfield">
@@ -95,7 +95,7 @@
             </section>
         </div>
 
-        <div class="col-sm-12 col-md-6 col-lg-6 margem8">
+        <div class="col-sm-12 col-md-6 col-lg-6 margem8" role="article">
             <section class="corroxa">
                 <figure class="centropagina">
                     <img class="img img2" src="imagem/noticia3.webp" alt="é uma imagem de uma noticia onde tem os personagens Sharkboy e Lavagirl na frente, com os respectivos atores que os fizeram ao fundo">
@@ -109,7 +109,7 @@
             </section>
         </div>
 
-        <div class="col-sm-12 col-md-6 col-lg-6 margem8">
+        <div class="col-sm-12 col-md-6 col-lg-6 margem8" role="article">
             <section class="corroxa">
                 <figure class="centropagina">
                     <img class="img img2" src="imagem/noticia4.webp" alt="é uma imagem de uma noticia para representar a PerifaCon, com um personagem na frente e atrás tem o banner do evento">
