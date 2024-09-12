@@ -20,10 +20,10 @@
                 <h1 class="h1">Artists' Valley by Bis</h1>
             </article>
          
-   <table role="table" class="espaco" aria-label="tabela de artistas da CCXP">
+   <table class="espaco" aria-label="tabela de artistas da CCXP">
      
-        <tr role="row">
-            <td role="cell" class= "celula text-center">
+        <tr>
+            <td class= "celula text-center">
                 <figure class="text-center">
                         <img src="imagem/gabrielpicolo_ccxp.webp" alt="é uma imagem do artista Gabriel Picolo">
                         <figcaption class="figure-caption">Gabriel Picolo</figcaption>
@@ -36,7 +36,7 @@
                         elas “Teen Titans: Beast Boy” e “Teen Titans: Beast Boy Loves Raven”.</p>
             </td>
 
-            <td role="cell" class= "celula text-center">
+            <td class= "celula text-center">
                 <figure class="text-center">
                         <img src="imagem/ilustralu_ccxp.webp" alt="é uma imagem da artista ilustralu">
                         <figcaption class="figure-caption">Luiza de Souza (Ilustralu)</figcaption>
@@ -50,7 +50,7 @@
                         essa vencedora do CCXP awards de 2022 na categoria Melhor quadrinho.</p>
             </td>
 
-            <td role="cell" class= "celula text-center">
+            <td class= "celula text-center">
                 <figure class="text-center">
                         <img src="imagem/marcelocampos_ccxp.webp" alt="é uma imagem do artista Marcelo Campos">
                         <figcaption class="figure-caption">Marcelo Campos</figcaption>
@@ -63,8 +63,9 @@
                         renomados como Lanterna Verde, Liga da Justiça e outros títulos da DC comics.</p>
             </td>
         </tr>
-        <tr role="row">
-            <td role="cell" class= "celula text-center">
+        <tr>
+            
+            <td class= "celula text-center">
                 <figure class="text-center">
                         <img src="imagem/mongehan_ccxp.webp" alt="é uma imagem do artista Monge Han">
                         <figcaption class="figure-caption">Monge Han</figcaption>
@@ -78,7 +79,7 @@
                         sobre preconceito, identidade, ancestralidade e respeito.</p>
             </td>
 
-            <td role="cell" class= "celula text-center">
+            <td class= "celula text-center">
                 <figure class="text-center">
                         <img src="imagem/ceciliamarins_ccxp.webp" alt="é uma imagem da artista Cecilia Marins">
                         <figcaption class="figure-caption">Cecilia Marins</figcaption>
@@ -90,7 +91,7 @@
                         AmarElo, documentário do Emicida para a Netflix, sendo indicado a um Emmy internacional.</p>
             </td>
 
-            <td role="cell" class= "celula text-center">
+            <td class= "celula text-center">
                 <figure class="text-center">
                         <img src="imagem/helodangelo_ccxp.webp" alt="é uma imagem da artista Helô D'Angelo">
                         <figcaption class="figure-caption">Helô D'Angelo</figcaption>
