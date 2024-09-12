@@ -38,7 +38,7 @@
         <div class="col-sm-12 col-md-12 col-lg-4 margem8" role="article">
             <section class="corroxa">
                 <figure class="centropagina">
-                    <img class = "img img2" src="imagem/fatecon.webp" alt="é uma da logo do domingo nerd, com cada um dos mascotes que teve em cada ano">
+                    <img class = "img img2" src="imagem/fatecon.webp" alt="é uma da logo da Fatecon, com seu mascote com uma mochila a jato, descrito do lado Fatecon Hqs">
                 </figure>
                 <h4 class="centropagina margemtop2"> Fatecon </h4>
                 <p class="margemnoticias"> Explore um evento que oferece uma atmosfera envolvente e estimulante, onde fãs de quadrinhos e literatura exploram lançamentos de livros, quadrinhos e outras obras, tendo a chance de conhecerem pessoalmente e interagirem diretamente com os criadores por trás dessas obras. </p>
