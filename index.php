@@ -19,7 +19,7 @@
        <article class="col-12">
             <h2 hidden> Pacatos Pinguins Piratas do Deserto Proibido </h2>
             <figure class="centropagina">
-                <img class="img" src="imagem/header.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                <img class="img" src="imagem/header.webp" alt="é uma imagem de apresentação com o nome do grupo (Pacatos pinguins piratas do deserto proibido) em negrito com o fundo roxo">
             </figure>
             <p> Seja bem-vindo ao lugar onde a cultura nerd ganha vida. Descubra as últimas novidades, encontre eventos imperdíveis e junte-se à comunidade dos apaixonados por games, quadrinhos, filmes, séries e muito mais. Nos falamos de eventos de cultura nerd, como objetivo principal sendo proporcionar uma plataforma dinâmica e inclusiva para os apaixonados por esse universo tão fascinante. Aqui, buscamos conectar fãs de games, quadrinhos, filmes, séries, cosplay e tudo mais que envolve a cultura geek, oferecendo um conteudo sobre uma variedade de eventos relacionados a esse universo. </p>
         </article> 
