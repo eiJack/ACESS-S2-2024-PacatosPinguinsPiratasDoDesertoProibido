@@ -14,7 +14,7 @@
 <?php require "header.inc.php"; ?>
 
 <div class="container">
-<main>
+<main role="main">
     <div class="row justify-content-md-center">
        <article class="col-12">
             <h2 hidden> Pacatos Pinguins Piratas do Deserto Proibido </h2>
