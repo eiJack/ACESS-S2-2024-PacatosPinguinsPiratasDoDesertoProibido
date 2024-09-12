@@ -16,6 +16,7 @@
     <?php require "header.inc.php"; ?>
     <?php require "ccxp.nav.inc.php"; ?>
     <div class="container text-center">
+
         <main>
         <article class="text-center article">
             <h1>Apresentando a CCXP</h1>
@@ -86,10 +87,10 @@
             
         </div>
         <a aria-hidden="true" href="#" class="bt"></a>
-    </div>
         </section>
+
+    </div>
     <?php require "footer.inc.php"; ?>
 
 </body>
-
 </html>
