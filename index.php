@@ -58,7 +58,7 @@
     </div>
 </main>
 
-    <section>
+    <section role="complementary">
         <h2 hidden> Noticias do mundo nerd </h2>
     <div class="row">
         <div class="col-12 margem">
