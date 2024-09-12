@@ -25,7 +25,7 @@
         </article> 
     </div>
     <div class="row">
-        <div class="col-sm-12 col-md-12 col-lg-4 margem8">
+        <div class="col-sm-12 col-md-12 col-lg-4 margem8" role="article">
             <section class="corroxa">
                 <figure class="centropagina">
                     <img class = "img img2" src="imagem/dn2.webp" alt="é uma da logo do domingo nerd, com cada um dos mascotes que teve em cada ano">
@@ -35,7 +35,7 @@
                 <a href="https://www.einerd.com.br/netflix-aumenta-precos/" class="btn btn-primary margemnoticias">Ver mais</a>
             </section>
         </div>
-        <div class="col-sm-12 col-md-12 col-lg-4 margem8">
+        <div class="col-sm-12 col-md-12 col-lg-4 margem8" role="article">
             <section class="corroxa">
                 <figure class="centropagina">
                     <img class = "img img2" src="imagem/fatecon.webp" alt="é uma da logo do domingo nerd, com cada um dos mascotes que teve em cada ano">
@@ -45,7 +45,7 @@
                 <a href="https://www.einerd.com.br/netflix-aumenta-precos/" class="btn btn-primary margemnoticias">Ver mais</a>
             </section>
         </div>
-        <div class="col-sm-12 col-md-12 col-lg-4 margem8">
+        <div class="col-sm-12 col-md-12 col-lg-4 margem8" role="article">
             <section class="corroxa">
                 <figure class="centropagina">
                     <img class = "img img2" src="imagem/ccxp.webp" alt="é uma da logo do domingo nerd, com cada um dos mascotes que teve em cada ano">
