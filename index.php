@@ -48,7 +48,7 @@
         <div class="col-sm-12 col-md-12 col-lg-4 margem8" role="article">
             <section class="corroxa">
                 <figure class="centropagina">
-                    <img class = "img img2" src="imagem/ccxp.webp" alt="é uma da logo do domingo nerd, com cada um dos mascotes que teve em cada ano">
+                    <img class = "img img2" src="imagem/ccxp.webp" alt="é uma da logo da CCXP, com o nome CCXP descrito">
                 </figure>
                 <h4 class="centropagina margemtop2"> CCXP </h4>
                 <p class="margemnoticias"> A CCXP abre suas portas para uma experiência única. Este é o lugar onde a cultura pop ganha vida, onde fãs de todas as idades se reúnem para celebrar o que há de mais incrível nos quadrinhos, cinema, TV, games que em cada esquina há novas aventuras e estandes que guardam segredos à serem revelados. </p>
