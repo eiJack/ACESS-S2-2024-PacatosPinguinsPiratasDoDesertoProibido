@@ -32,7 +32,7 @@
                 </figure>
                 <h4 class="centropagina margemtop2"> Domingo Nerd</h4>
                 <p class="margemnoticias"> Prepare-se para mergulhar no universo geek no Domingo Nerd! Com uma mistura de cultura pop, jogos, quadrinhos e muito mais, em um ambiente acolher a todos, que reúne entusiastas de todas as vertentes nerds para compartilhar sua paixão com outros aficionados. </p>
-                <a href="https://www.einerd.com.br/netflix-aumenta-precos/" class="btn btn-primary margemnoticias">Ver mais</a>
+                <a href="https://www.einerd.com.br/netflix-aumenta-precos/" class="btn btn-primary margemnoticias" aria-label="Ir para o site do Domingo Nerd">Ver mais</a>
             </section>
         </div>
         <div class="col-sm-12 col-md-12 col-lg-4 margem8" role="article">
@@ -42,7 +42,7 @@
                 </figure>
                 <h4 class="centropagina margemtop2"> Fatecon </h4>
                 <p class="margemnoticias"> Explore um evento que oferece uma atmosfera envolvente e estimulante, onde fãs de quadrinhos e literatura exploram lançamentos de livros, quadrinhos e outras obras, tendo a chance de conhecerem pessoalmente e interagirem diretamente com os criadores por trás dessas obras. </p>
-                <a href="https://www.einerd.com.br/netflix-aumenta-precos/" class="btn btn-primary margemnoticias">Ver mais</a>
+                <a href="https://www.einerd.com.br/netflix-aumenta-precos/" class="btn btn-primary margemnoticias" aria-label="Ir para o site da Fatecon">Ver mais</a>
             </section>
         </div>
         <div class="col-sm-12 col-md-12 col-lg-4 margem8" role="article">
@@ -52,7 +52,7 @@
                 </figure>
                 <h4 class="centropagina margemtop2"> CCXP </h4>
                 <p class="margemnoticias"> A CCXP abre suas portas para uma experiência única. Este é o lugar onde a cultura pop ganha vida, onde fãs de todas as idades se reúnem para celebrar o que há de mais incrível nos quadrinhos, cinema, TV, games que em cada esquina há novas aventuras e estandes que guardam segredos à serem revelados. </p>
-                <a href="https://www.einerd.com.br/netflix-aumenta-precos/" class="btn btn-primary margemnoticias">Ver mais</a>
+                <a href="https://www.einerd.com.br/netflix-aumenta-precos/" class="btn btn-primary margemnoticias" aria-label="Ir para o site da CCXP">Ver mais</a>
             </section>
         </div>
     </div>
