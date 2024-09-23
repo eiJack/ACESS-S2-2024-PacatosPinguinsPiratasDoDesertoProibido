@@ -54,11 +54,74 @@
                     <p class="margemnoticias"> A CCXP abre suas portas para uma experiência única. Este é o lugar onde a cultura pop ganha vida, onde fãs de todas as idades se reúnem para celebrar o que há de mais incrível nos quadrinhos, cinema, TV, games que em cada esquina há novas aventuras e estandes que guardam segredos à serem revelados. </p>
                     <a href="https://www.einerd.com.br/netflix-aumenta-precos/" class="btn btn-primary margemnoticias" aria-label="Ir para o site da CCXP">Ver mais</a>
                 </section>
-            </div>  
-
-    
+            </div>      
         </main>
-
+        <aside>
+            <h2 hidden> Noticias do mundo nerd </h2>
+            <div class="row">
+                <div class="col-12 margem">
+                    <section class="centropagina margemtop">
+                        <h2> Noticias do mundo nerd </h2>
+                    </section>
+                </div>    
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6 margem8" role="article">
+                <section class="corroxa">
+                    <figure class="centropagina">
+                        <img class="img img2" src="imagem/noticia1.webp" alt="é uma imagem de uma noticia que fala sobre o aumento dos valores dos plano da netflix">
+                    </figure>
+                    <div class="centropagina">
+                        <small> Noticia retirada do site do Ei Nerd.</small>
+                    </div>
+                    <h4 class="centropagina margemtop2"> Sem divulgar: Netflix aumenta o valor de seus <br>planos novamente</h4>
+                    <p class="margemnoticias"> Rumores apontaram que a Netflix aumentaria o valor de seus planos devido ao lucro obtido pela empresa nos últimos anos, principalmente desde que implementou o sistema de cobrança por compartilhamento de senha, e isso se torna real. </p>
+                    <a target="_blank" href="https://www.einerd.com.br/netflix-aumenta-precos/" class="btn btn-primary margemnoticias" aria-label="Ir para a noticia completa sobre a Netiflix">Ver mais</a>
+                </section>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6 margem8" role="article">
+            <section class="corroxa">
+                <figure class="centropagina">
+                    <img class="img img2" src="imagem/noticia2.webp" alt="é uma imagem de uma noticia para representar um personagem de star wars no jogo de starfield">
+                </figure>
+                <div class="centropagina">
+                    <small> Noticia retirada do site do Jovem Nerd.</small>
+                </div>
+                <h4 class="centropagina margemtop2"> Jogador usa mais de 100 mods para transformar <br>Starfield em jogo de Star Wars </h4>
+                <p class="margemnoticias"> Starfield é um jogo eletrônico de RPG espacial, que provocou a mente criativa de muitos fãs de Star Wars, chegando ao ponto de um deles utilizar até 100 mods para deixar o mais fiel possivel. </p>
+                <a target="_blank" href="https://jovemnerd.com.br/noticias/games/starfield-mais-de-100-mods-jogo-de-star-wars" class="btn btn-primary margemnoticias" aria-label="Ir para a noticia completa sobre o Jogador">Ver mais</a>
+            </section>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6 margem8" role="article">
+                <section class="corroxa">
+                    <figure class="centropagina">
+                        <img class="img img2" src="imagem/noticia3.webp" alt="é uma imagem de uma noticia onde tem os personagens Sharkboy e Lavagirl na frente, com os respectivos atores que os fizeram ao fundo">
+                    </figure>
+                    <div class="centropagina">
+                        <small> Noticia retirada do site do Tec Mundo.</small>
+                    </div>
+                    <h4 class="centropagina margemtop2"> Como estão Sharkboy e Lavagirl nos dias <br>de hoje?</h4>
+                    <p class="margemnoticias"> Depois de anos desde sua última aparição nas telas, como estão os atores de Sharkboy e Lavagirl, os icônicos heróis do universo infantil? O que aconteceu com eles desde então? Como estão agora nos dias atuais? Descubra como estão Taylor Lautner e Taylor Dooley hoje em dia.</p>
+                    <a target="_blank" href="https://www.tecmundo.com.br/minha-serie/284494-elenco-aventuras-sharkboy-lavagirl-atualmente.htm" class="btn btn-primary margemnoticias" aria-label="Ir para a noticia completa sobre o Sharkboy e Lavagirl">Ver mais</a>
+                </section>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6 margem8" role="article">
+                <section class="corroxa">
+                    <figure class="centropagina">
+                        <img class="img img2" src="imagem/noticia4.webp" alt="é uma imagem de uma noticia para representar a PerifaCon, com um personagem na frente e atrás tem o banner do evento">
+                    </figure>
+                    <div class="centropagina">
+                        <small> Noticia retirada do site de GZH - Gaucha ZH.</small>
+                    </div>
+                    <h4 class="centropagina margemtop2"> Conheça a PerifaCon, a convenção geek das <br>periferias</h4>
+                    <p class="margemnoticias"> Em um cenário onde a cultura pop muitas vezes é associada a grandes centros urbanos, a PerifaCon surge como um espaço inclusivo e diversificado, que reune fãs de quadrinhos, filmes, jogos, quebrando barreiras e promovendo a cultura geek em comunidades que muitas vezes são negligenciadas. </p>
+                    <a target="_blank" href="https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2021/03/conheca-a-perifacon-a-convencao-geek-das-periferias-ckmp1vfnu004g016un7rznepq.html" class="btn btn-primary margemnoticias" aria-label="Ir para a noticia completa sobre a Perifacon">Ver mais</a>
+                </section>
+            </div>
+        </aside>
+        <a href="#" class="bt" aria-label="Voltar para o topo da pagina"></a>
     </div>
+
+    <?php require "footer.inc.php"; ?>
+
 </body>
 </html>
