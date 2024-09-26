@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Apresentando a CCXP</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <link rel="stylesheet" href="css/estiloccxp.css">
     <link rel="stylesheet" href="css/topo.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
@@ -18,11 +18,8 @@
     <div class="container text-center">
 
         <main>
-        <h1 class="espacotopo">Apresentando a CCXP</h1>
         <article class="text-center article">
-            <header>
-            <h2>Texto de apresentação da CCXP</h2>
-            </header>
+            <h1>Apresentando a CCXP</h1>
             <div class="row">
                 <figure class="col-lg-6 col-sm-12 ccxp">
                     <img src="imagem/ccxp.webp" class="img" alt="Imagem com o nome da CCXP">
@@ -37,15 +34,13 @@
         </article>
         </main>
         <section>
-            <header>
             <h2>Links de acesso para as páginas relacionadas a CCXP</h2>
-            </header>
         <div class="container col-md-12 justify-content-center">
                 <div class="row justify-content-center">
                     <a aria-label="Link para página de artistas da CCXP" role="button" class="col-md-5 col-lg-2 col-sm-12" href="artistas_CCXP.php">
                         <figure class="col-md-6 col-lg-2 imagem">
                             <img class="imagem" src="imagem/artistasccxp.webp"
-                                alt="É uma imagem de apresentação da Artists Valley">
+                                alt="é uma imagem de apresentação da Artists Valley">
                             <figcaption class="figcaption text-center btn btn-primary">
                                 Artistas
                             </figcaption>
@@ -54,7 +49,7 @@
                     <a aria-label="Link para página de eSports da CCXP" role="button" class="col-md-4 col-lg-2 col-sm-12" href="eSports_CCXP.php">
                         <figure class="col-md-6 col-lg-2 col-sm-12 imagem">
                             <img class="imagem" src="imagem/eSportsCCXp.webp"
-                                alt="É uma imagem de apresentação de eSports">
+                                alt="é uma imagem de apresentação de eSports">
                             <figcaption class="figcaption btn btn-primary">
                                 eSports
                             </figcaption>
@@ -64,7 +59,7 @@
                     <a aria-label="Link para página de cosplays da CCXP" role="button" class="col-md-5 col-lg-2 col-sm-12 text-center" href="cosplay_CCXP.php">
                         <figure class="col-md-6 col-lg-2 col-sm-12 imagem">
                             <img class="imagem" src="imagem/cosplayccxp.webp"
-                                alt="É uma imagem de apresentação dos Cosplays">
+                                alt="é uma imagem de apresentação dos Cosplays">
                             <figcaption class="figcaption btn btn-primary">
                                 Cosplays
                             </figcaption>
@@ -73,7 +68,7 @@
                     <a aria-label="Link para página de entrevistas da CCXP" role="button" class="col-md-4 col-lg-2 col-sm-12" href="entrevista_CCXP.php">
                         <figure class="col-md-6 col-lg-2 col-sm-12 imagem">
                             <img class="imagem" src="imagem/entrevistaCCXP.webp"
-                                alt="É uma imagem de apresentação das entrevistas">
+                                alt="é uma imagem de apresentação das entrevistas">
                             <figcaption class="figcaption btn btn-primary">
                                 Entrevistas
                             </figcaption>
@@ -82,7 +77,7 @@
                     <a aria-label="Link para página oficial da CCXP" role="button" class="col-lg-3 col-sm-12" href="https://www.ccxp.com.br/" target="_blank">
                         <figure class="col-sm-12">
                             <img class="novidades" src="imagem/novidadesccxp.jpg"
-                                alt="É uma imagem que mostras várias pessoas em uma seção do evento da CCXP">
+                                alt="link externo que redireciona para a página oficial da CCXP ">
                             <figcaption class="btn btn-primary">
                                 Novidades
                             </figcaption>
