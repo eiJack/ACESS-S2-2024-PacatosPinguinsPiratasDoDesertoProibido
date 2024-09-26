@@ -17,12 +17,22 @@
 <div class="container">
     <article>
         <div class="row">
+        <section class="col-sm-12 col-md-12 col-lg-5">
             <div  class="col-12">
-                <h2 class="centropagina margem31">Quer divulgar seu evento?</h2> <!-- em todos os tamanhos -->
+                <h2 class="centropagina margem31">Quer divulgar seu evento?</h2>
             </div>
-            <div class="col-sm-12 col-md-8 col-lg-8">
+            <div>
                 <p> Você está organizando um evento emocionante e quer garantir que ele receba a atenção que merece? Não procure mais! Nos dos Pinguins Piratas, estamos comprometidos em ajudar a promover os melhores eventos da comunidade geek e nerd. Seja um festival de cosplay, uma convenção de quadrinhos, um torneio de videogames ou qualquer outra celebração da cultura pop, estamos aqui para ajudar a divulgar seu evento para nossa apaixonada e engajada base de fãs. Para isso é só preencher o formulário a seguir, que entraremos em contato para explicar melhor como funciona essa divulgação.</p>
             </div>
+            <div>
+                <form>
+                    <input type="" name="">
+                    <input type="" name="">
+                    <input type="" name="">
+                    <input type="" name="">
+                </form>
+            </div>
+        </section>
         </div>
     </article> 
     <a href="#" class="bt" aria-describedby="Botão para subir até o topo da pagina"></a>
