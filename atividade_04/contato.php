@@ -56,6 +56,35 @@
                  </form>
             </div>
         </section>
+
+        <section class="col-sm-12 col-md-12 col-lg-5">
+                <div>
+                    <h2 class="centropagina margem31">Quer deixar um comentario?</h2>
+                </div>
+                <div>
+                    <p> Você que deu uma passada pelo nosso site, gostou do conteudo e quer deixar algum elogio, sugestão de melhorias ou apenas um comentário, é só preencher o pequeno formulario abaixo com seu nome e seu comentario, que nos veremos.</p>
+                </div>
+                <div>
+                    <form>
+                        <div class="field">
+                            <label>Nome do evento:</label>
+                            <label for="nome">
+                                <input type="text" id="nome" name="nome" placeholder="Digite o seu nome" aria-describedby="Coloque nessa área o seu nome, para sabermos quem deixou o comentario">
+                            </label>
+                        </div>
+                        <div class="field">
+                            <label>Comentario:</label>
+                            <label for="comentario">
+                                <textarea cols="48" rows="8" id="comentario" name="comentario" placeholder="Digite o seu comentario" aria-describedby="Coloque nessa área o seu comentário, opinião ou sugestão sobre nosso site"></textarea>
+                            </label>
+                        </div>
+                        <div class="d-grid gap-2 col-2 mx-auto centropagina margem margem9">
+                            <button type="submit" class="btn btn-primary margem3" aria-label="Enviar respostas do questionario a cima">Enviar</button>
+                        </div>
+                    </form>
+                </div>
+            </section>
+
         </div>
     </article> 
     <a href="#" class="bt" aria-describedby="Botão para subir até o topo da pagina"></a>
