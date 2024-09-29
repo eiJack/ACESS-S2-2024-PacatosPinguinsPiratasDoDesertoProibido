@@ -17,7 +17,7 @@
 <div class="container">
     <article>
         <div class="row">
-        <section class="col-sm-12 col-md-12 col-lg-5">
+        <section class="col-sm-12 col-md-12 col-lg-6">
             <div  class="col-12">
                 <h2 class="centropagina margem31">Quer divulgar seu evento?</h2>
             </div>
@@ -57,7 +57,7 @@
             </div>
         </section>
 
-        <section class="col-sm-12 col-md-12 col-lg-5">
+        <section class="col-sm-12 col-md-12 col-lg-6">
                 <div>
                     <h2 class="centropagina margem31">Quer deixar um comentario?</h2>
                 </div>
