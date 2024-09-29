@@ -47,7 +47,7 @@
                     <div class="field">
                         <label>Email:</label>
                         <label for="email">
-                            <input type="email" id="email" name="email" placeholder="Digite seu email" aria-describedby="Digite um email de contato do responsavel do evento">
+                            <input type="email" id="email" name="email" placeholder="Digite o email do evento" aria-describedby="Digite um email de contato do responsavel do evento">
                         </label>
                     </div>
                     <div class="d-grid gap-2 col-2 mx-auto centropagina margem margem9">
@@ -62,12 +62,12 @@
                     <h2 class="centropagina margem31">Quer deixar um comentario?</h2>
                 </div>
                 <div>
-                    <p> Você que deu uma passada pelo nosso site, gostou do conteudo e quer deixar algum elogio, sugestão de melhorias ou apenas um comentário, é só preencher o pequeno formulario abaixo com seu nome e seu comentario, que nos veremos.</p>
+                    <p> Você que deu uma passada pelo nosso site, gostou do conteudo e quer deixar algum elogio, sugestão de melhorias ou apenas um comentário, é só preencher o pequeno formulario abaixo com seu nome e seu comentario, que nós veremos.</p>
                 </div>
                 <div>
                     <form>
                         <div class="field">
-                            <label>Nome do evento:</label>
+                            <label>Seu nome:</label>
                             <label for="nome">
                                 <input type="text" id="nome" name="nome" placeholder="Digite o seu nome" aria-describedby="Coloque nessa área o seu nome, para sabermos quem deixou o comentario">
                             </label>
