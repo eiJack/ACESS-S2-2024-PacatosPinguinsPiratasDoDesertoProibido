@@ -57,7 +57,46 @@ Porem essa configuração, ao ser lido pelo NVDA que é o leitor de tela, aprese
 </figure>
 Em que adicionei um aria-label para cada link, que permite colocar uma descrição/contextualização mais detalhada de onde esse link realmente leva, facilitando a localização de que pagina o usuario se localiza, ao usar o leitor de telas. Com esse aria-label deixei claro que são links relacionados ao evento Domingo Nerd e não a outro evento ou pagina.
 
-3. Subnavegação Fatecon:
+3. **Subnavegação** das páginas da **Fatecon** e otimização da navegação via leitor de tela da página principal de **Notícias** e das páginas **Artistas** e **Concursos** da Fatecon :
+
+**Subnavegação da Fatecon:**<br> O sub-menu das páginas da Fatecon foram feitos com base no bootstrap então a navegação via leitor de tela está ocorrendo da forma correta, porém a leitura da tela somente com o nome dos links gera uma certa confusão ao saber em qual menu o usuário está, então adicionei um aria-label mais descritivo para que o usuário esteja orientando sobre onde ele realmente está navegando, segue um dos itens como exemplo:<br>
+```
+<a aria-label="Para acessar a página de concursos da Fatecon" class="nav-link active bordapreta" id="fc" href="fconcurso.php#fc">Concursos</a>
+```
+E logo acima foi colocado outro aria-label para indentificar em qual menu o usuário está: 
+```
+<nav aria-label="Sub-Menu de Navegação das Páginas da Fatecon"  class="navbar navbar-expand-lg navbar-expand-md bg-inverse fixed-top margemheader azulescuro d-none d-md-block d-lg-block">
+```
+**Otimização da navegação via leitor de tela da página principal de **Notícias** e das páginas **Artistas** e **Concursos** da Fatecon:**<br>
+Nas três páginas em questão existem imagens com títulos, porém os titulos também estão na descrição da imagem o que torna estas páginas mais **verbosas** e cansativas de se ler através do leitor de tela, então decidi esconder estes títulos para o leitor de tela via **aria-hidden** como descrito no código abaixo como exemplo: 
+```
+<h3 aria-hidden="true" class="tituloimg">Ilustração do Cascão Turma da Mônica</h3>
+```
+Também foi adicionado elementos html a conteúdos do site que poderiam ter uma semântica mais forte com `<header>` e `<footer>`:
+```
+<header>
+<h2 class="fontt">Mushi Indeciso</h2>
+<figure class="figure col-6 imgleft figuremargin">
+<h3 aria-hidden="true" class="textoimg">Retrato Mushi Indeciso</h3> 
+<a href="#"><img class="figure-img img-fluid col-12 imgleft imgspaceside imground" src="imagem/fateconmushiindeciso/fatecona5figura1.webp" alt="Retrato Mushi Indeciso"></a>
+<figcaption class="figure-caption text-right">Fonte: Imagem do Instagram de Mushi Indeciso.</figcaption>
+</figure>
+</header>
+```
+```
+<footer>
+<h3 class="fontd">Redes Sociais: </h3>
+<div class="tag">
+<a class="item" href="https://www.instagram.com/mushi.indeciso/"><i class="bi bi-instagram"></i></a>
+</div>
+</footer>
+```
+Já nas página de Notícias os botões **Ler mais** confundem os usuários de leitores de tela, então adicionei um texto mais descritivo para que eles possam indentifiar melhor sobre o que o botão se trata: <br>
+```
+<a aria-label="Ler mais sobre a notícia 6 jogos RPGs curtos para terminar a campanha em até 20 horas" class="btn btn-primary" href="https://www.tecmundo.com.br/voxel/281995-6-rpgs-curtos-zerar-20-horas.htm">Ler mais</a>
+```
+**Headings:**<br>
+Em relação aos headings no caso destas três páginas em questão, eles foram analisados e não indentifiquei nenhum problema semântico ou de ordem neles.
 
 4. Subnavegação CCXP:
 
