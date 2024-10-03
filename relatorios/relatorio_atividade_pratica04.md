@@ -60,5 +60,19 @@ Em que adicionei um aria-label para cada link, que permite colocar uma descriç�
 3. Subnavegação Fatecon:
 
 4. Subnavegação CCXP:
+   <h1>Atividade 04 - Relatório Acessibilidade</h1>
 
-5. Navegação footer:
+<p>Avaliar e modificar a navegação do projeto existente, incluindo cabeçalhos, links e menus, para torná-la mais acessível a todos os usuários, especialmente aqueles que utilizam tecnologias assistivas.</p><br>
+<p>Antes o código estava escrito de uma maneira menos descritiva, onde o leitor de tela passava pelos botões de navegação e apenas informava que era um link, sem uma descrição detalhada de que exatamente era esse link e para onde ele redirecionava nas páginas</p>
+
+ código antes:
+ <img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/019695841454f0a8a8a2eb787594b47a81d8b51e/atividade_04/ccxp_nav_antes.png">
+
+ <p>Após algumas alterações foram adicionados ao código os elementos de WAI-ARIA, adicionando o elemento "aria-label" onde foi adicionado uma descrição para cada link, detalhando o que era e para onde redirecionava, melhorando a acessibilidade pelo leitor de tela e para pessoas com deficiência visual</p>
+
+ código depois:
+ <img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/019695841454f0a8a8a2eb787594b47a81d8b51e/atividade_04/ccxp_nav_depois.png">
+ 
+
+
+6. Navegação footer:
