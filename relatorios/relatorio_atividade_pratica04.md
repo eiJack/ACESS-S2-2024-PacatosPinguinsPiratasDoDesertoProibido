@@ -101,3 +101,15 @@ Em relação aos headings no caso destas três páginas em questão, eles foram 
 4. Subnavegação CCXP:
 
 5. Navegação footer:
+   
+**Footer:**
+
+Refeito o código do footer utlizando colunas e  @media para que fique semântico.
+Nos links para páginas de contato e normas, utilizei aria-label para descrever que se trata de um link que direciona para outra página.
+Nos ícones para as redes sociais, foi adicionado também aria-label nos links para identificar que se trata de um link que direciona as respectivas redes sociais, como facebook, youtube e instagem. Foi utilizado também o elemento aria-hidden="true" nos ícones para ocultar estas informações para os leitores, mas não visualmente.
+
+Código do footer anterior:
+<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/4e6b5644598fa1c30105aa88adebb28c64c5082f/atividade_04/footer_anterior.jpg">
+
+Código do footer com as alterações:
+<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/4e6b5644598fa1c30105aa88adebb28c64c5082f/atividade_04/footer_novo.jpg">
