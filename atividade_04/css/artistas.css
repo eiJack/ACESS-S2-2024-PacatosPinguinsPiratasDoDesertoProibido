@@ -96,6 +96,15 @@
     height: 100%;
 }
 
+.fixnvdaitem {
+    display: block;
+}
+
+.fixnvdatag {
+    display: flex;
+}
+
+
 @media (min-width: 992px) {
     .bordas {
         padding: 0% 2% 0% 2%;
