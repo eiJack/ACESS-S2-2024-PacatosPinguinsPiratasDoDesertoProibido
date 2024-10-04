@@ -9,14 +9,14 @@ Integrantes:
 
 Email do representante: Jackeline.delima17@gmail.com<br>
 
-Git-Hub ID:
+GitHub ID:
 - AbnerLucass
 - CrystyBarros
 - Gabpires
 - eiJack
 - mateusol9812 <br>
 
-RA:
+R.A.:
 - 2650832323023
 - 2650832323027
 - 2650832323009
