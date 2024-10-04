@@ -126,3 +126,19 @@ Código do footer anterior:
 
 Código do footer com as alterações:
 <img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/4e6b5644598fa1c30105aa88adebb28c64c5082f/atividade_04/footer_novo.jpg">
+
+**6\. Navegação Principal:** 
+
+Para o menu principal onde anteriormente só se encontrava o nome para onde o link seria direcionado como por exemplo Domingo nerd foi colocado para facilitar a navegação um aria-label descrevendo melhor para qual página o link levaria  deixando mais claro a navegação 
+
+Código Anterior: 
+
+<img scr="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/main/relatorios/imagem/Menu_Principal_sem_Aria-Label.png">
+
+Código depois das alterações:
+
+<img scr="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/main/relatorios/imagem/Menu_Principal_com_Aria-Label.png">
+
+**Headings:**
+
+Em relação aos headings não foi encontrado nenhum problema de semântica ou ordem nas páginas analisadas ( Home Fatecon, Jogos e Workshops).
