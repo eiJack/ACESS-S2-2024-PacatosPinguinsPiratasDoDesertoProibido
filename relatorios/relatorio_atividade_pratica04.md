@@ -133,7 +133,7 @@ Para o menu principal onde anteriormente só se encontrava o nome para onde o li
 
 Código Anterior: 
 
-<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/ed9c623c98bb31c451f728af44c74587f827e22b/relatorios/imagem/Menu_Principal_sem_Aria-Label.png">
+<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/4e6b5644598fa1c30105aa88adebb28c64c5082f/atividade_04/Menu_Princiapl_sem_Aria-Label.png">
 
 Código depois das alterações:
 
