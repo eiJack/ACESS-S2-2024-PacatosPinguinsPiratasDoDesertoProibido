@@ -133,11 +133,11 @@ Para o menu principal onde anteriormente só se encontrava o nome para onde o li
 
 Código Anterior: 
 
-<img scr="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/main/relatorios/imagem/Menu_Principal_sem_Aria-Label.png">
+<img scr="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/ed9c623c98bb31c451f728af44c74587f827e22b/relatorios/imagem/Menu_Principal_sem_Aria-Label.png">
 
 Código depois das alterações:
 
-<img scr="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/main/relatorios/imagem/Menu_Principal_com_Aria-Label.png">
+<img scr="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/ed9c623c98bb31c451f728af44c74587f827e22b/relatorios/imagem/Menu_Principal_com_Aria-Label.png">
 
 **Headings:**
 
