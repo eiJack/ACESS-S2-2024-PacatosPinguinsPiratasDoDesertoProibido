@@ -1,9 +1,22 @@
 Descrição da atividade: Avaliar e modificar a navegação do projeto existente, incluindo cabeçalhos, links e menus, para torná-la mais acessível a todos os usuários, especialmente 
 aqueles que utilizam tecnologias assistivas.
 
-1. Navegação principal:
+**1. Navegação principal:**
+Para o menu principal onde anteriormente só se encontrava o nome para onde o link seria direcionado como por exemplo Domingo nerd foi colocado para facilitar a navegação um aria-label descrevendo melhor para qual página o link levaria  deixando mais claro a navegação 
 
-2. Subnavegação Domingo Nerd:
+Código Anterior: 
+
+<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/ed9c623c98bb31c451f728af44c74587f827e22b/relatorios/imagem/Menu_Principal_sem_Aria-Label.png">
+
+Código depois das alterações:
+
+<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/ed9c623c98bb31c451f728af44c74587f827e22b/relatorios/imagem/Menu_Principal_com_Aria-Label.png">
+
+-Headings:
+
+Em relação aos headings não foi encontrado nenhum problema de semântica ou ordem nas páginas analisadas ( Home Fatecon, Jogos e Workshops).
+
+**2. Subnavegação Domingo Nerd:**
 O código inicial que temos é a navegação secundária entre as páginas secundárias da página do evento Domingo Nerd. Essa navegação apresenta como código:
 
 <header>
@@ -55,11 +68,10 @@ Porem essa configuração, ao ser lido pelo NVDA que é o leitor de tela, aprese
 <figure class="centropagina margem3">
     <img src="imagem/include_dn_depois.png" alt="imagem mostrando o código do subnav do Domingo Nerd, depois das alterações">
 </figure>
-Em que adicionei um aria-label para cada link, que permite colocar uma descrição/contextualização mais detalhada de onde esse link realmente leva, facilitando a localização de que pagina o usuario se localiza, ao usar o leitor de telas. Com esse aria-label deixei claro que são links relacionados ao evento Domingo Nerd e não a outro evento ou pagina.
+Em que adicionei um aria-label para cada link, que permite colocar uma descrição/contextualização mais detalhada de onde esse link realmente leva, facilitando a localização de que pagina o usuario se localiza, ao usar o leitor de telas. Com esse aria-label deixei claro que são links relacionados ao evento Domingo Nerd e não a outro evento ou pagina.<br><br>
 
-3. **Subnavegação** das páginas da **Fatecon** e otimização da navegação via leitor de tela da página principal de **Notícias** e das páginas **Artistas** e **Concursos** da Fatecon :
-
-**Subnavegação da Fatecon:**<br> O sub-menu das páginas da Fatecon foram feitos com base no bootstrap então a navegação via leitor de tela está ocorrendo da forma correta, porém a leitura da tela somente com o nome dos links gera uma certa confusão ao saber em qual menu o usuário está, então adicionei um aria-label mais descritivo para que o usuário esteja orientando sobre onde ele realmente está navegando, segue um dos itens como exemplo:<br>
+**3. Subnavegação** das páginas da **Fatecon** e otimização da navegação via leitor de tela da página principal de **Notícias** e das páginas **Artistas** e **Concursos** da Fatecon :<br>
+ O sub-menu das páginas da Fatecon foram feitos com base no bootstrap então a navegação via leitor de tela está ocorrendo da forma correta, porém a leitura da tela somente com o nome dos links gera uma certa confusão ao saber em qual menu o usuário está, então adicionei um aria-label mais descritivo para que o usuário esteja orientando sobre onde ele realmente está navegando, segue um dos itens como exemplo:<br>
 ```
 <a aria-label="Para acessar a página de concursos da Fatecon" class="nav-link active bordapreta" id="fc" href="fconcurso.php#fc">Concursos</a>
 ```
@@ -98,11 +110,10 @@ Já nas página de Notícias os botões **Ler mais** confundem os usuários de l
 **Headings:**<br>
 Em relação aos headings no caso destas três páginas em questão, eles foram analisados e não indentifiquei nenhum problema semântico ou de ordem neles.
 
-4. Subnavegação CCXP:
-<h1>Atividade 04 - Relatório Acessibilidade</h1>
+<br>**4. Subnavegação CCXP:**
 
-<p>Avaliar e modificar a navegação do projeto existente, incluindo cabeçalhos, links e menus, para torná-la mais acessível a todos os usuários, especialmente aqueles que utilizam tecnologias assistivas.</p><br>
-<p>Antes o código estava escrito de uma maneira menos descritiva, onde o leitor de tela passava pelos botões de navegação e apenas informava que era um link, sem uma descrição detalhada de que exatamente era esse link e para onde ele redirecionava nas páginas</p>
+Avaliar e modificar a navegação do projeto existente, incluindo cabeçalhos, links e menus, para torná-la mais acessível a todos os usuários, especialmente aqueles que utilizam tecnologias assistivas.<br>
+Antes o código estava escrito de uma maneira menos descritiva, onde o leitor de tela passava pelos botões de navegação e apenas informava que era um link, sem uma descrição detalhada de que exatamente era esse link e para onde ele redirecionava nas páginas.
 
  código antes:
  <img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/019695841454f0a8a8a2eb787594b47a81d8b51e/atividade_04/ccxp_nav_antes.png">
@@ -113,9 +124,7 @@ Em relação aos headings no caso destas três páginas em questão, eles foram 
  <img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/019695841454f0a8a8a2eb787594b47a81d8b51e/atividade_04/ccxp_nav_depois.png">
 
  
-5. Navegação footer:
-   
-**Footer:**
+**5. Navegação footer:**
 
 Refeito o código do footer utlizando colunas e  @media para que fique semântico.
 Nos links para páginas de contato e normas, utilizei aria-label para descrever que se trata de um link que direciona para outra página.
@@ -129,16 +138,3 @@ Código do footer com as alterações:
 
 **6\. Navegação Principal:** 
 
-Para o menu principal onde anteriormente só se encontrava o nome para onde o link seria direcionado como por exemplo Domingo nerd foi colocado para facilitar a navegação um aria-label descrevendo melhor para qual página o link levaria  deixando mais claro a navegação 
-
-Código Anterior: 
-
-<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/4e6b5644598fa1c30105aa88adebb28c64c5082f/atividade_04/Menu_Princiapl_sem_Aria-Label.png">
-
-Código depois das alterações:
-
-<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/ed9c623c98bb31c451f728af44c74587f827e22b/relatorios/imagem/Menu_Principal_com_Aria-Label.png">
-
-**Headings:**
-
-Em relação aos headings não foi encontrado nenhum problema de semântica ou ordem nas páginas analisadas ( Home Fatecon, Jogos e Workshops).
