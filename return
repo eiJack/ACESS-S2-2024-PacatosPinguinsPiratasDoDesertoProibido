@@ -1,0 +1,747 @@
+[33mcommit 0425f9f7224e9fd5ad1a56e30181ac64cc183301[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sat Oct 5 14:13:02 2024 -0300
+
+    Pondo atividades02,03,04 dentro da pasta trabalhos
+    
+    Colocando as atividades 02,03 e 04 dentro da pasta trabalhos para ficar de acordo com o padrão de diretorio do professor.
+
+[33mcommit ba2cf02f0650074f21eb054465d460a055f74785[m
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Fri Oct 4 18:14:45 2024 -0300
+
+    atualizando o README.md
+    
+    atualizando o readme.md para deixar de acordo com o modelo do professor.
+
+[33mcommit 708fe88c8783fe3baa398b7f76a7fa01fc8bdd86[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Fri Oct 4 14:25:40 2024 -0300
+
+    Update relatorio_atividade_pratica04.md
+
+[33mcommit dd32b0c523b1e19c3ef79402dcb84a18ad344e34[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Fri Oct 4 14:24:12 2024 -0300
+
+    Update relatorio_atividade_pratica04.md
+
+[33mcommit a06ed76b2ba2988a530fa24f3c460214f8c77c53[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Fri Oct 4 14:19:49 2024 -0300
+
+    Alternado os links das imagens
+
+[33mcommit ed9c623c98bb31c451f728af44c74587f827e22b[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Fri Oct 4 14:16:02 2024 -0300
+
+    Atividade 04
+    
+    Adicionando minha parte no relatório da atividade 4
+
+[33mcommit 1b2a61165d34e7bc24b34dcaee93546073f3c8e7[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Fri Oct 4 14:12:47 2024 -0300
+
+    Adicionando imagens do código
+    
+    Adicionado imagens dos códigos antes e depois
+
+[33mcommit a8f1d9f187223cd3664cf3bd708daebd2397cbc7[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Fri Oct 4 14:06:55 2024 -0300
+
+    Imagens dos códigos
+    
+    Adicionando as imagens do antes e depois do código
+
+[33mcommit d469ed551cc942392f41c2d2acb4f0d48d123315[m
+Merge: 5ac244e e8bad96
+Author: Gabpires <149125298+Gabpires@users.noreply.github.com>
+Date:   Thu Oct 3 20:11:24 2024 -0300
+
+    Merge pull request #20 from eiJack/Gab/Cris
+    
+    Gab/cris
+
+[33mcommit e8bad965aa696c5975379cc02a6ff5d5503cf309[m
+Author: Gabpires <149125298+Gabpires@users.noreply.github.com>
+Date:   Thu Oct 3 20:10:22 2024 -0300
+
+    Nav CCXP
+    
+    Adicionando o menu de navegação secundário da CCXP, com as alterações já feitas, com a inclusão dos elementos de acessibilidade WAI-ARIA, como os aria-labels para a melhoria da percepção dos leitores de tela e para a navegação de pessoas deficientes visuais.
+
+[33mcommit 489f22c038aed208cd533a69b332bcce25dc8419[m
+Author: Cristiane Barros <crystybarros@hotmail.com>
+Date:   Thu Oct 3 20:08:11 2024 -0300
+
+    Update footer.inc.php
+    
+    Refeito o footer, onde foi utilizado colunas e @media para deixar mais semântico, também utilizei wai-aria nos ícones das rede sociais e link para outras páginas, com o elemento aria-label, detalhando o qual o direcionamento.
+
+[33mcommit 5ac244e3ec86e2cbb8b94b3be074dd4a8528634e[m
+Author: Gabpires <149125298+Gabpires@users.noreply.github.com>
+Date:   Thu Oct 3 18:35:25 2024 -0300
+
+    Update relatorio_atividade_pratica04.md
+    
+    adicionando relatório de mudanças no código da sub navegação da ccxp.
+
+[33mcommit 90c2c939c566aec8d66cb0ba408def51919c979f[m
+Author: Cristiane Barros <crystybarros@hotmail.com>
+Date:   Thu Oct 3 18:20:21 2024 -0300
+
+    Imagens footer antes e depois
+
+[33mcommit efd7c4740a46790a6cdee59f04e8ac86138fdb60[m
+Author: Cristiane Barros <crystybarros@hotmail.com>
+Date:   Thu Oct 3 18:18:47 2024 -0300
+
+    Update relatorio_atividade_pratica04.md
+    
+    Refeito o footer, deixando semântico e aplicando wai-aria.
+
+[33mcommit deea7c868b95b213468192d8f0e9520015c48a99[m
+Merge: 67aa2d7 99b6e2b
+Author: Cristiane Barros <crystybarros@hotmail.com>
+Date:   Thu Oct 3 18:15:40 2024 -0300
+
+    Merge pull request #17 from eiJack/Mateus-Oliveira
+    
+    Edição e otimização da Subnavegação das páginas da Fatecon e otimização da navegação via leitor de tela da página principal de Notícias e das páginas Artistas e Concursos da Fatecon.
+
+[33mcommit 99b6e2be92126166d6e8858375141d768bc75a63[m[33m ([m[1;32mMateus-Oliveira[m[33m)[m
+Author: Mateus Oliveira <179388557+mateusol9812@users.noreply.github.com>
+Date:   Thu Oct 3 12:32:24 2024 -0300
+
+    [Trabalho 04] Adicionando minha parte do relatório da atividade 4
+
+[33mcommit 7eca88a7ab13fb5aa81860c81523718cb690647b[m
+Merge: 530e14d 67aa2d7
+Author: Mateus Oliveira <179388557+mateusol9812@users.noreply.github.com>
+Date:   Thu Oct 3 11:16:09 2024 -0300
+
+    Merge branch 'main' of github.com:eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido into Mateus-Oliveira
+
+[33mcommit 67aa2d7d47347489805991fe2e9bc8617b600806[m
+Merge: 5edf548 59eefa7
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Wed Oct 2 23:06:09 2024 -0300
+
+    Merge pull request #16 from eiJack/Jackeline
+    
+    Adicionando imagem no relatorio
+
+[33mcommit 59eefa72b4e1a3db7b8fd6befa5da6d33907bd24[m
+Merge: 7b9d4d4 5edf548
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Wed Oct 2 23:04:26 2024 -0300
+
+    Merge pull request #15 from eiJack/main
+    
+    Adicionando pasta de relatorios - Jackeline
+
+[33mcommit 7b9d4d40ca1633e9917caeffa7e927d544a16c7e[m
+Merge: 944b847 f4b136d
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Wed Oct 2 23:03:08 2024 -0300
+
+    Merge branch 'Jackeline' of https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido into Jackeline
+
+[33mcommit 944b8476d00d72832df2dff391aaf18a64a7e4b7[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Wed Oct 2 23:02:43 2024 -0300
+
+    adicionei imagem do código do subnav Domingo Nerd
+    
+    adicionei imagem dos códigos do subnav do Domingo nerd, o antes e depois dele, para ser melhor de vizualizar pelo .MD
+
+[33mcommit 5edf54897f7a430262f87f52c731769a67424ed4[m
+Merge: b4ef92b f4b136d
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Wed Oct 2 22:52:26 2024 -0300
+
+    Adicionando pasta de relatorios - Jackeline
+    
+    Adicionando a pasta de relatorios
+
+[33mcommit f4b136d6630f1d124e7a03e998c341a15e85e55e[m
+Merge: 18430ae b4ef92b
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Wed Oct 2 22:50:15 2024 -0300
+
+    Merge pull request #13 from eiJack/main
+    
+    Merge pull request #10 from eiJack/Jackeline
+
+[33mcommit 18430ae9105633286f0de877e33d4066d0462719[m
+Merge: c5a0664 c302672
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Wed Oct 2 22:48:54 2024 -0300
+
+    Merge branch 'Jackeline' of https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido into Jackeline
+
+[33mcommit c5a0664d6d3beb541e312b913a68b20de0dc301c[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Wed Oct 2 22:48:44 2024 -0300
+
+    adicionando relatorio: Subnavegação Domingo Nerd
+    
+    Apos usar o leitor detelas para escutar a navegação entre links da pagina do Domingo Nerd, verifiquei um problemas na subnavegação então adicionei o relatorio da avaliação e modificaçoes feitas nessa subnavegação; quais melhorias essa modificação proporcional e qual problema a modificação resolveu.
+
+[33mcommit b4ef92b9e4cf7a1f9da5e018ccc8aac01235bd88[m
+Merge: bb04ca8 c302672
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Wed Oct 2 22:19:06 2024 -0300
+
+    Merge pull request #10 from eiJack/Jackeline
+    
+    Jackeline
+
+[33mcommit c3026720bcac09f2adfdb232d6bd9aa6355d21fc[m
+Merge: 37655e4 bb04ca8
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Wed Oct 2 22:16:46 2024 -0300
+
+    Merge pull request #12 from eiJack/main
+    
+    atualizando minha branch com as atualizações do main
+
+[33mcommit 530e14d09dfc6675eb04350fed9597b8d7fe7ca5[m
+Author: Mateus Oliveira <179388557+mateusol9812@users.noreply.github.com>
+Date:   Wed Oct 2 12:30:01 2024 -0300
+
+    [Trabalho 4] Reformulação das páginas Notícias, Artistas da Fatecon e Concursos da Fatecon. Foi realizado a inserção de tags para melhorar a semântica do html e editado e adicionado recursos de acessibilidade do wai-aria para melhorar a acessibilidade.
+
+[33mcommit bb04ca8a1888aa4556417654ab4f6613b4aa5587[m
+Merge: b24beed 237e5d8
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Wed Oct 2 11:13:21 2024 -0300
+
+    Merge pull request #11 from eiJack/Abner_Lucas
+    
+    Abner lucas
+
+[33mcommit 237e5d84f152fef1753bfee86677469d63a74ad5[m[33m ([m[1;32mAbner_Lucas[m[33m)[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Wed Oct 2 11:12:43 2024 -0300
+
+    Adicionando Aria-Label
+    
+    Adicionei uma descrição especifica da função de cada link  no menu principal para uma melhor navegação entre as paginas.
+
+[33mcommit 04a55a0c5c151e8134bc3507c5778f250584cb1a[m
+Merge: 4f3dd79 b24beed
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Wed Oct 2 11:06:48 2024 -0300
+
+    Merge branch 'Abner_Lucas' of https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido into Abner_Lucas
+
+[33mcommit 37655e4ca48ea057985ccc7d94a5dea6700b9740[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 29 21:10:34 2024 -0300
+
+    adicionado aria-label nos links da navegação do Domingo Nerd
+    
+    Adicionei um aria-label nos links da subnavegação da pagina do Domingo Nerd, para deixar mais claro onde cada um deles vai levar o usuario, pois antes estava muito generico.
+    Exemplo: só escutar 'Exposições' pode causar a duvida de onde é essas exposições, de qual parte da pagina e de qual conteudo, por isso especifiquei melhor.
+
+[33mcommit abc2c7a5475ff397023a0f9fe221791dcf3fd9e5[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 29 20:38:01 2024 -0300
+
+    adicionando códigos que faltavam para mim
+    
+    faltavam dois códigos para que eu pudesse dar segmento na atividade atual, então estou adicionando agora para poder faze-lo.
+
+[33mcommit 8bb3b4e3a4255a3976884642bb28552067ee21c0[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 29 20:35:42 2024 -0300
+
+    arrumando o tamanho da col-lg que havia na pagina
+    
+    o tamanho das col-lg (separação das colunas para a pagina em tamanho grande) que arrumavam o tamanho de cada section estavam incorretos, oque fez com que ficassem tortos na pagina, por isso alterei.
+
+[33mcommit 9f6b346a430a99a6b64bb7861ebf8371e5f763d0[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 29 20:33:19 2024 -0300
+
+    arrumando textos escritos incorretamente
+    
+    Dentro dos textos haviam palavras escritas de forma incorreta que ao ser lido pelo leitor de tela causa confusão, então tive que arrumar.
+
+[33mcommit b24beed23dbbbeb78ddb37b944f4bb8eabc1784d[m
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Sun Sep 29 19:54:21 2024 -0300
+
+    Update README.md
+    
+    reformulando a descrição do repositorio, de acordo com o exigido pelo professor.
+
+[33mcommit 3dbc4164362fe4f5b99df26dbe8ecf48079eac57[m[33m ([m[1;33mtag: [m[1;33mtrabalho_02_entregue[m[33m)[m
+Merge: 70c8fb0 1e7213e
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Thu Sep 26 20:23:06 2024 -0300
+
+    Merge pull request #9 from eiJack/Jackeline
+    
+    Jackeline
+
+[33mcommit 1e7213e34b113ff18fb5712eb5ea6aaef35ae31e[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 26 20:20:34 2024 -0300
+
+    Adicionando os códigos da atividade anterior
+    
+    Estou adicionando os códigos dentro da pasta atividade_04, esses codigos são o que eu uso da atividade anterior e que vou usar nessa atividade.
+
+[33mcommit 943e196d56bd8c9b741594e18e40ae19bccefdd5[m[33m ([m[1;33mtag: [m[1;33matividade_03_entregue[m[33m)[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 26 20:15:03 2024 -0300
+
+    trocando nome da pasta ativ.04 para ativ.03
+    
+    estou trocando o nome das pastas pois o nome da pasta é relacionado a entrega de atividades, a atividade 04 foi a entrega 03, então a pasta de entrega deve estar nomeado como atividade_03 e não 04.
+
+[33mcommit 98447eff23b68b405c648abffa71dd39b6c01b6f[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 26 20:13:42 2024 -0300
+
+    trocando nome da pasta ativ.03 para ativ.02
+    
+    estou trocando o nome das pastas pois o nome da pasta é relacionado a entrega de atividades, a atividade 03 foi a entrega 02, então a pasta de entrega deve estar nomeado como atividade_02 e não 03.
+
+[33mcommit 70c8fb0240dda8af8d5332a5e4fb21b277b7a5a3[m
+Merge: 242d488 74fdc0c
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Thu Sep 26 19:50:34 2024 -0300
+
+    Merge pull request #8 from eiJack/Mateus-Oliveira
+    
+    [Trabalho 04] Reanálise e correção da semântica e dos elementos do WA…
+
+[33mcommit 242d4889b9ed291ba3357295eeac367dfc59a57b[m
+Merge: ffaa18e 7229099
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Thu Sep 26 19:49:43 2024 -0300
+
+    Merge pull request #7 from eiJack/Jackeline
+    
+    Jackeline
+
+[33mcommit ffaa18ef66190365dd73fc75bb9e3a35bf5cdced[m
+Author: Gabpires <149125298+Gabpires@users.noreply.github.com>
+Date:   Thu Sep 26 19:43:25 2024 -0300
+
+    Adição dos arquivos includde
+    
+    Adicionando o header, van, subnav e footer que estão em PHP em forma de includde no HTML das páginas.
+
+[33mcommit 7229099bcc1ad306118fb494803b7dc2e622b5d3[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 26 00:04:42 2024 -0300
+
+    adicionando form de comentario
+    
+    adicionei um formulario para os usuarios deixarem comentarios sobre o portal, onde tem um input para colocar o nome e um text area para escrever o comentario.
+
+[33mcommit 84c309ace14b1c3367c17d4b714804cc78648f96[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 26 00:03:00 2024 -0300
+
+    adicionando form de divulgação
+    
+    adicionei o formulario de divulgação que contem inputs para colocar o nome do evento a ser divulgado, local onde ocorre o evento, nome e email do responsavel do evento para entrar em contato futuramente para ter mais dados para a possivel divulgação
+
+[33mcommit b5fa27f0b733397bcdf9c944db5e80c85c4f48fb[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 26 00:00:19 2024 -0300
+
+    colocando o form dentro da section
+    
+    coloquei o formulario de divulgação de eventos dentro de uma section pois vou adicionar outro form que vai estar em outra section.
+    No section de divulgação ja coloquei a delimitação das cols que ele vai ficar e tirei as limitações de col dos elementos dentro do section
+
+[33mcommit 4f3dd795726f874794d993abcf21655482acdeaa[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Mon Sep 23 19:20:21 2024 -0300
+
+    inserindo o restante da pagina com acessibilidade
+    
+    Adicionei o restante da pagina com acessibilidade com todas as noticias nomeadas
+
+[33mcommit 74fdc0cc171db205b0fbafa3142653f860fb905d[m
+Author: Mateus Oliveira <179388557+mateusol9812@users.noreply.github.com>
+Date:   Fri Sep 20 16:46:54 2024 -0300
+
+    [Trabalho 04] Reanálise e correção da semântica e dos elementos do WAI-ARIA da página inicial da CCXP, junto com o teste de acessibilidade via leitor de tela NVDA
+
+[33mcommit c751afe833496637f522557722160d695a2fcc0b[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 19 20:35:45 2024 -0300
+
+    Adicionando texto introdutorio da pagina
+    
+    Estou adicionando o texto que introduz a pagina e qual o seu objetivo(sujeito a alterações)
+
+[33mcommit 5b00dbc5df9e869fc85df71aa4407a76826d18f4[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Thu Sep 19 20:24:30 2024 -0300
+
+    Adicionando o Article na pagina
+    
+    Coloquei todos os Articles novamente com acessibilidade atualizada indicando todas as Divs e todos os links.
+
+[33mcommit dc2da0f4fad1ea502f44f5ee98177455c69b16a5[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 19 20:07:00 2024 -0300
+
+    Apagando o código html para refazer ele
+    
+    Apagando o código para reformular a estrutura junto com o WAI-ARIA.
+
+[33mcommit ff3229d21671e6b77d78bb9d6a53d1bdd9c61c72[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Thu Sep 19 19:51:14 2024 -0300
+
+    Refazendo a Pagina Index
+    
+    Coloquei o Main para definir o conteudo principal e o article para conteudos relacionados ambos indetificados tambem com "role"
+
+[33mcommit ea791a0014fe634e0b51a2f6d98fb0b987dd673d[m[33m ([m[1;33mtag: [m[1;33matividade_04_entregue[m[33m)[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 19 19:22:14 2024 -0300
+
+    Colocando a pasta da atividade 04
+    
+    colocando a pasta da atividade 04 ja com os codigos feitos na atividade anterior (atividade 03), para poder fazer essa atividade
+
+[33mcommit c9c8ee8b7b257b55e13e929e3727e38cb18530cd[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 12 20:19:39 2024 -0300
+
+    colocando a pasta do css
+    
+    faltava colocar a pasta do css
+
+[33mcommit e0c54aea2cd6c12bbc97d29021b510436f66db75[m[33m ([m[1;33mtag: [m[1;33mtrabalho_03_entregue[m[33m)[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 12 20:13:17 2024 -0300
+
+    faltava um html
+    
+    coloquei o ultimo html
+
+[33mcommit a12de771cf110301a143d3e09235452630fd77e1[m
+Merge: 55fb79c 5a06156
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 12 20:11:53 2024 -0300
+
+    Merge branch 'main' of https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido
+
+[33mcommit 55fb79c17b8853851370e03747b4334c57fcbf53[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 12 20:11:29 2024 -0300
+
+    Colocando elementos dentro da pasta atividade 03
+    
+    Colocando elementos dentro da pasta atividade 03 para poder entregar a atividade
+
+[33mcommit 5a061565e31fe41cfe2fd0c79456f07422317d6f[m
+Author: Mateus <179388557+mateusol9812@users.noreply.github.com>
+Date:   Thu Sep 12 20:02:30 2024 -0300
+
+    Update CCXP.php
+
+[33mcommit 44c2c1e95e263396513fcbdbfab39dbb112089e9[m
+Merge: c43170e ae981af
+Author: Cristiane Barros <crystybarros@hotmail.com>
+Date:   Thu Sep 12 20:01:14 2024 -0300
+
+    Merge pull request #3 from eiJack/Gabriel/Cris
+    
+    Gabriel/cris
+
+[33mcommit ae981afcc642ee1b9707fbb4e420959659b40408[m[33m ([m[1;32mGabriel/Cris[m[33m)[m
+Author: Cristiane Barros <crystybarros@hotmail.com>
+Date:   Thu Sep 12 19:36:14 2024 -0300
+
+    Update artistas_CCXP.php
+    
+    Retirado as <roles>, pois estavam com erro na validação (função é desnecessária para o elemento).
+
+[33mcommit c43170e71c063f5ed59ff1c75db491c44d974faa[m
+Merge: a000d8b 4c9aaf5
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Thu Sep 12 19:29:35 2024 -0300
+
+    Merge pull request #1 from eiJack/Jackeline
+    
+    Adicionando a pagina que contem formulário - Jackeline
+
+[33mcommit a000d8b5106f6a60ff1252cdd9b2e76b334a185d[m
+Merge: dc75393 674959c
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Thu Sep 12 19:28:04 2024 -0300
+
+    Merge pull request #2 from eiJack/Mateus-Oliveira
+    
+    Adicionando os recursos do ARIA na página principal da CCXP e corrigi…
+
+[33mcommit dc753932ac54328361a758aec254e0199564d09e[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Thu Sep 12 11:25:34 2024 -0300
+
+    Indicando Links de Navegação
+    
+    Adicionei aria-label para indicar um botão de navegação e a sua função
+
+[33mcommit a2c9fe5ec7ff27724aaebd689122a0f55d8d0e0a[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Thu Sep 12 11:20:33 2024 -0300
+
+    Adicionando role="Article" nas noticias
+    
+    Adicionei role="article" nas noticias para indicar que aquele conteudo pode ser lido separadamente dos demais
+
+[33mcommit fb839b22f7b8f2eaa31293c4cd5cbc9e77f54ffb[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Thu Sep 12 11:17:32 2024 -0300
+
+    Indicando um conteudo complementar
+    
+    Adicionei um role="complementary" para indicar que esse conteudo complementa o conteudo principal da pagina
+
+[33mcommit 9edd386139498f8d2ef2bb4fc5520c48897971c9[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Thu Sep 12 11:08:17 2024 -0300
+
+    Adicionando descrição para os elementos
+    
+    Adicionei o Aria-Label  no botões de navegação para as outras paginas para denominar a função de cada um.
+
+[33mcommit 1ca2b6923e6e35152ed5f2c205cecb2070e5064e[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Thu Sep 12 11:00:56 2024 -0300
+
+    Corrigindo a descrição da imagem da CCXP
+    
+    Fiz a correção da descrição da imagem que estava errada
+
+[33mcommit 448017a5274d695255dc4fdc07a98ba892efacec[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Thu Sep 12 10:59:18 2024 -0300
+
+    Corrigindo a descrição da imagem
+    
+    Corrigindo a descrição da imagem que estava errada
+
+[33mcommit c70b9fd3f5c07e0a5fab3b7fcb13032fb5ee19d3[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Thu Sep 12 10:56:25 2024 -0300
+
+    Indicando conteudos independentes
+    
+    Adicionei role="article" para indicar que cada div dessa possui um conteudo que pode ser lido de forma independente possuindo texto distintos.
+
+[33mcommit 80648db27aa7741af58f7e1030d0e5ce049a42e9[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Thu Sep 12 10:45:40 2024 -0300
+
+    Indicando o conteudo princiapal
+    
+    Coloquei o role="main" para indicar a navegação que ali se inicia o conteudo principal da pagina
+
+[33mcommit 4aa8e1180da12452be0d81ca01534eb9b8d2bcaa[m
+Author: Abner_Lucas <abnerlucas076@gmail.com>
+Date:   Thu Sep 12 10:28:16 2024 -0300
+
+    Melhorando a descrição da Imagem
+    
+    Melhorei a descrição da imagem pois antes estava com uma descrição errada e superficial.
+
+[33mcommit 3a0be0406d5478017721dc6646c3b3b53bc514ca[m
+Author: Gabpires <149125298+Gabpires@users.noreply.github.com>
+Date:   Wed Sep 11 15:42:24 2024 -0300
+
+    Correções feitas conforme validador W3C
+    
+    - realocação do <?php require?> do footer para fora da div com class container, se ajustando ao tamanho que deve ficar na tela;
+    - realocação do <article> com <h1> para fora da tabela, devido a erro no validador;
+    - corrigido erro do role duplicado no elemento <table>, substituindo por um aria-label;
+    - adição de roles e aria-label nos elementos <a>;
+
+[33mcommit 674959c59319586ea5447fcfc39ca07c31313278[m
+Author: Mateus Oliveira <179388557+mateusol9812@users.noreply.github.com>
+Date:   Tue Sep 10 12:41:35 2024 -0300
+
+    Adicionando os recursos do ARIA na página principal da CCXP e corrigindo alguns avisos de semântica, página foi testada com leitor de tela do Windows 11 e está acessível para pessoas com deficiência visual.
+
+[33mcommit 43010fdcbcbd8516e12b1808d57be501d53d51f5[m
+Author: Gabpires <149125298+Gabpires@users.noreply.github.com>
+Date:   Mon Sep 9 11:35:01 2024 -0300
+
+    Fechamento de Div
+    
+    Fechando a <div> com class container após alerta passado pelo validador W3c
+
+[33mcommit cbc014d327670e6453c76dc4e03d2908f2027e45[m
+Author: Gabpires <149125298+Gabpires@users.noreply.github.com>
+Date:   Mon Sep 9 10:59:58 2024 -0300
+
+    Centralizando botões da página
+    
+    Adição do elemento bootstrap "text-center" no elemento HTML <td> para centralizar os botões que redirecionam as fontes.
+
+[33mcommit 4c9aaf5873cfeb138a219ff39049ca296f7f99f1[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 8 23:10:34 2024 -0300
+
+    É aria e não area
+    
+    escrevi o nome do elemento errado, por isso arrumei agora
+
+[33mcommit 5aa5c7b42af1945c1d430a66b1442183f6da4d2e[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 8 23:09:34 2024 -0300
+
+    botão de subir a pagina ao topo
+    
+    Colocando descrição no botão que leva a pessoa de uma parte da pagina até o topo da mesma pagina (necessário para casos onde o conteudo é muito extenso)
+
+[33mcommit 4661dbdfad0e9f6dcca28f0e33f9d10971e96cd9[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 8 23:03:03 2024 -0300
+
+    notação no role
+    
+    a notação para formulario estava errada, aqui eu arrumo ela para a forma correta
+
+[33mcommit 6bec23473dd619905a4b7425a3c231fd0d370c34[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 8 23:01:32 2024 -0300
+
+    colocando o elemento main
+    
+    deixando claro onde com o main é o conteudo principal da pagina, mesmo que tenha pouco conteudo na pagina
+
+[33mcommit f2e6424676e02a8e7d7cd6f806d1de3e5034bd1c[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 8 22:59:03 2024 -0300
+
+    melhorando descrição de imagem
+    
+    deixei a descrição da unica imagem no conteudo do site (sem ser no cabeçalho ou rodapé) melhor e mais detalhada, pois antes ela estava muito rasa dizendo que era uma segunda logo do site e se descrição nenhuma
+
+[33mcommit 23d3977c3e6266fdd60309db9d025e25e3f265ec[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 8 22:54:17 2024 -0300
+
+    adicionando area-describedby
+    
+    adicionando esse elemento para o leitor de tela conseguir informar que nessas áreas precisa colocar algumas informações para poder ser enviado o formulario de divulgação
+
+[33mcommit 7c9d21d92da091786fa319e77dd54b5409aaed93[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 8 22:50:57 2024 -0300
+
+    adicionando role
+    
+    adicionei role para identificar que a area dentro do form é um formulário para preenchimento
+
+[33mcommit 9ca28bb078e797f0bdc5b9375a1f363117dafc60[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 8 22:43:19 2024 -0300
+
+    adicionando aria-label no button
+    
+    Adicionando o aria-label no botão para deixar visivel para leitores de tela que ele é um botão para enviar a respostas do questionário a cima dele
+
+[33mcommit 34ff6111935deeeab97170a149b362d0c7f2c1e8[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Sun Sep 8 22:31:30 2024 -0300
+
+    adicionando questionário
+    
+    na pagina de contatos já tinhamos uma área que continha um formulario para contato caso quem for ler queira entrar em contato para avisar de algum evento para divulgação.
+    Por isso para a atividade que o professor passou na aula do dia 05/09, ela esta sendo adicionada e eu vou editar oque precisa arrumar nela
+
+[33mcommit d7c72d623e94d7cc9f97a6fce8de0b3a2ab5783c[m
+Author: Cristiane Barros <crystybarros@hotmail.com>
+Date:   Sun Sep 8 18:51:17 2024 -0300
+
+    Página artistas_CCXP
+    
+    Alteração da página artistas_CCXP para tabelas, ondo o título está em uma linha e o conteúdo em três colunas e duas linhas.
+
+[33mcommit 048aa2fcf1a81ca42fc6747ace4f17107ab54c20[m
+Author: Gabpires <149125298+Gabpires@users.noreply.github.com>
+Date:   Sun Sep 8 18:36:58 2024 -0300
+
+    Página artistas CCXP
+    
+    Adição da página artistas da CCXP.
+
+[33mcommit 68a888f0265bc04a103418fa67bf91ab162797d3[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Sep 5 20:20:53 2024 -0300
+
+    Adicionando a pagina de formulario
+    
+    Estou adicionando a pagina que tem o formulário
+
+[33mcommit f44fe0e34dc44b4dd2a31cebda00f79fc0049122[m[33m ([m[1;33mtag: [m[1;33matividade02_entregue[m[33m)[m
+Author: Gabpires <149125298+Gabpires@users.noreply.github.com>
+Date:   Thu Aug 29 20:26:18 2024 -0300
+
+    correção de sintaxe
+    
+    corrigido a sintaxe da <section>, que anteriomente estava <section/>.
+
+[33mcommit f00391581d916df554aa7dd2010b3580c2c7e040[m
+Author: Gabpires <149125298+Gabpires@users.noreply.github.com>
+Date:   Thu Aug 29 20:24:52 2024 -0300
+
+    definição da sessão secundária de navegação
+    
+    Adicionado a <section> que define a sessão de navegação secundária das páginas da CCXP.
+
+[33mcommit 2a837057b0f1e2d50902678b971da0c3a9c7750e[m
+Author: Gabpires <149125298+Gabpires@users.noreply.github.com>
+Date:   Thu Aug 29 20:20:16 2024 -0300
+
+    adição da página da CCXP
+    
+    Adição da página da CCXP, com algumas alterações feitas por mim, como a definição do conteúdo principal com o <main> e a remoção de um <H2> que estava ali sem necessidade, passado no validador.
+
+[33mcommit 9a65ec5805448f8302f1bb916c4ac0b3e4667bd3[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Aug 29 20:12:35 2024 -0300
+
+    Pagina Home
+    
+    Adicionando a pagina home, com as alterações pedidas na atividade 02 já feitas por mim
+
+[33mcommit b3e1314734b22d3355d4d2fba2309d343a5de133[m
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Thu Aug 29 20:10:09 2024 -0300
+
+    Update README.md
+    
+    Git ID de dois membros estava errado, tive que arrumar
+
+[33mcommit 3d05094756b5760a1e83ddcdeceda8e8b9a9dd70[m
+Author: Jackeline de Paula <jackeline.delima17@gmail.com>
+Date:   Thu Aug 29 20:07:19 2024 -0300
+
+    Update README.md
+    
+    Adicionando a descrição que esta nas instruções do professor
+
+[33mcommit 974d8f38a04c328606cae1a85bbf7dec471af6f4[m
+Author: Jackeline <jackeline.delima17@gmail.com>
+Date:   Thu Aug 29 19:53:17 2024 -0300
+
+    Initial commit
