@@ -31,7 +31,7 @@
                             </header>
                             <div class="row">
                                 <div class="col-lg-6">
-                                    <section class="elemento">
+                                    <section class="elemento" role="Article">
                                         <h2 class="titulo">Concursos</h2>
                                         <figure class="imagem">
                                             <img src="imagem/concursos.webp" alt="Imagem sobre Concursos de desenhos e cosplay">
@@ -42,7 +42,7 @@
                                     </section>
                                 </div>
                                 <div class="col-lg-6">
-                                    <section class="elemento">
+                                    <section class="elemento" role="Article">
                                         <h2 class="titulo">Artistas</h2>
                                         <figure class="imagem">
                                             <img src="imagem/artistas.jpg" alt="Imagem sobre uma artista pintando um muro">
@@ -53,7 +53,7 @@
                                     </section>
                                 </div>
                                 <div class="col-lg-6">      
-                                    <section class="elemento">            
+                                    <section class="elemento" role="Article">            
                                         <h2 class="titulo">Jogos</h2>
                                         <figure class="imagem">
                                             <img src="imagem/Jogos1.webp" alt="Imagem de uma sala de jogos com diversos jogos e pessoas jogando">
@@ -64,7 +64,7 @@
                                     </section>
                                 </div>
                                 <div class="col-lg-6">    
-                                    <section class="elemento">
+                                    <section class="elemento" role="Article">
                                         <h2 class="titulo">Workshop</h2>
                                         <figure class="imagem">
                                             <img src="imagem/workshop.webp" alt="Imagem sobre uma feira de tecnologia">
