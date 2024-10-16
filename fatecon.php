@@ -18,13 +18,12 @@
 
         <div class="container">
             <div class="row align-items-end">
-                
                 <div class="row">
                     <div class="col-12">
                         <main>
                             <header>
                                 <figure class="imagem2 text-center">
-                                    <img class="img-fluid" src="imagem/Fatecon.webp" alt="Imagem">
+                                    <img class="img-fluid" src="imagem/Fatecon.webp" alt="Logo da Fatecon Apresentando o Nome FateconHqs e o mascote do evento um menino de cabelo azul com uma mochila a jato">
                                 </figure>
                                 <h2>Fatecon</h2>
                                 <p class="texto">A Fatecon é um evento voltado para quadrinhos também trazendo o melhor da cultura Geek e Nerd. Com diversas atrações como um beco de artistas, concurso de cosplays e jogos de tabuleiro a Fatecon vem para apresentar e divulgar esse universo com diversos artistas regionais e de todo o Brasil apresentando seus trabalhos e interagindo com o público. 
@@ -35,7 +34,7 @@
                                     <section class="elemento">
                                         <h2 class="titulo">Concursos</h2>
                                         <figure class="imagem">
-                                            <img src="imagem/concursos.webp" alt="Imagem sobre o Jogo">
+                                            <img src="imagem/concursos.webp" alt="Imagem sobre Concursos de desenhos e cosplay">
                                         </figure>
                                         <p class="texto">A FATECon realiza concursos em todas suas edições, acesse a página concursos para ver os concursos que foram realizados anteriormente e seus ganhadores.
                                         </p> 
@@ -46,7 +45,7 @@
                                     <section class="elemento">
                                         <h2 class="titulo">Artistas</h2>
                                         <figure class="imagem">
-                                            <img src="imagem/artistas.jpg" alt="Imagem sobre o Jogo">
+                                            <img src="imagem/artistas.jpg" alt="Imagem sobre uma artista pintando um muro">
                                         </figure>
                                         <p class="texto">Ao acessar a página Artistas você poderá ver uma seção de artistas que já visitaram a FATECon e um pouco sobre seus trabalhos.
                                         </p> 
@@ -57,7 +56,7 @@
                                     <section class="elemento">            
                                         <h2 class="titulo">Jogos</h2>
                                         <figure class="imagem">
-                                            <img src="imagem/Jogos1.webp" alt="Imagem sobre o Jogo">
+                                            <img src="imagem/Jogos1.webp" alt="Imagem de uma sala de jogos com diversos jogos e pessoas jogando">
                                         </figure>
                                         <p class="texto">Com diversas temáticas, os Jogos da Fatecon apresentam ao público Jogos específicos e empolgantes, trazendo a oportunidade de conhecer novos mundos e conhecer pessoas novas.  
                                         </p>    
@@ -68,7 +67,7 @@
                                     <section class="elemento">
                                         <h2 class="titulo">Workshop</h2>
                                         <figure class="imagem">
-                                            <img src="imagem/workshop.webp" alt="Imagem sobre o Jogo">
+                                            <img src="imagem/workshop.webp" alt="Imagem sobre uma feira de tecnologia">
                                         </figure>
                                         <p class="texto">
                                         Trazendo conhecimento e diversidade para a Fatecon, os Workshops ministrados trouxeram cultura e aprendizado para os participantes, visando adquirir mais experiências e conhecimento.
