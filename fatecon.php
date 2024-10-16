@@ -38,7 +38,7 @@
                                         </figure>
                                         <p class="texto">A FATECon realiza concursos em todas suas edições, acesse a página concursos para ver os concursos que foram realizados anteriormente e seus ganhadores.
                                         </p> 
-                                        <a href="fconcurso.php" class="btn btn-primary">Ver mais</a>                         
+                                        <a href="fconcurso.php" class="btn btn-primary" aria-label="Ir para pagina de Concursos">Ver mais</a>                         
                                     </section>
                                 </div>
                                 <div class="col-lg-6">
@@ -49,7 +49,7 @@
                                         </figure>
                                         <p class="texto">Ao acessar a página Artistas você poderá ver uma seção de artistas que já visitaram a FATECon e um pouco sobre seus trabalhos.
                                         </p> 
-                                        <a href="fartistas.php" class="btn btn-primary">Ver mais</a>                                        
+                                        <a href="fartistas.php" class="btn btn-primary" aria-label="Ir para pagina de Artistas">Ver mais</a>                                        
                                     </section>
                                 </div>
                                 <div class="col-lg-6">      
@@ -60,7 +60,7 @@
                                         </figure>
                                         <p class="texto">Com diversas temáticas, os Jogos da Fatecon apresentam ao público Jogos específicos e empolgantes, trazendo a oportunidade de conhecer novos mundos e conhecer pessoas novas.  
                                         </p>    
-                                        <a href="fateconjogos.php" class="btn btn-primary">Ver mais</a>                   
+                                        <a href="fateconjogos.php" class="btn btn-primary" aria-label="Ir para pagina de Jogos">Ver mais</a>                   
                                     </section>
                                 </div>
                                 <div class="col-lg-6">    
@@ -72,7 +72,7 @@
                                         <p class="texto">
                                         Trazendo conhecimento e diversidade para a Fatecon, os Workshops ministrados trouxeram cultura e aprendizado para os participantes, visando adquirir mais experiências e conhecimento.
                                         </p>
-                                        <a href="fateconworkshops.php" class="btn btn-primary">Ver mais</a>                       
+                                        <a href="fateconworkshops.php" class="btn btn-primary" aria-label="Ir para pagina de Workshops">Ver mais</a>                       
                                     </section>
                                 </div>  
                             </div>    
