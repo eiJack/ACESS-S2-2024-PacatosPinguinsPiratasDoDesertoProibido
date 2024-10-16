@@ -23,4 +23,4 @@ R.A.:
 - 2650832323016
 - 2650832323011
 
-Descrição do trabalho: Atividade Prática 04 - Crianção de cabeçalhos, links e menus acessiveis.
+Descrição do trabalho: Atividade Prática 06: Checklist para o portal sobre Histórias em Quadrinhos
