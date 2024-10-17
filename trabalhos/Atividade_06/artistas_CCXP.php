@@ -4,8 +4,14 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="Pacatos Pinguins Piratas do Deserto Proibido">
-    <meta name="description" content="Algumas notícias do evento da CCXP.">
+    <meta name="description" content="Pacatos Pinguins Piratas - Artists' Valley by Bis na CCXP.">
+	<meta name="author" content="Pacatos Pinguins Piratas">
+	<meta property="og:title" content="Pacatos Pinguins Piratas - Artists' Valley by Bis na CCXP.">
+	<meta property="og:description" content="Artists' Valley by Bis na CCXP.">
+	<meta property="og:type" content="website">
+	<meta property="og:locale" content="pt_BR">
+	<meta name="twitter:title" content="Pacatos Pinguins Piratas - Artists' Valley by Bis na CCXP.">
+	<meta name="twitter:description" content="Artists' Valley by Bis na CCXP.">
     <title>Artistas CCXP</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <link rel="stylesheet" href="css/estiloccxp.css">
