@@ -4,6 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Pacatos Pinguins Piratas do Deserto Proibido">
+    <meta name="description" content="Algumas informações sobre o evento da CCXP.">
     <title>Apresentando a CCXP</title>
     <link rel="stylesheet" href="css/estiloccxp.css">
     <link rel="stylesheet" href="css/topo.css">
@@ -16,7 +18,6 @@
     <?php require "header.inc.php"; ?>
     <?php require "ccxp.nav.inc.php"; ?>
     <div class="container text-center">
-
         <main>
             <section>
                 <h1 class="espacotopo">Apresentando a CCXP</h1>
