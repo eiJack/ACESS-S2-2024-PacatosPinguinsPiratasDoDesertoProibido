@@ -28,10 +28,11 @@
                 <h1 class="h1">Artists' Valley by Bis</h1>
             </article>
          
-   <table class="espaco" aria-label="tabela de artistas da CCXP">
+   <table class="espaco" aria-label="tabela de artistas da CCXP" style="border-spacing:20px;">
      
         <tr>
             <td class= "celula text-center">
+		     <div  class="galeria">
                 <figure class="text-center">
                         <img src="imagem/gabrielpicolo_ccxp.webp" alt="é uma imagem do artista Gabriel Picolo">
                         <figcaption class="figure-caption">Gabriel Picolo</figcaption>
@@ -42,9 +43,11 @@
                         mundial, por ter em suas obras uma forte narrativa e cores atmosféricas, sendo as suas
                         principais a série “Icarus and the Sun” e por uma série de quadrinhos dos jovens titãs, entre
                         elas “Teen Titans: Beast Boy” e “Teen Titans: Beast Boy Loves Raven”.</p>
+			      </div>
             </td>
 
             <td class= "celula text-center">
+		      <div  class="galeria">
                 <figure class="text-center">
                         <img src="imagem/ilustralu_ccxp.webp" alt="é uma imagem da artista ilustralu">
                         <figcaption class="figure-caption">Luiza de Souza (Ilustralu)</figcaption>
@@ -56,9 +59,11 @@
                         dos quais abordam temas relacionados ao cotidiano e relacionamento. Ela é autora da Obra
                         Arlindo, que retrata um garoto cheio de sonhos e vontade de encontrar seu lugar no mundo, sendo
                         essa vencedora do CCXP awards de 2022 na categoria Melhor quadrinho.</p>
+			       </div> 
             </td>
 
             <td class= "celula text-center">
+		      <div  class="galeria">
                 <figure class="text-center">
                         <img src="imagem/marcelocampos_ccxp.webp" alt="é uma imagem do artista Marcelo Campos">
                         <figcaption class="figure-caption">Marcelo Campos</figcaption>
@@ -69,11 +74,13 @@
                         atuação no mercado nacional, com seu personagem destaque o “Quebra-queixo”, também teve atuação
                         nos Estados Unidos, em 1989, com obras para editoras como a Malibu Publishing, além de títulos
                         renomados como Lanterna Verde, Liga da Justiça e outros títulos da DC comics.</p>
+			       </div> 
             </td>
         </tr>
         <tr>
             
             <td class= "celula text-center">
+		      <div  class="galeria">
                 <figure class="text-center">
                         <img src="imagem/mongehan_ccxp.webp" alt="é uma imagem do artista Monge Han">
                         <figcaption class="figure-caption">Monge Han</figcaption>
@@ -85,9 +92,11 @@
                         questões existências, humor e webcomics ficionais. Entre suas principais obras temos “Vozes
                         Amarelas”, que aborda referências à realidade das pessoas amarelas no Brasil, trazendo reflexões
                         sobre preconceito, identidade, ancestralidade e respeito.</p>
+			       </div> 
             </td>
 
             <td class= "celula text-center">
+		      <div  class="galeria">
                 <figure class="text-center">
                         <img src="imagem/ceciliamarins_ccxp.webp" alt="é uma imagem da artista Cecilia Marins">
                         <figcaption class="figure-caption">Cecilia Marins</figcaption>
@@ -97,9 +106,11 @@
                         a HQ “Parques das Luzes”, que retrata histórias de mulheres que estão em situação de
                         prostituição em um dos parques mais antigos de São Paulo, além de ser uma das ilustradoras do
                         AmarElo, documentário do Emicida para a Netflix, sendo indicado a um Emmy internacional.</p>
+			       </div> 
             </td>
 
             <td class= "celula text-center">
+		      <div  class="galeria">
                 <figure class="text-center">
                         <img src="imagem/helodangelo_ccxp.webp" alt="é uma imagem da artista Helô D'Angelo">
                         <figcaption class="figure-caption">Helô D'Angelo</figcaption>
@@ -110,6 +121,7 @@
                         obras essas que lhe garantiram diversas premiações, dentre elas a HQ MIX do qual foi finalista e
                         do CCXP Awards em 2021. O principal foco em seus trabalhos são tiras e charges com temas
                         voltados a política, direitos humanos, cotidiano e saúde mental.</p>
+			       </div> 
             </td>
         </tr>
 
