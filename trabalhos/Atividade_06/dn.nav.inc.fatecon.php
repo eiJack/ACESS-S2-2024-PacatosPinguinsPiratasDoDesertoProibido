@@ -6,16 +6,16 @@
                     <div class="collapse navbar-collapse justify-content-center negrito" id="navbarNavDropdown">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                              <a aria-label="Para acessar a página de concursos da Fatecon" class="nav-link active bordapreta" id="fc" href="fconcurso.php#fc">Concursos</a>
+                              <a aria-label="Para acessar a página de concursos da Fatecon" class="nav-link active bordapreta link-light" id="fc" href="fconcurso.php#fc">Concursos</a>
                             </li>
                             <li class="nav-item">
-                              <a aria-label="Para acessar a página de artistas da Fatecon" class="nav-link active bordapreta" id="fa" href="fartistas.php#fa">Artistas</a>
+                              <a aria-label="Para acessar a página de artistas da Fatecon" class="nav-link active bordapreta link-light" id="fa" href="fartistas.php#fa">Artistas</a>
                             </li>
                             <li class="nav-item">
-                              <a aria-label="Para acessar a página de jogos da Fatecon" class="nav-link active bordapreta" id="fj" href="fateconjogos.php#fj">Jogos</a>
+                              <a aria-label="Para acessar a página de jogos da Fatecon" class="nav-link active bordapreta link-light" id="fj" href="fateconjogos.php#fj">Jogos</a>
                             </li>
                             <li class="nav-item">
-                              <a aria-label="Para acessar a página de workshops da Fatecon" class="nav-link active bordapreta" id="fw" href="fateconworkshops.php#fw">Workshops</a>
+                              <a aria-label="Para acessar a página de workshops da Fatecon" class="nav-link active bordapreta link-light" id="fw" href="fateconworkshops.php#fw">Workshops</a>
                             </li>
                         </ul>
                     </div>

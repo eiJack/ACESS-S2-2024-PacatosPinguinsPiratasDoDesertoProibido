@@ -3,6 +3,14 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Pacatos Pinguins Piratas - Principais artistas que participaram da Fatecon.">
+	<meta name="author" content="Pacatos Pinguins Piratas">
+	<meta property="og:title" content="Pacatos Pinguins Piratas - Principais artistas que participaram da Fatecon.">
+	<meta property="og:description" content="Principais artistas que participaram da Fatecon.">
+	<meta property="og:type" content="website">
+	<meta property="og:locale" content="pt_BR">
+	<meta name="twitter:title" content="Pacatos Pinguins Piratas - Principais artistas que participaram da Fatecon.">
+	<meta name="twitter:description" content="Principais artistas que participaram da Fatecon.">
 	<title>Artistas FATECon</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -74,9 +82,9 @@
                         <footer>
                         <h3 class="fontd">Redes Sociais: </h3>
                         <div class="fixnvdatag">
-                        <a class="fixnvdaitem" href="https://www.instagram.com/grazidiffonso/"><i role="img" aria-label="Acesso ao Instagram da Grazzi Diffonso." class="bi bi-instagram"></i></a>
-                        <a class="fixnvdaitem" href="https://grazidiffonso.com/"><i role="img" aria-label="Acesso ao Site da Grazzi Diffonso." class="bi bi-globe-americas"></i></a>
-                        <a class="fixnvdaitem" href="https://www.linkedin.com/in/grazidiffonso/"><i role="img" aria-label="Acesso ao LinkedIn da Grazzi Diffonso." class="bi bi-linkedin"></i></a>
+                        <a class="fixnvdaitem" aria-label="Acesso ao Instagram da Grazzi Diffonso." href="https://www.instagram.com/grazidiffonso/"><i aria-hidden="true"  class="bi bi-instagram"></i></a>
+                        <a class="fixnvdaitem" aria-label="Acesso ao Site da Grazzi Diffonso." href="https://grazidiffonso.com/"><i aria-hidden="true"  class="bi bi-globe-americas"></i></a>
+                        <a class="fixnvdaitem" aria-label="Acesso ao LinkedIn da Grazzi Diffonso." href="https://www.linkedin.com/in/grazidiffonso/"><i aria-hidden="true"  class="bi bi-linkedin"></i></a>
                         </div>
                         </footer>
                         </div>
@@ -133,8 +141,8 @@
                         <footer>
                         <h3 class="fontd">Redes Sociais: </h3>
                         <div class="fixnvdatag">
-                        <a class="fixnvdaitem" href="https://www.instagram.com/guilherme.infante/"><i class="bi bi-instagram"></i></a>
-                        <a class="fixnvdaitem" href="https://www.facebook.com/Capirotinho/"><i class="bi bi-facebook"></i></a>
+                        <a class="fixnvdaitem" aria-label="Instagram Guilherme Infante" href="https://www.instagram.com/guilherme.infante/"><i aria-hidden="true" class="bi bi-instagram"></i></a>
+                        <a class="fixnvdaitem" aria-label="Facebook Capirotinho" href="https://www.facebook.com/Capirotinho/"><i aria-hidden="true" class="bi bi-facebook"></i></a>
                         </div>
                         </footer>
                     </div>
@@ -192,7 +200,7 @@
                         <footer>
                         <h3 class="fontd">Redes Sociais: </h3>
                         <div class="fixnvdatag">
-                        <a class="fixnvdaitem" href="https://www.instagram.com/marcosvenceslau21/"><i class="bi bi-instagram"></i></a>
+                        <a class="fixnvdaitem" aria-label="Instagram Marcos Venceslau" href="https://www.instagram.com/marcosvenceslau21/"><i aria-hidden="true" class="bi bi-instagram"></i></a>
                         </div>
                         </footer>
                         </div>
@@ -246,8 +254,8 @@
                         <footer>
                         <h3 class="fontd">Redes Sociais: </h3>
                         <div class="fixnvdatag">
-                        <a class="fixnvdaitem" href="https://www.instagram.com/melmeowart/"><i class="bi bi-instagram"></i></a>
-                        <a class="fixnvdaitem" href="https://mel-meow.com/"><i class="bi bi-globe-americas"></i></a>
+                        <a class="fixnvdaitem" aria-label="Instagram Mel Meow" href="https://www.instagram.com/melmeowart/"><i aria-hidden="true" class="bi bi-instagram"></i></a>
+                        <a class="fixnvdaitem" aria-label="Site da Mel Meow" href="https://mel-meow.com/"><i aria-hidden="true" class="bi bi-globe-americas"></i></a>
                         </div>
                         </footer>
                         </div>
@@ -301,7 +309,7 @@
                         <footer>
                         <h3 class="fontd">Redes Sociais: </h3>
                         <div class="fixnvdatag">
-                        <a class="fixnvdaitem" href="https://www.instagram.com/mushi.indeciso/"><i class="bi bi-instagram"></i></a>
+                        <a class="fixnvdaitem" aria-label="Instagram Mushi Indeciso" href="https://www.instagram.com/mushi.indeciso/"><i aria-hidden="true" class="bi bi-instagram"></i></a>
                         </div>
                         </footer>
                     </div>
@@ -358,7 +366,7 @@
                         <footer>
                         <h3 class="fontd">Redes Sociais: </h3>
                         <div class="fixnvdatag">
-                        <a class="fixnvdaitem" href="https://www.instagram.com/samrahart/"><i class="bi bi-instagram"></i></a>
+                        <a class="fixnvdaitem" aria-label="Instagram Sam Hart" href="https://www.instagram.com/samrahart/"><i aria-hidden="true" class="bi bi-instagram"></i></a>
                         </div>
                         </footer>
                     </div>
@@ -368,7 +376,7 @@
                 </div>
             </div>
         </div>
-        <a aria-hidden="true" href="#" class="bt"></a>
+        <a tabindex="-1" aria-hidden="true" href="#" class="bt"></a>
 
         </main>
 
