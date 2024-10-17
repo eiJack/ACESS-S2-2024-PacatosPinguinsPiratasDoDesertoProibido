@@ -27,28 +27,20 @@
             <div>
                 <form class="margem formulario" action="questionario.php" method="post" role="form">
                     <div class="field">
-                        <label>Nome do evento:</label>
-                        <label for="nome">
-                            <input type="text" id="NomeDoEvento" name="NomeDoEvento" placeholder="Digite o nome do evento" aria-describedby="Coloque nessa área o nome do evento para divulgação">
-                        </label>
+                        <label for="NomeDoEvento">Nome do evento:</label>
+                        <input type="text" id="NomeDoEvento" name="NomeDoEvento" placeholder="Digite o nome do evento" aria-describedby="Coloque nessa área o nome do evento para divulgação">
                     </div>
                     <div class="field">
-                        <label>Cidade em que ocorre:</label>
-                        <label for="cidade">
-                            <input type="text" id="cidade" name="cidade" placeholder="Digite a cidade" aria-describedby="Coloque nessa área o nome da cidade onde ocorre o evento">
-                        </label>
+                        <label for="cidade">Cidade em que ocorre:</label>
+                        <input type="text" id="cidade" name="cidade" placeholder="Digite a cidade" aria-describedby="Coloque nessa área o nome da cidade onde ocorre o evento">
                     </div>
                     <div class="field">
-                        <label>Responsável pelo evento:</label>
-                        <label for="responsavel">
-                            <input type="text" id="responsavel" name="responsavel" placeholder="Digite o nome do resposavel" aria-describedby="Coloque nessa área o nome do responsavel do evento">
-                        </label>
+                        <label for="responsavel">Responsável pelo evento:</label>
+                        <input type="text" id="responsavel" name="responsavel" placeholder="Digite o nome do resposavel" aria-describedby="Coloque nessa área o nome do responsavel do evento">
                     </div>
                     <div class="field">
-                        <label>Email:</label>
-                        <label for="email">
-                            <input type="email" id="email" name="email" placeholder="Digite o email do evento" aria-describedby="Digite um email de contato do responsavel do evento">
-                        </label>
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" placeholder="Digite o email do evento" aria-describedby="Digite um email de contato do responsavel do evento">
                     </div>
                     <div class="d-grid gap-2 col-2 mx-auto centropagina margem margem9">
                         <button type="submit" class="btn btn-primary margem3" aria-label="Enviar respostas do questionario a cima">Enviar</button>
@@ -67,16 +59,12 @@
                 <div>
                     <form>
                         <div class="field">
-                            <label>Seu nome:</label>
-                            <label for="nome">
-                                <input type="text" id="nome" name="nome" placeholder="Digite o seu nome" aria-describedby="Coloque nessa área o seu nome, para sabermos quem deixou o comentario">
-                            </label>
+                            <label for="nome">Seu nome:</label>
+                            <input type="text" id="nome" name="nome" placeholder="Digite o seu nome" aria-describedby="Coloque nessa área o seu nome, para sabermos quem deixou o comentario">
                         </div>
                         <div class="field">
-                            <label>Comentario:</label>
-                            <label for="comentario">
-                                <textarea cols="48" rows="8" id="comentario" name="comentario" placeholder="Digite o seu comentario" aria-describedby="Coloque nessa área o seu comentário, opinião ou sugestão sobre nosso site"></textarea>
-                            </label>
+                            <label for="comentario">Comentario:</label>
+                            <textarea cols="48" rows="8" id="comentario" name="comentario" placeholder="Digite o seu comentario" aria-describedby="Coloque nessa área o seu comentário, opinião ou sugestão sobre nosso site"></textarea>
                         </div>
                         <div class="d-grid gap-2 col-2 mx-auto centropagina margem margem9">
                             <button type="submit" class="btn btn-primary margem3" aria-label="Enviar respostas do questionario a cima">Enviar</button>
@@ -87,7 +75,7 @@
 
         </div>
     </article> 
-    <a href="#" class="bt" aria-describedby="Botão para subir até o topo da pagina"></a>
+    <a href="#" class="bt" aria-describedby="Aperte o botão para subir até o topo da pagina" aria-label="Aperte o botão para subir até o topo da pagina"></a>
 </div>
 </main>
 

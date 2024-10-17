@@ -16,7 +16,7 @@
                         </button>
                         <a class="navbar-brand" href="index.php">
                             <figure>
-                                <img src="imagem/logo.webp" alt="é a logo da pagina de um pinguim pirata que seus detalhes são roxos, o chapeu de pirata é de um roxo escuro e o detalhe amarelo do pinguim na verdade é um roxo tambem">
+                                <img src="imagem/logo.webp" alt="logo da pagina de um pinguim pirata com detalhes roxos e chapeu de pirata roxo escuro">
                             </figure>  
                         </a>
                         <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
