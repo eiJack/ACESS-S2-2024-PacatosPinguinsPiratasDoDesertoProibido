@@ -2,10 +2,10 @@
 nav {background-color: black;}
 p a {text-decoration: none; color: #a533ff; font-weight: bold;}
 
-.roxo {background-color: #8A2BE2;}
-.corroxa {border: 2px solid #8A2BE2; border-radius: 20px;}
+.roxo {background-color: #a533ff;}
+.corroxa {border: 2px solid #a533ff; border-radius: 20px;}
 
-.azulescuro {background-color: #8A2BE2; width: 100%; margin-left: 0px;}
+.azulescuro {background-color: #a533ff; width: 100%; margin-left: 0px;}
 .preto {background-color: black;}
 .branco {color: white; font-weight: bold;}
 .branco2 {color: white;}
