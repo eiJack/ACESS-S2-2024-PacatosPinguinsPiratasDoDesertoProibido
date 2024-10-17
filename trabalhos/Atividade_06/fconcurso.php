@@ -3,6 +3,14 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Pacatos Pinguins Piratas - Principais concursos realizados na Fatecon.">
+	<meta name="author" content="Pacatos Pinguins Piratas">
+	<meta property="og:title" content="Pacatos Pinguins Piratas - Principais concursos realizados na Fatecon.">
+	<meta property="og:description" content="Principais concursos realizados na Fatecon.">
+	<meta property="og:type" content="website">
+	<meta property="og:locale" content="pt_BR">
+	<meta name="twitter:title" content="Pacatos Pinguins Piratas - Principais concursos realizados na Fatecon.">
+	<meta name="twitter:description" content="Principais concursos realizados na Fatecon.">
 	<title>Concursos FATECon</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -29,7 +37,7 @@
                         <div class="row">
                         <figure class="figure col-12 imgleft figuremargin">
                             <h3 class="textoimg">Anúncio do Concurso Desenhe São Roque</h3>              
-                            <a href="#"><img class="figure-img img-fluid imgcem" src="imagem/fateconconcdesesr/fateconc1figura1.webp" alt="Anúncio do Concurso Desenhe São Roque, o anúncio possui o desenho do mascote da Fatecon junto do nome da Fatecon desenhado no estilo grafite e mais um texto onde está escrito concurso desenhe São Roque."></a>
+                            <a href="#"><img class="figure-img img-fluid imgcem" src="imagem/fateconconcdesesr/fateconc1figura1.webp" alt="Anúncio do Concurso Desenhe São Roque, o anúncio possui o desenho do mascote da Fatecon."></a>
                             <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook.</figcaption>
                         </figure>
                         </div>
@@ -42,20 +50,20 @@
 
                         <figure class="figure col-12 imgleft figuremargin">
                         <h3 class="textoimg">Primeira Colocada do Concurso</h3>              
-                            <a href="imagem/fateconconcdesesr/fateconc1figura2.webp"><img class="figure-img img-fluid imgcem" src="imagem/fateconconcdesesr/fateconc1figura2.webp" alt="Arte do Primeiro Colocado do Concurso, na arte é possível observar uma garota de cabelo roxo ao lado de um prédio em amarelo onde está escrito Vinícola Góes. Logo abaixo está o nome da artista: Emilly Yukari Bastos Maruyama, 16 Anos."></a>
-                            <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook.</figcaption>
+                            <a href="imagem/fateconconcdesesr/fateconc1figura2.webp"><img class="figure-img img-fluid imgcem" src="imagem/fateconconcdesesr/fateconc1figura2.webp" alt="Arte do Primeiro Colocado do Concurso, na arte é possível observar uma garota de cabelo roxo ao lado de um prédio em amarelo."></a>
+                            <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook. Artista: Emilly Yukari Bastos Maruyama, 16 Anos.</figcaption>
                         </figure>
 
                         <figure class="figure col-6 imgleft figuremargin">
                         <h3 class="textoimg">Segunda Colocada do Concurso</h3>               
-                            <a href="imagem/fateconconcdesesr/fateconc1figura3.webp"><img class="figure-img img-fluid imgcem" src="imagem/fateconconcdesesr/fateconc1figura3.webp" alt="Arte do Segundo Colocado do Concurso, na arte é possível ver a imagem de uma igreja ao anoitecer e logo a volta várias casas. Logo abaixo está o nome da artista: Nathalia Garcia de Almeida, 15 Anos."></a>
-                            <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook.</figcaption>
+                            <a href="imagem/fateconconcdesesr/fateconc1figura3.webp"><img class="figure-img img-fluid imgcem" src="imagem/fateconconcdesesr/fateconc1figura3.webp" alt="Arte do Segundo Colocado do Concurso, na arte é possível ver a imagem de uma igreja."></a>
+                            <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook. Artista: Nathalia Garcia de Almeida, 15 Anos.</figcaption>
                         </figure>
 
                         <figure class="figure col-6 imgleft figuremargin">  
                         <h3 class="textoimg">Terceiro Colocado do Concurso</h3>             
-                            <a href="imagem/fateconconcdesesr/fateconc1figura4.webp"><img class="figure-img img-fluid imgcem" src="imagem/fateconconcdesesr/fateconc1figura4.webp" alt="Arte do Terceiro Colocado do Concurso, nesta arte é possível observar uma cidade com duas vias de carro e vários prédios em volta. Logo abaixo está o nome do artista: Miguel de Oliveira Assêncio Dutra ,17 Anos."></a>
-                            <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook.</figcaption>
+                            <a href="imagem/fateconconcdesesr/fateconc1figura4.webp"><img class="figure-img img-fluid imgcem" src="imagem/fateconconcdesesr/fateconc1figura4.webp" alt="Arte do Terceiro Colocado do Concurso, nesta arte é possível observar uma cidade com duas vias de carro."></a>
+                            <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook. Artista: Miguel de Oliveira Assêncio Dutra, 17 Anos.</figcaption>
                         </figure>
 
                         </div>
@@ -70,7 +78,7 @@
                         <div class="row">
                         <figure class="figure col-12 imgleft figuremargin">
                         <h3 class="textoimg">Anúncio Desfile Cosplay FATECon</h3>               
-                            <a href="#"><img class="figure-img img-fluid imgcem" src="imagem/fateconconccosplay/fateconc2figura1.webp" alt="Anúncio Desfile Cosplay FATECon, na imagem do anúncio é possível ver uma garota com vestimentas em cor verde e seu olho está totalmente branco, referenciando algum personagem de anime ou algo semelhante."></a>
+                            <a href="#"><img class="figure-img img-fluid imgcem" src="imagem/fateconconccosplay/fateconc2figura1.webp" alt="Anúncio Desfile Cosplay FATECon, na imagem do anúncio é possível ver uma garota com vestimentas em cor verde."></a>
                             <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook.</figcaption>
                         </figure>
                         </div>
@@ -82,20 +90,20 @@
 
                         <figure class="figure col-12 imgleft figuremargin"> 
                         <h3 class="textoimg">Primeiro Colocado do Desfile</h3>              
-                            <a href="#"><img class="figure-img img-fluid imgcem" src="imagem/fateconconccosplay/fateconc2figura2.webp" alt="Primeiro Colocado do Desfile, na imagem é mostrado o primeiro colocado do concurso vestido como Pyramid Head de Silent Hill, o personagem dele é composto por um sobretudo com sangue seguido de uma cabeça em formato de pirâmide e uma espada grande em sua mão. É possível notar o nome do cosplayer sendo ele: Bruno Siberi"></a>
-                            <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook.</figcaption>
+                            <a href="#"><img class="figure-img img-fluid imgcem" src="imagem/fateconconccosplay/fateconc2figura2.webp" alt="Primeiro Colocado do Desfile, na imagem é mostrado o primeiro colocado do concurso vestido como Pyramid Head de Silent Hill."></a>
+                            <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook. Nome do cosplayer: Bruno Siberi</figcaption>
                         </figure>
 
                         <figure class="figure col-6 imgleft figuremargin">
                         <h3 class="textoimg">Segundo Colocado do Desfile</h3>               
-                            <a href="#"><img class="figure-img img-fluid imgcem" src="imagem/fateconconccosplay/fateconc2figura3.webp" alt="Segundo Colocado do Desfile, na imagem está o segundo colocado do concurso vestido de Chainsaw Man do Mangá Chainsaw Man, ele esta vestido com uma roupa estilo social e possui uma cabeça de serra elétrica junto com braços de serra elétrica. É possível notar o nome do cosplayer sendo ele: Miguel Dutra"></a>
-                            <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook.</figcaption>
+                            <a href="#"><img class="figure-img img-fluid imgcem" src="imagem/fateconconccosplay/fateconc2figura3.webp" alt="Segundo Colocado do Desfile, na imagem está o segundo colocado do concurso vestido de Chainsaw Man."></a>
+                            <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook. Nome do cosplayer: Miguel Dutra</figcaption>
                         </figure>
 
                         <figure class="figure col-6 imgleft figuremargin"> 
                         <h3 class="textoimg">Terceira Colocada do Desfile</h3>              
-                            <a href="#"><img class="figure-img img-fluid imgcem" src="imagem/fateconconccosplay/fateconc2figura4.webp" alt="Terceira Colocada do Desfile, a terceira coloca do desfile está vestido de Evelyn de League of Legends, na sua vestimenta é possível notar o Cabelo esbranquecido junto de duas caldas iguais de uma raposa em sua cintura seguido de vestimentas pretas pelo corpo. É possível notar o nome da cosplayer sendo ela: Lauany M."></a>
-                            <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook.</figcaption>
+                            <a href="#"><img class="figure-img img-fluid imgcem" src="imagem/fateconconccosplay/fateconc2figura4.webp" alt="Terceira Colocada do Desfile, a terceira coloca do desfile está vestido de Evelyn de League of Legends."></a>
+                            <figcaption class="figure-caption text-right">Fonte: Página FATECon Facebook. Nome da cosplayer: Lauany M.</figcaption>
                         </figure>
 
                         </div>
@@ -105,7 +113,7 @@
 
                 
             </div>
-            <a aria-hidden="true" href="#" class="bt"></a>
+            <a tabindex="-1" aria-hidden="true" href="#" class="bt"></a>
         </main>
 
 <?php require "footer.inc.php"; ?>
