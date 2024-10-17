@@ -34,7 +34,6 @@
                         <a href="https://www.einerd.com.br/netflix-aumenta-precos/" class="btn btn-primary margemnoticias" aria-label="Ir para o site do Domingo Nerd">Ver mais</a>
                     </section>
                 </div>
-            </div> 
             <div class="col-sm-12 col-md-12 col-lg-4 margem8" role="article">
                 <section class="corroxa">
                     <figure class="centropagina">
@@ -54,7 +53,8 @@
                     <p class="margemnoticias"> A CCXP abre suas portas para uma experiência única. Este é o lugar onde a cultura pop ganha vida, onde fãs de todas as idades se reúnem para celebrar o que há de mais incrível nos quadrinhos, cinema, TV, games que em cada esquina há novas aventuras e estandes que guardam segredos à serem revelados. </p>
                     <a href="https://www.einerd.com.br/netflix-aumenta-precos/" class="btn btn-primary margemnoticias" aria-label="Ir para o site da CCXP">Ver mais</a>
                 </section>
-            </div>      
+            </div>
+        </div>      
         </main>
         <aside>
             <h2 hidden> Noticias do mundo nerd </h2>
@@ -64,7 +64,6 @@
                         <h2> Noticias do mundo nerd </h2>
                     </section>
                 </div>    
-            </div>
             <div class="col-sm-12 col-md-6 col-lg-6 margem8" role="article">
                 <section class="corroxa">
                     <figure class="centropagina">
@@ -117,6 +116,7 @@
                     <a target="_blank" href="https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2021/03/conheca-a-perifacon-a-convencao-geek-das-periferias-ckmp1vfnu004g016un7rznepq.html" class="btn btn-primary margemnoticias" aria-label="Ir para a noticia completa sobre a Perifacon">Ver mais</a>
                 </section>
             </div>
+        </div>
         </aside>
         <a href="#" class="bt" aria-label="Voltar para o topo da pagina"></a>
     </div>
