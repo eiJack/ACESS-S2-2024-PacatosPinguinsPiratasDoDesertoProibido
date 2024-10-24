@@ -1,0 +1,1 @@
+Descrição da atividade: Ajuste das cores e do contraste no projeto.
