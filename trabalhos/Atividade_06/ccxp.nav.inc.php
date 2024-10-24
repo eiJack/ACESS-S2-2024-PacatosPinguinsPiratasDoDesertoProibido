@@ -6,16 +6,16 @@
                     <div class="collapse navbar-collapse justify-content-center negrito" id="navbarNavDropdown">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                              <a class="nav-link active bordapreta" aria-label="link que redireciona para a página de artistas da CCXP" id="ccxpartistas" href="artistas_CCXP.php #ccxpartistas">Artistas</a>
+                              <a class="nav-link active bordapreta" aria-label="ir para a página de artistas da CCXP" id="ccxpartistas" href="artistas_CCXP.php #ccxpartistas">Artistas</a>
                             </li>
                             <li class="nav-item">
-                              <a class="nav-link active bordapreta" aria-label="link que redireciona para a página de cosplays da CCXP" id="ccxcosplay" href="cosplay_CCXP.php #ccxcosplay">Cosplay</a>
+                              <a class="nav-link active bordapreta" aria-label="ir para a página de cosplays da CCXP" id="ccxcosplay" href="cosplay_CCXP.php #ccxcosplay">Cosplay</a>
                             </li>
                             <li class="nav-item">
-                              <a class="nav-link active bordapreta" aria-label="Link que redireciona para a página de eSports da CCXP" id="ccxpesports" href="eSports_CCXP.php #ccxpesports">eSports</a>
+                              <a class="nav-link active bordapreta" aria-label="ir para a página de eSports da CCXP" id="ccxpesports" href="eSports_CCXP.php #ccxpesports">eSports</a>
                             </li>
                             <li class="nav-item">
-                              <a class="nav-link active bordapreta" aria-label="Link que redireciona para a página de entrevistas da CCXP" id="ccxpentrevista" href="entrevista_CCXP.php #ccxpentrevista">Entrevistas</a>
+                              <a class="nav-link active bordapreta" aria-label="ir para a página de entrevistas da CCXP" id="ccxpentrevista" href="entrevista_CCXP.php #ccxpentrevista">Entrevistas</a>
                             </li>
                         </ul>
                     </div>
