@@ -48,9 +48,9 @@ Foram rodadas as ferramentas Google Light House e Axe para verificar o nível de
 > **Observações:**<br>
 Neste mesmo trabalho foi realizada a alteração nos contrastes das páginas e também foram feitas alterações em elementos de códigos que não eram considerados acessíveis.
 
-<p> 4. Footer: </p>
+<p> 5. Footer: </p>
 
-<p> 5. Páginas da CCXP</p>
+<p> 6. Páginas da CCXP</p>
 <p>Ao passar no software Lighthouse, ele deu alertas apenas no subnav das páginas</p>
 <p>O Nav secundário das páginas da CCXP no começo eram de cor roxo escuro no background(#8a2be2) e a letra na cor preta(black). Ao passar o site no Google Lighthouse, emitiu um alerta de contraste das cores, que pode ter falhas na leitura, principalmente para as pessoas deficientes, conforme imagem abaixo:</p>
 <img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/cc6209abc5d7921ac8ca0804cd7391052ce28ab7/relatorios/imagem/subnavCCXPantes.png">
