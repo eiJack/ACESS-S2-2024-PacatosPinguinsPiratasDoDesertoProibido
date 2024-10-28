@@ -48,4 +48,27 @@ Foram rodadas as ferramentas Google Light House e Axe para verificar o nível de
 > **Observações:**<br>
 Neste mesmo trabalho foi realizada a alteração nos contrastes das páginas e também foram feitas alterações em elementos de códigos que não eram considerados acessíveis.
 
-<p> 4. Footer: </p>
+<p> Analise e correção de cores das paginas Fatecon (Home), Fatecon Jogos e Workshops.</p>
+
+Fatecon (Home):
+
+- Em relação a pagina da Fatecon(Home) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
+
+- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #662bb2 para melhorar a visibilidade mantendo a cor das letras #ffffff.
+
+Jogos (Fatecon): 
+
+- Em relação a pagina da Jogos(Fatecon) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
+
+- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #662bb2 para melhorar a visibilidade mantendo a cor das letras #ffffff.
+
+Workshops (Fatecon): 
+
+- Em relação a pagina da Jogos(Fatecon) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
+
+- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #662bb2 para melhorar a visibilidade mantendo a cor das letras #ffffff.
+
+Por tanto a principal mundança realizada em todas as páginas foi a alateração das cores #8A2BE2 e #a533ff para a cor #662bb2, foram realizados também algumas alterações visando melhorar a acessibilidade em todas as páginas a cima.
+
+
+<p> 5. Footer: </p>
