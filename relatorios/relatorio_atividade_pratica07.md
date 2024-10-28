@@ -48,7 +48,7 @@ Foram rodadas as ferramentas Google Light House e Axe para verificar o nível de
 > **Observações:**<br>
 Neste mesmo trabalho foi realizada a alteração nos contrastes das páginas e também foram feitas alterações em elementos de códigos que não eram considerados acessíveis.
 
-<p> 4.Analise e correção de cores das paginas Fatecon (Home), Fatecon Jogos e Workshops.</p>
+<p>4. Analise e correção de cores das paginas Fatecon (Home), Fatecon Jogos e Workshops.</p>
 
 Fatecon (Home):
 
