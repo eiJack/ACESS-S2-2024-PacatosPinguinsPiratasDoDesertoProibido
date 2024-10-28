@@ -1,4 +1,5 @@
 Descrição da atividade: Ajuste das cores e do contraste no projeto.
+<p> 1. Navegação principal: </p>
 
 <p> 2. Sub-navegação</p>
 <p>De começo temos o subnav das paginas Domingo Nerd, Fatecon e CCXP que apresentam como padrão a cor de background: #7C00DB e a letra em preto (black), que ao jogar no webaim mostra que o contraste para a junção das duas cores, ao ficar em negrito, apresenta problema pois fica dificil de ver as palavas. A seguir a imagem de exemplo:</p>
@@ -38,13 +39,12 @@ Ao discutir com o grupo, a escolha que melhor encaixa no nosso site é a ....
 ``-Cor de Fundo do Menu Secundário: a533ff / Cor da Letra: ffffff | Contrast Ratio 4.64:1`` <br><br>
 
 - Resumo sobre o contraste
-
 Todas a cores tem um nível de contraste adequado quando colocadas lado a lado o que de torna o site acessível para pessoas com deficiência visual, assim como todos os textos das páginas em questão que possuem um nível de contraste considerado bom.
 
 - Testes de Acessibilidade:
-
 Foram rodadas as ferramentas Google Light House e Axe para verificar o nível de acessibilidade do Website o que gerou alguns erros não percebidos anteriormente e que logo foram corrigidos e atingiram um nível de pontuação bom.
 
-
 > **Observações:**<br>
-Neste mesmo trabalho foi realizada a alteração nos contrastes das páginas e também foram feitas alterações em elementos de códigos que não eram considerados acessíveis. 
+Neste mesmo trabalho foi realizada a alteração nos contrastes das páginas e também foram feitas alterações em elementos de códigos que não eram considerados acessíveis.
+
+<p> 4. Footer: </p>
