@@ -11,7 +11,8 @@ Descrição da atividade: Ajuste das cores e do contraste no projeto.
 <img src="imagem/sub-nav-dn3.png">
 Ao discutir com o grupo, a escolha que melhor encaixa no nosso site é a ....
 
-3. Avaliando e corrigindo contraste de cores das páginas Notícias, Fatecon Artistas e Concursos.
+
+<p>3. Avaliando e corrigindo contraste de cores das páginas Notícias, Fatecon Artistas e Concursos.</p>
 
 - Página Notícias
 
