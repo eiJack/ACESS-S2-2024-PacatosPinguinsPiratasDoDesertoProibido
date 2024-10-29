@@ -1,32 +1,3 @@
-    <style>
-      
-        footer {
-            background-color: black;
-            color: white;
-            padding: 20px 0;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-around;
-            text-align: center;
-        }
-        .footer-column {
-            flex: 1;
-            padding: 10px;
-            min-width: 400px; 
-        }
-        .footer-bottom {
-            text-align: center;
-            margin-top: 20px;
-        }
-
-        @media (max-width: 600px) {
-            .footer-column {
-                flex: 100%;
-                max-width: 100%;
-            }
-        }
-    </style>
-
     <footer>
         <div class="footer-column">
          	<figure class="centropagina margem3">

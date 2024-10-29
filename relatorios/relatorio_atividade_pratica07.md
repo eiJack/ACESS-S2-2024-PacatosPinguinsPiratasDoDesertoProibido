@@ -1,5 +1,9 @@
 Descrição da atividade: Ajuste das cores e do contraste no projeto.
 <p> 1. Navegação principal: </p>
+Ao ser avaliado a navegação principal, a cor do fundo é #000000 (black) e das letras é #ffffff (white) que já sao acessiveis nessa combinação. Porem oque deve ser avaliado na navegação principal é a acessibilidade do elemento que identifica em que pagina o usuário esta, esse elemento esta no com a cor #8A2BE2 que tendo background black não é acessivel.
+<img src="imagem/nav-principal.png">
+Por isso, usando o Webaim foi testado algumas cores e a que deixou mais acessivel foi a cor #B77DED que é um pouco mais clara e apresenta um Contrast Ratio de 7.16:1. A exemplo temos a foto a seguir mostrando a alteração.
+<img src="imagem/borda.png">
 
 <p> 2. Sub-navegação</p>
 <p>De começo temos o subnav das paginas Domingo Nerd, Fatecon e CCXP que apresentam como padrão a cor de background: #a533ff e a letra em preto (black), que ao jogar no webaim mostra que o contraste para a junção das duas cores, ao ficar em negrito, apresenta problema pois fica dificil de ver as palavas. A seguir a imagem de exemplo:</p>

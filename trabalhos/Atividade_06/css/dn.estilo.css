@@ -5,7 +5,7 @@ p a {text-decoration: none; color: #a533ff; font-weight: bold;}
 .roxo {background-color: #a533ff;}
 .corroxa {border: 2px solid #a533ff; border-radius: 20px;}
 
-.azulescuro {background-color: #a533ff; width: 100%; margin-left: 0px;}
+.azulescuro {background-color: #7600D1; width: 100%; margin-left: 0px;}
 .preto {background-color: black;}
 .branco {color: white; font-weight: bold;}
 .branco2 {color: white;}
@@ -76,8 +76,33 @@ ul li a {text-decoration: none;margin-right: 20px;}
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {background-color: #662bb2 !important;border: 2px solid black;}
 
 /*marcação de "em que pagina estamos"*/
-.bordaroxa:target {border: 2px solid #8A2BE2; border-radius: 5px; box-shadow: #8A2BE2 1px 0 10px;}
+.bordaroxa:target {border: 2px solid #B77DED; border-radius: 5px; box-shadow: #8A2BE2 1px 0 10px;}
 .bordapreta:target {text-decoration: underline overline; text-decoration-color: black; text-shadow: 1px 1px 0px;}
 
 
+/*footer*/
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+}
+.footer-column {
+    flex: 1;
+    padding: 10px;
+    min-width: 400px; 
+}
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+}
 
+@media (max-width: 600px) {
+    .footer-column {
+        flex: 100%;
+        max-width: 100%;
+        }
+}
