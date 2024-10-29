@@ -2,17 +2,24 @@ Descrição da atividade: Ajuste das cores e do contraste no projeto.
 <p> 1. Navegação principal: </p>
 
 <p> 2. Sub-navegação</p>
-<p>De começo temos o subnav das paginas Domingo Nerd, Fatecon e CCXP que apresentam como padrão a cor de background: #7C00DB e a letra em preto (black), que ao jogar no webaim mostra que o contraste para a junção das duas cores, ao ficar em negrito, apresenta problema pois fica dificil de ver as palavas. A seguir a imagem de exemplo:</p>
+<p>De começo temos o subnav das paginas Domingo Nerd, Fatecon e CCXP que apresentam como padrão a cor de background: #a533ff e a letra em preto (black), que ao jogar no webaim mostra que o contraste para a junção das duas cores, ao ficar em negrito, apresenta problema pois fica dificil de ver as palavas. A seguir a imagem de exemplo:</p>
 <img src="imagem/sub-nav-dn.png">
-<p>Para resolver essa situação temos duas opções, deixar o fundo mais claro ou deixar a letra mais clara, onde ao deixar o fundo claro podemos usar a cor #C375FF (cor o Webaim diz que fica bom em todos os quesitos para manter a letra em black e negrito) ou manter a cor do fundo e deixar as letras em branco(white), exemplo:</p>
-<p>- mudando cor do fundo para #C375FF:</p>
+<p>Para resolver essa situação temos duas opções, deixar o fundo mais claro ou deixar a letra mais clara, onde ao deixar o fundo claro podemos usar a cor #C375FF (cor o Webaim diz que fica bom em todos os quesitos para manter a letra em black e negrito) ou manter a cor do fundo em #6E1ABC e deixar as letras em branco(white), exemplo:</p>
+<p>- Mudando cor do fundo para #C375FF:</p>
 <img src="imagem/sub-nav-dn2.png">
-<p>- mudando cor da letra para white:</p>
+Que apresenta de Contrast Ratio: 7.3:1
+
+<p>- Mudando cor da letra para white e o fundo com a cor #6E1ABC:</p>
 <img src="imagem/sub-nav-dn3.png">
-Ao discutir com o grupo, a escolha que melhor encaixa no nosso site é a ....
+Que apresenta de Contrast Ratio: 8.27:1
+Ao discutir com o grupo, a escolha que melhor encaixa é apenas a alteração de cor da letra para white, pois se não teria que alterar tanto a cor padrão em diversos outros elementos do site.
 
+<p> 3. Footer:</p>
 
-<p>3. Avaliando e corrigindo contraste de cores das páginas Notícias, Fatecon Artistas e Concursos.</p>
+<p> 4. Domingo Nerd:</p>
+Ao se analisar as paginas que contem no Domingo Nerd, como pagina principal, concursos, jogos, cosplays e exposições, são poucas as possiveis alterações de cor que devem avaliadas, por exemplo as cores dos botões, bordas e cores de links. 
+
+<p> 5. Avaliando e corrigindo contraste de cores das páginas Notícias, Fatecon Artistas e Concursos.</p>
 
 - Página Notícias
 
@@ -54,23 +61,22 @@ Fatecon (Home):
 
 - Em relação a pagina da Fatecon(Home) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
 
-- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #662bb2 para melhorar a visibilidade mantendo a cor das letras #ffffff.
+- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #6E1ABC para melhorar a visibilidade mantendo a cor das letras #ffffff.
 
 Jogos (Fatecon): 
 
 - Em relação a pagina da Jogos(Fatecon) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
 
-- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #662bb2 para melhorar a visibilidade mantendo a cor das letras #ffffff.
+- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #6E1ABC para melhorar a visibilidade mantendo a cor das letras #ffffff.
 
 Workshops (Fatecon): 
 
 - Em relação a pagina da Jogos(Fatecon) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
 
-- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #662bb2 para melhorar a visibilidade mantendo a cor das letras #ffffff.
+- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #6E1ABC para melhorar a visibilidade mantendo a cor das letras #ffffff.
 
-Por tanto a principal mundança realizada em todas as páginas foi a alateração das cores #8A2BE2 e #a533ff para a cor #662bb2, foram realizados também algumas alterações visando melhorar a acessibilidade em todas as páginas a cima.
+Por tanto a principal mundança realizada em todas as páginas foi a alateração das cores #8A2BE2 e #a533ff para a cor #6E1ABC, foram realizados também algumas alterações visando melhorar a acessibilidade em todas as páginas a cima.
 
-<p> 5. Footer: </p>
 
 <p> 6. Páginas da CCXP</p>
 <p>Ao passar no software Lighthouse, ele deu alertas apenas no subnav das páginas</p>
