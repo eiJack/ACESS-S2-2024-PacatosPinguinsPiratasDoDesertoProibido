@@ -6,16 +6,16 @@
                     <div class="collapse navbar-collapse justify-content-center negrito" id="navbarNavDropdown">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                              <a class="nav-link active bordapreta" id="dncosplay" href="dncosplay.php #dncosplay" aria-label="Pagina de cosplays do Domingo Nerd">Cosplay</a>
+                              <a class="nav-link active bordapreta link-light" id="dncosplay" href="dncosplay.php #dncosplay" aria-label="Pagina de cosplays do Domingo Nerd">Cosplay</a>
                             </li>
                             <li class="nav-item">
-                              <a class="nav-link active bordapreta" id="dnconcurso" href="dnconcursos.php #dnconcurso" aria-label="Pagina dos concuros do Domingo Nerd">Concursos</a>
+                              <a class="nav-link active bordapreta link-light" id="dnconcurso" href="dnconcursos.php #dnconcurso" aria-label="Pagina dos concuros do Domingo Nerd">Concursos</a>
                             </li>
                             <li class="nav-item">
-                              <a class="nav-link active bordapreta" id="dnjogos" href="dnjogos.php #dnjogos" aria-label="Pagina dos jogos do Domingo Nerd">Jogos</a>
+                              <a class="nav-link active bordapreta link-light" id="dnjogos" href="dnjogos.php #dnjogos" aria-label="Pagina dos jogos do Domingo Nerd">Jogos</a>
                             </li>
                             <li class="nav-item">
-                              <a class="nav-link active bordapreta" id="dnexposicoes" href="dnexposicoes.php #dnexposicoes" aria-label="Pagina de exposições do Domingo Nerd">Exposições</a>
+                              <a class="nav-link active bordapreta link-light" id="dnexposicoes" href="dnexposicoes.php #dnexposicoes" aria-label="Pagina de exposições do Domingo Nerd">Exposições</a>
                             </li>
                         </ul>
                     </div>
