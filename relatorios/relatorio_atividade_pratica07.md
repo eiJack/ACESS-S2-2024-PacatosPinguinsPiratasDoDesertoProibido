@@ -84,12 +84,9 @@ Por tanto a principal mundança realizada em todas as páginas foi a alateraçã
 
 <p> 6. Páginas da CCXP</p>
 <p>Ao passar no software Lighthouse, ele deu alertas apenas no subnav das páginas</p>
-<p>O Nav secundário das páginas da CCXP no começo eram de cor roxo escuro no background(#8a2be2) e a letra na cor preta(black). Ao passar o site no Google Lighthouse, emitiu um alerta de contraste das cores, que pode ter falhas na leitura, principalmente para as pessoas deficientes, conforme imagem abaixo:</p>
-<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/cc6209abc5d7921ac8ca0804cd7391052ce28ab7/relatorios/imagem/subnavCCXPantes.png">
-<p>entre algumas soluções, encontramos a possibilidade de mudar do background para um outro tom de roxo(#6E1ABC) e a cor dos botões para White(#FFFFFF), conforme imagem abaixo</p>
-<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/cc6209abc5d7921ac8ca0804cd7391052ce28ab7/relatorios/imagem/subnavCCXPdepois.png">
-<p>ou também podemos deixar o fundo mais claro, dando um melhor contraste para as letras na cor preta, facilitando a leitura para as pessoas deficientes visuais, conforme imagem abaixo</p>
-<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/cc6209abc5d7921ac8ca0804cd7391052ce28ab7/relatorios/imagem/subnavalteradoCCXP.png">
+<p>O Nav secundário das páginas da CCXP no começo eram de cor roxo escuro no background(#8a2be2) e a letra na cor preta(black). Ao passar o site no Google Lighthouse, emitiu um alerta de contraste das cores, que pode ter falhas na leitura, principalmente para as pessoas deficientes.</p>
+<p>entre algumas soluções, encontramos a possibilidade de mudar do background para um outro tom de roxo(#6E1ABC) e a cor dos botões para White(#FFFFFF).</p>
+<p>ou também podemos deixar o fundo mais claro, dando um melhor contraste para as letras na cor preta, facilitando a leitura para as pessoas deficientes visuais.</p>
 <p>No restante das páginas, de Entrevistas, Cosplyas, eSports, Artistas e página principal da CCXP não hove qualquer alerta de contraste avisando da necessidade de mudança de cor, assim, permanecendo nas seguintes cores:</p><br>
 <ul>
   <li>Cor do Background: Branco(#FFFFFF)</li>
