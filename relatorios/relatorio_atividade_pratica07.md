@@ -13,9 +13,9 @@ Por isso, usando o Webaim foi testado algumas cores e a que deixou mais acessive
 <img src="imagem/sub-nav-dn2.png">
 Que apresenta de Contrast Ratio: 7.3:1
 
-<p>- Mudando cor da letra para white e o fundo com a cor #6E1ABC:</p>
+<p>- Mudando cor da letra para white e o fundo com a cor #7600D1:</p>
 <img src="imagem/sub-nav-dn3.png">
-Que apresenta de Contrast Ratio: 8.27:1
+Que apresenta de Contrast Ratio: 7.8:1
 Ao discutir com o grupo, a escolha que melhor encaixa é apenas a alteração de cor da letra para white, pois se não teria que alterar tanto a cor padrão em diversos outros elementos do site.
 
 <p> 3. Footer:</p>
@@ -65,13 +65,13 @@ Fatecon (Home):
 
 - Em relação a pagina da Fatecon(Home) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
 
-- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #6E1ABC para melhorar a visibilidade mantendo a cor das letras #ffffff.
+- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #7600D1 para melhorar a visibilidade mantendo a cor das letras #ffffff.
 
 Jogos (Fatecon): 
 
 - Em relação a pagina da Jogos(Fatecon) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
 
-- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #6E1ABC para melhorar a visibilidade mantendo a cor das letras #ffffff.
+- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #7600D1 para melhorar a visibilidade mantendo a cor das letras #ffffff.
 
 Workshops (Fatecon): 
 
@@ -79,7 +79,7 @@ Workshops (Fatecon):
 
 - Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #6E1ABC para melhorar a visibilidade mantendo a cor das letras #ffffff.
 
-Por tanto a principal mundança realizada em todas as páginas foi a alateração das cores #8A2BE2 e #a533ff para a cor #6E1ABC, foram realizados também algumas alterações visando melhorar a acessibilidade em todas as páginas a cima.
+Por tanto a principal mundança realizada em todas as páginas foi a alateração das cores #8A2BE2 e #a533ff para a cor #7600D1, foram realizados também algumas alterações visando melhorar a acessibilidade em todas as páginas a cima.
 
 
 <p> 6. Páginas da CCXP</p>
