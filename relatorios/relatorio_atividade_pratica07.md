@@ -94,3 +94,7 @@ Por tanto a principal mundança realizada em todas as páginas foi a alateraçã
   <li>Cor das Bordas: Roxo(#8a2be2) solid de 2px</li>
   <li>Cor dos Textos: Textos principais  de cor preta, títulos em Negrito(Bold).</li>
 </ul>
+
+<p>7. Footer</p>
+<p>As cores de fundo e de do texto não possuem uma taxa de contraste suficiente. Texto de baixo contraste é difícil ou impossível de ler para muitos usuários. 
+Realizada alteração da cor da fonte de #8A2BE2 para #C375FF, obtendo um maio contraste com a cor de fundo e obtendo uma avaliação AAA no webaim.</p>
