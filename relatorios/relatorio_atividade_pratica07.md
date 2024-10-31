@@ -16,9 +16,9 @@ Que apresenta de Contrast Ratio: 7.3:1
 <p>- Mudando cor da letra para white e o fundo com a cor #7600D1:</p>
 <img src="imagem/sub-nav-dn3.png">
 Que apresenta de Contrast Ratio: 7.8:1
-Ao discutir com o grupo, a escolha que melhor encaixa é apenas a alteração de cor da letra para white, pois se não teria que alterar tanto a cor padrão em diversos outros elementos do site.
+Ao discutir com o grupo, a escolha que melhor encaixa é apenas a alteração de cor da letra para white, pois se não teria que alterar tanto a cor padrão em diversos outros elementos do site.<br>
 
-<p> 3. Domingo Nerd:</p>
+<br><p> 3. Domingo Nerd:</p>
 Ao se analisar as paginas que contem no Domingo Nerd, como pagina principal, concursos, jogos, cosplays e exposições, são poucas as possiveis alterações de cor que devem avaliadas, por exemplo as cores dos botões, bordas e cores de links. Temos como exemplo a imagem a seguir:
 <img src="imagem/Exemplo1.png">
 Onde a borda do elemento com cor #A533FF apresenta Constrast Ratio de 4.64:1 que não fica valida no AAA pelo WebAIM por isso alterei para a cor #7C00DB com Contrast Ratio de 7.29:1. <br>
