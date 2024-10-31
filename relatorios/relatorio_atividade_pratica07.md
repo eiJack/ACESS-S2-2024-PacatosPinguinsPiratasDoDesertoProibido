@@ -18,12 +18,10 @@ Que apresenta de Contrast Ratio: 7.3:1
 Que apresenta de Contrast Ratio: 7.8:1
 Ao discutir com o grupo, a escolha que melhor encaixa é apenas a alteração de cor da letra para white, pois se não teria que alterar tanto a cor padrão em diversos outros elementos do site.
 
-<p> 3. Footer:</p>
-
-<p> 4. Domingo Nerd:</p>
+<p> 3. Domingo Nerd:</p>
 Ao se analisar as paginas que contem no Domingo Nerd, como pagina principal, concursos, jogos, cosplays e exposições, são poucas as possiveis alterações de cor que devem avaliadas, por exemplo as cores dos botões, bordas e cores de links. 
 
-<p> 5. Avaliando e corrigindo contraste de cores das páginas Notícias e Fatecon (Todas relacionadas)</p>
+<p> 4. Avaliando e corrigindo contraste de cores das páginas Notícias e Fatecon (Todas relacionadas)</p>
 
 - Página Notícias
 
@@ -76,7 +74,7 @@ Workshops (Fatecon):
 Por tanto a principal mudança realizada em todas as páginas foi a alteração das cores #8A2BE2 e #a533ff para a cor #7600D1, foram realizados também algumas alterações visando melhorar a acessibilidade em todas as páginas a cima.
 
 
-<p> 6. Páginas da CCXP</p>
+<p> 5. Páginas da CCXP</p>
 <p>Ao passar no software Lighthouse, ele deu alertas apenas no subnav das páginas</p>
 <p>O Nav secundário das páginas da CCXP no começo eram de cor roxo escuro no background(#8a2be2) e a letra na cor preta(black). Ao passar o site no Google Lighthouse, emitiu um alerta de contraste das cores, que pode ter falhas na leitura, principalmente para as pessoas deficientes.</p>
 <p>entre algumas soluções, encontramos a possibilidade de mudar do background para um outro tom de roxo(#6E1ABC) e a cor dos botões para White(#FFFFFF).</p>
@@ -89,6 +87,6 @@ Por tanto a principal mudança realizada em todas as páginas foi a alteração 
   <li>Cor dos Textos: Textos principais  de cor preta, títulos em Negrito(Bold).</li>
 </ul>
 
-<p>7. Footer</p>
+<p>6. Footer</p>
 <p>As cores de fundo e de do texto não possuem uma taxa de contraste suficiente. Texto de baixo contraste é difícil ou impossível de ler para muitos usuários. 
 Realizada alteração da cor da fonte de #8A2BE2 para #C375FF, obtendo um maio contraste com a cor de fundo e obtendo uma avaliação AAA no webaim.</p>
