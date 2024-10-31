@@ -19,10 +19,14 @@ Que apresenta de Contrast Ratio: 7.8:1
 Ao discutir com o grupo, a escolha que melhor encaixa é apenas a alteração de cor da letra para white, pois se não teria que alterar tanto a cor padrão em diversos outros elementos do site.
 
 <p> 3. Domingo Nerd:</p>
-Ao se analisar as paginas que contem no Domingo Nerd, como pagina principal, concursos, jogos, cosplays e exposições, são poucas as possiveis alterações de cor que devem avaliadas, por exemplo as cores dos botões, bordas e cores de links. 
+Ao se analisar as paginas que contem no Domingo Nerd, como pagina principal, concursos, jogos, cosplays e exposições, são poucas as possiveis alterações de cor que devem avaliadas, por exemplo as cores dos botões, bordas e cores de links. Temos como exemplo a imagem a seguir:
+<img src="imagem/Exemplo1.png">
+Onde a borda do elemento com cor #A533FF apresenta Constrast Ratio de 4.64:1 que não fica valida no AAA pelo WebAIM por isso alterei para a cor #7C00DB com Contrast Ratio de 7.29:1. <br>
+O link com cor #A533FF apresenta Constrast Ratio de 4.64:1 que não fica valida no AAA pelo WebAIM para linhas finas, porem ainda é usual para o objetivo do portal.<br>
+Por ultimo o botão com cor #662BB2 e letra branca apresenta Contrast Ratio de 8.22:1 que é acessivel em todos os sentidos, acaba sendo o mesmo resultado com a cor do botão #662BB2 e a cor do background da pagina que é branco que apresenta Contrast Ratio de 8.22:1.<br>
 
-<p> 4. Avaliando e corrigindo contraste de cores das páginas Notícias e Fatecon (Todas relacionadas)</p>
 
+<p> 4. Avaliando e corrigindo contraste de cores das páginas Notícias e Fatecon</p>
 - Página Notícias
 
 `-Cor de Fundo: ffffff / Cor das letras: 212529 | Contrast Ratio 15.42:1` <br><br>
