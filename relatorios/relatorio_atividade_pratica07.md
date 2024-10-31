@@ -13,9 +13,9 @@ Por isso, usando o Webaim foi testado algumas cores e a que deixou mais acessive
 <img src="imagem/sub-nav-dn2.png">
 Que apresenta de Contrast Ratio: 7.3:1
 
-<p>- Mudando cor da letra para white e o fundo com a cor #6E1ABC:</p>
+<p>- Mudando cor da letra para white e o fundo com a cor #7600D1:</p>
 <img src="imagem/sub-nav-dn3.png">
-Que apresenta de Contrast Ratio: 8.27:1
+Que apresenta de Contrast Ratio: 7.8:1
 Ao discutir com o grupo, a escolha que melhor encaixa é apenas a alteração de cor da letra para white, pois se não teria que alterar tanto a cor padrão em diversos outros elementos do site.
 
 <p> 3. Footer:</p>
@@ -65,13 +65,13 @@ Fatecon (Home):
 
 - Em relação a pagina da Fatecon(Home) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
 
-- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #6E1ABC para melhorar a visibilidade mantendo a cor das letras #ffffff.
+- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #7600D1 para melhorar a visibilidade mantendo a cor das letras #ffffff.
 
 Jogos (Fatecon): 
 
 - Em relação a pagina da Jogos(Fatecon) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
 
-- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #6E1ABC para melhorar a visibilidade mantendo a cor das letras #ffffff.
+- Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #7600D1 para melhorar a visibilidade mantendo a cor das letras #ffffff.
 
 Workshops (Fatecon): 
 
@@ -79,17 +79,14 @@ Workshops (Fatecon):
 
 - Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #6E1ABC para melhorar a visibilidade mantendo a cor das letras #ffffff.
 
-Por tanto a principal mundança realizada em todas as páginas foi a alateração das cores #8A2BE2 e #a533ff para a cor #6E1ABC, foram realizados também algumas alterações visando melhorar a acessibilidade em todas as páginas a cima.
+Por tanto a principal mundança realizada em todas as páginas foi a alateração das cores #8A2BE2 e #a533ff para a cor #7600D1, foram realizados também algumas alterações visando melhorar a acessibilidade em todas as páginas a cima.
 
 
 <p> 6. Páginas da CCXP</p>
 <p>Ao passar no software Lighthouse, ele deu alertas apenas no subnav das páginas</p>
-<p>O Nav secundário das páginas da CCXP no começo eram de cor roxo escuro no background(#8a2be2) e a letra na cor preta(black). Ao passar o site no Google Lighthouse, emitiu um alerta de contraste das cores, que pode ter falhas na leitura, principalmente para as pessoas deficientes, conforme imagem abaixo:</p>
-<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/cc6209abc5d7921ac8ca0804cd7391052ce28ab7/relatorios/imagem/subnavCCXPantes.png">
-<p>entre algumas soluções, encontramos a possibilidade de mudar do background para um outro tom de roxo(#6E1ABC) e a cor dos botões para White(#FFFFFF), conforme imagem abaixo</p>
-<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/cc6209abc5d7921ac8ca0804cd7391052ce28ab7/relatorios/imagem/subnavCCXPdepois.png">
-<p>ou também podemos deixar o fundo mais claro, dando um melhor contraste para as letras na cor preta, facilitando a leitura para as pessoas deficientes visuais, conforme imagem abaixo</p>
-<img src="https://github.com/eiJack/ACESS-S2-2024-PacatosPinguinsPiratasDoDesertoProibido/blob/cc6209abc5d7921ac8ca0804cd7391052ce28ab7/relatorios/imagem/subnavalteradoCCXP.png">
+<p>O Nav secundário das páginas da CCXP no começo eram de cor roxo escuro no background(#8a2be2) e a letra na cor preta(black). Ao passar o site no Google Lighthouse, emitiu um alerta de contraste das cores, que pode ter falhas na leitura, principalmente para as pessoas deficientes.</p>
+<p>entre algumas soluções, encontramos a possibilidade de mudar do background para um outro tom de roxo(#6E1ABC) e a cor dos botões para White(#FFFFFF).</p>
+<p>ou também podemos deixar o fundo mais claro, dando um melhor contraste para as letras na cor preta, facilitando a leitura para as pessoas deficientes visuais.</p>
 <p>No restante das páginas, de Entrevistas, Cosplyas, eSports, Artistas e página principal da CCXP não hove qualquer alerta de contraste avisando da necessidade de mudança de cor, assim, permanecendo nas seguintes cores:</p><br>
 <ul>
   <li>Cor do Background: Branco(#FFFFFF)</li>
@@ -97,3 +94,7 @@ Por tanto a principal mundança realizada em todas as páginas foi a alateraçã
   <li>Cor das Bordas: Roxo(#8a2be2) solid de 2px</li>
   <li>Cor dos Textos: Textos principais  de cor preta, títulos em Negrito(Bold).</li>
 </ul>
+
+<p>7. Footer</p>
+<p>As cores de fundo e de do texto não possuem uma taxa de contraste suficiente. Texto de baixo contraste é difícil ou impossível de ler para muitos usuários. 
+Realizada alteração da cor da fonte de #8A2BE2 para #C375FF, obtendo um maio contraste com a cor de fundo e obtendo uma avaliação AAA no webaim.</p>
