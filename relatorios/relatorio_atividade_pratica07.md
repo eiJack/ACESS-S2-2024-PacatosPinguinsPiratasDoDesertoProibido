@@ -18,17 +18,13 @@ Que apresenta de Contrast Ratio: 7.3:1
 Que apresenta de Contrast Ratio: 7.8:1
 Ao discutir com o grupo, a escolha que melhor encaixa é apenas a alteração de cor da letra para white, pois se não teria que alterar tanto a cor padrão em diversos outros elementos do site.
 
-<p> 3. Footer:</p>
-
-<p> 4. Domingo Nerd:</p>
+<p> 3. Domingo Nerd:</p>
 Ao se analisar as paginas que contem no Domingo Nerd, como pagina principal, concursos, jogos, cosplays e exposições, são poucas as possiveis alterações de cor que devem avaliadas, por exemplo as cores dos botões, bordas e cores de links. 
 
-<p> 5. Avaliando e corrigindo contraste de cores das páginas Notícias, Fatecon Artistas e Concursos.</p>
+<p> 4. Avaliando e corrigindo contraste de cores das páginas Notícias e Fatecon (Todas relacionadas)</p>
 
 - Página Notícias
 
-`-Cor de Fundo: ffffff / Cor do Menu Principal: 000000 | Contrast Ratio 21:1` <br><br>
-`-Cor de Fundo do Menu Principal: 000000 / Cor da Letra: ffffff | Contrast Ratio 21:1` <br><br>
 `-Cor de Fundo: ffffff / Cor das letras: 212529 | Contrast Ratio 15.42:1` <br><br>
 ``-Cor do Botão: 662bb2 / Cor da Letras no Botão: ffffff | Contrast Ratio 8.22:1`` <br><br>
 ``-Cor do Botão: 662bb2 / Cor de fundo: ffffff | Contrast Ratio 8.22:1`` <br><br>
@@ -36,24 +32,20 @@ Ao se analisar as paginas que contem no Domingo Nerd, como pagina principal, con
 
 - Página Artistas Fatecon
 
-``-Cor de Fundo: ffffff / Cor do Menu Principal: 000000 | Contrast Ratio 21:1`` <br><br>
-``-Cor de Fundo do Menu Principal: 000000 / Cor da Letra: ffffff | Contrast Ratio 21:1`` <br><br>
 ``-Cor de Fundo: ffffff / Cor das letras: 212529 | Contrast Ratio 15.42:1`` <br><br>
 ``-Cor das Bordas de Detalhe: 662bb2 / Cor de fundo: ffffff | Contrast Ratio 8.22:1`` <br><br>
-``-Cor de Fundo do Menu Secundário: a533ff / Cor da Letra: ffffff | Contrast Ratio 4.64:1`` <br><br>
+``-Cor de Fundo do Menu Secundário: 7600d1 / Cor da Letra: ffffff | Contrast Ratio 7.8:1`` <br><br>
 
 - Página Concursos Fatecon
 
-``-Cor de Fundo: ffffff / Cor do Menu Principal: 000000 | Contrast Ratio 21:1`` <br><br>
-``-Cor de Fundo do Menu Principal: 000000 / Cor da Letra: ffffff | Contrast Ratio 21:1`` <br><br>
 ``-Cor de Fundo: ffffff / Cor das letras: 212529 | Contrast Ratio 15.42:1`` <br><br>
 ``-Cor das Bordas de Detalhe: 662bb2 / Cor de fundo: ffffff | Contrast Ratio 8.22:1`` <br><br>
-``-Cor de Fundo do Menu Secundário: a533ff / Cor da Letra: ffffff | Contrast Ratio 4.64:1`` <br><br>
+``-Cor de Fundo do Menu Secundário: 7600d1 / Cor da Letra: ffffff | Contrast Ratio 7.8:1`` <br><br>
 
-- Resumo sobre o contraste
+- Resumo sobre o contraste<br>
 Todas a cores tem um nível de contraste adequado quando colocadas lado a lado o que de torna o site acessível para pessoas com deficiência visual, assim como todos os textos das páginas em questão que possuem um nível de contraste considerado bom.
 
-- Testes de Acessibilidade:
+- Testes de Acessibilidade:<br>
 Foram rodadas as ferramentas Google Light House e Axe para verificar o nível de acessibilidade do Website o que gerou alguns erros não percebidos anteriormente e que logo foram corrigidos e atingiram um nível de pontuação bom.
 
 > **Observações:**<br>
@@ -63,26 +55,26 @@ Neste mesmo trabalho foi realizada a alteração nos contrastes das páginas e t
 
 Fatecon (Home):
 
-- Em relação a pagina da Fatecon(Home) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
+- Em relação a pagina da Fatecon(Home) foram somente uma mudança necessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
 
 - Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #7600D1 para melhorar a visibilidade mantendo a cor das letras #ffffff.
 
 Jogos (Fatecon): 
 
-- Em relação a pagina da Jogos(Fatecon) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
+- Em relação a pagina da Jogos(Fatecon) foram somente uma mudança necessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
 
 - Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #7600D1 para melhorar a visibilidade mantendo a cor das letras #ffffff.
 
 Workshops (Fatecon): 
 
-- Em relação a pagina da Jogos(Fatecon) foram somente uma mudança nescessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
+- Em relação a pagina da Jogos(Fatecon) foram somente uma mudança necessária para atingir os padrões de cores AAA no caso a cor dos detalhes e dos botões alterando de #8A2BE2 para #662bb2, mantendo todas as outras cores, o fundo como #ffffff e a cor das letras como #000000.
 
 - Na cor do Menu secundário alteramos a cor de fundo, foi substituído a cor #a533ff pela cor #6E1ABC para melhorar a visibilidade mantendo a cor das letras #ffffff.
 
-Por tanto a principal mundança realizada em todas as páginas foi a alateração das cores #8A2BE2 e #a533ff para a cor #7600D1, foram realizados também algumas alterações visando melhorar a acessibilidade em todas as páginas a cima.
+Por tanto a principal mudança realizada em todas as páginas foi a alteração das cores #8A2BE2 e #a533ff para a cor #7600D1, foram realizados também algumas alterações visando melhorar a acessibilidade em todas as páginas a cima.
 
 
-<p> 6. Páginas da CCXP</p>
+<p> 5. Páginas da CCXP</p>
 <p>Ao passar no software Lighthouse, ele deu alertas apenas no subnav das páginas</p>
 <p>O Nav secundário das páginas da CCXP no começo eram de cor roxo escuro no background(#8a2be2) e a letra na cor preta(black). Ao passar o site no Google Lighthouse, emitiu um alerta de contraste das cores, que pode ter falhas na leitura, principalmente para as pessoas deficientes.</p>
 <p>entre algumas soluções, encontramos a possibilidade de mudar do background para um outro tom de roxo(#6E1ABC) e a cor dos botões para White(#FFFFFF).</p>
@@ -95,6 +87,6 @@ Por tanto a principal mundança realizada em todas as páginas foi a alateraçã
   <li>Cor dos Textos: Textos principais  de cor preta, títulos em Negrito(Bold).</li>
 </ul>
 
-<p>7. Footer</p>
+<p>6. Footer</p>
 <p>As cores de fundo e de do texto não possuem uma taxa de contraste suficiente. Texto de baixo contraste é difícil ou impossível de ler para muitos usuários. 
 Realizada alteração da cor da fonte de #8A2BE2 para #C375FF, obtendo um maio contraste com a cor de fundo e obtendo uma avaliação AAA no webaim.</p>
