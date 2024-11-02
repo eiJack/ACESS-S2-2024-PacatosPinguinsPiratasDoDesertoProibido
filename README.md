@@ -23,4 +23,5 @@ R.A.:
 - 2650832323016
 - 2650832323011
 
-Descrição do trabalho: Atividade Prática 07: Ajuste das Cores e do Contraste no Projeto
+Descrição do trabalho: Atividade Prática 08: Estilização de elementos
+HTMLpara acessibilidade
