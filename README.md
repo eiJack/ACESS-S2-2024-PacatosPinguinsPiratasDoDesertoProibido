@@ -24,4 +24,4 @@ R.A.:
 - 2650832323011
 
 Descrição do trabalho: Atividade Prática 08: Estilização de elementos
-HTMLpara acessibilidade
+HTML para acessibilidade
