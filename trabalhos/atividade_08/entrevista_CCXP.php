@@ -15,7 +15,13 @@
     <?php require "header.inc.php"; ?>
     <?php require "ccxp.nav.inc.php"; ?>
 <div class="container">
-
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                    <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="CCXP.php">CCXP</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Entrevistas</li>
+                    </ol>
+                    </nav> 
 <article class="margementevista">
     <div class="titulo">
         <h2>Entrevistas</h2>        
@@ -24,7 +30,7 @@
 </article>
 
 <aside>
-    <div class= "row">      
+    <div class= "row">   
         <div class="col-lg-4 col-md-6 col-sm-12 ">
             <div class="blocoentrevista">
                 <img src="imagem/jason-mamoa1.webp" alt= "Entrevista" class="img-fluid" width="300" height="200">

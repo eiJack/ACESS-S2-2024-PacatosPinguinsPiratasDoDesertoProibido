@@ -17,6 +17,13 @@
         <article>
         <div class="row">
             <div class="col-12">
+            <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                <li class="breadcrumb-item"><a href="dn.php">Domingo Nerd</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Jogos</li>
+                </ol>
+            </nav>
                 <h2 class="centropagina margem6">Jogos</h2> <!-- em todos os tamanhos -->
                 <p> Do mais habilidoso guerreiro de espada ao dançarino mais animado, o Domingo Nerd de Ibiúna ofereceu uma variedade de atrações para todos os tipos de nerds e geeks! Deixe-nos guiá-lo através das aventuras que esperavam os participantes em nossos quatro cantos de entretenimento:</p>
             </div>

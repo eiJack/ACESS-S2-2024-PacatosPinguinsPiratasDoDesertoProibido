@@ -108,6 +108,11 @@
     display: flex;
 }
 
+.fixfootercolor {
+    background-color: white;
+    color: #212529;
+}
+
 
 @media (min-width: 992px) {
     .bordas {

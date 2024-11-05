@@ -15,7 +15,13 @@
     <?php require "ccxp.nav.inc.php"; ?>
 
 <div class="container">
-   
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                    <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="CCXP.php">CCXP</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Cosplays</li>
+                    </ol>
+                    </nav>
 <article class= "margemcosplay">
     <div class="titulo">
         <h2>Cosplay - Hall de campeões</h2>

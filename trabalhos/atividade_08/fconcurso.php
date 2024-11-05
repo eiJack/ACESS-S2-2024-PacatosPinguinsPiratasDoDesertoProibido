@@ -24,12 +24,18 @@
 <?php require "dn.nav.inc.fatecon.php"; ?>
 
 <main class="mainprincipal bordas">
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                    <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="fatecon.php">Fatecon</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Concursos</li>
+                    </ol>
+                    </nav>
             <header>
             <h1 class="hconcursos text-center"> <i class="bi bi-award"></i> Concursos</h1>
             <p class="text-center">Segue abaixo concursos realizados pela FATECon!</p>
             </header>
             <div class="row col-12">
-
                 <section class="col-sm-12 col-md-6 col-lg-6 shadow p-3 mb-5 rounded sectionconcursos">
                     <div class="borda">
                     <h2 class="h2concursos">Concurso Desenhe São Roque 2023</h2>

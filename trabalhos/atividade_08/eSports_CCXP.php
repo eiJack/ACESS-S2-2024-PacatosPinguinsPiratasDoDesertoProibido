@@ -21,6 +21,13 @@
     <?php require "ccxp.nav.inc.php"; ?>
     
 <div role="main" class="container">
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                    <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="CCXP.php">CCXP</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">E-Sports</li>
+                    </ol>
+                    </nav>
 	 <main class="margemesports">
             <article role="article" class="titulo">
 		<header role="banner">
