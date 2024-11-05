@@ -23,5 +23,4 @@ R.A.:
 - 2650832323016
 - 2650832323011
 
-Descrição do trabalho: Atividade Prática 08: Estilização de elementos
-HTML para acessibilidade
+Descrição do trabalho: Atividade Prática 04: Criação de cabeçalhos, links e menus acessíveis.

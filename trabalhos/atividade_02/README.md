@@ -23,5 +23,4 @@ R.A.:
 - 2650832323016
 - 2650832323011
 
-Descrição do trabalho: Atividade Prática 08: Estilização de elementos
-HTML para acessibilidade
+Descrição do trabalho: Atividade Prática 02: Novo HTML do PI: Com base na revisão de HTML apresentada pelo professor, reconsidere o HTML indicado nos prints das telas do PI do semestre passado (Atividade Prática 01) e crie o HTML para a home e mais uma página.
