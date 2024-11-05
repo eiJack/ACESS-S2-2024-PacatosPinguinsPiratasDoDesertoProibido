@@ -23,3 +23,17 @@
   }
 
 .bt {background-color: #8A2BE2; border: 2px solid black; border-radius: 10px; width: 35px; height: 35px;}
+
+/* Borda de navegação  */
+
+nav a:focus {
+  border: solid 5px;
+  border-color: #FF9448;
+  outline: none;
+}
+
+.Navegacao:focus {
+  border: solid 5px;
+  border-color:#FF9448;
+  outline: none;
+}
