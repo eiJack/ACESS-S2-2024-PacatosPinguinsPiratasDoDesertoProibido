@@ -20,6 +20,12 @@
             <div class="row align-items-end">
                 <div class="row">
                     <div class="col-12">
+                            <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                            <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Fatecon</li>
+                            </ol>
+                            </nav>
                         <main>
                             <header>
                                 <figure class="imagem2 text-center">

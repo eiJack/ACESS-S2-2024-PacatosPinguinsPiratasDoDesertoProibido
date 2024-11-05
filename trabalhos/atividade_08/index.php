@@ -16,6 +16,11 @@
         <main>
             <div class="row justify-content-md-center">
                 <article class="col-12">
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajustep">
+                        <ol class="breadcrumb">
+                        <li class="breadcrumb-item active" aria-current="page">Home</li>
+                        </ol>
+                    </nav>
                     <h2 hidden> Pacatos Pinguins Piratas do Deserto Proibido </h2>
                     <figure class="centropagina">
                         <img class="img" src="imagem/header.webp" alt="é uma imagem de apresentação com o nome do grupo (Pacatos pinguins piratas do deserto proibido) em negrito com o fundo roxo">
