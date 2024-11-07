@@ -32,7 +32,7 @@ nav a:focus {
   outline: none;
 }
 
-.Navegacao:focus {
+a:focus {
   border: solid 5px;
   border-color:#FF9448;
   outline: none;
