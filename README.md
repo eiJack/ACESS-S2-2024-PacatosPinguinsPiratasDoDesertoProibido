@@ -1,6 +1,6 @@
 Nome do grupo: Pacatos Pinguins Piratas do Deserto Proibido <br>
 
-Integrantes: 
+Nomes dos integrantes do grupo: 
 - Abner Lucas Brito da Silva
 - Cristiane Aparecida Barros Pereira
 - Gabriel Pires Vilanova Albuquerque
@@ -23,4 +23,5 @@ R.A.:
 - 2650832323016
 - 2650832323011
 
-Descrição do trabalho: Atividade Prática 06: Checklist para o portal sobre Histórias em Quadrinhos
+Descrição do trabalho: Atividade Prática 08: Estilização de elementos
+HTML para acessibilidade
