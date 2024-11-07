@@ -25,7 +25,13 @@
     <?php require "ccxp.nav.inc.php"; ?>
 
     <div role="main" class="container margem">
-        
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                    <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="CCXP.php">CCXP</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Artistas</li>
+                    </ol>
+                    </nav>
         <article class="h1 text-center">  
                 <h1 class="h1">Artists' Valley by Bis</h1>
         </article>

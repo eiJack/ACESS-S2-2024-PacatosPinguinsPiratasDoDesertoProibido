@@ -19,6 +19,13 @@
 
         <div class="row">
             <div class="col-12">
+            <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                    <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="fatecon.php">Fatecon</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Jogos</li>
+                    </ol>
+                    </nav>
                 <article>
                     <h2 class="titulo shadow-sm p-3 mb-5 bg-white rounded">Jogos</h2>
                     <figure class="imagem2">

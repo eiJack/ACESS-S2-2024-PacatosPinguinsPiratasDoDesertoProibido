@@ -18,6 +18,13 @@
 
     <div class="row">
          <div class="col-12"><!-- em todos os tamanhos -->
+         <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                <li class="breadcrumb-item"><a href="dn.php">Domingo Nerd</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Concursos</li>
+                </ol>
+            </nav>
             <h2 class="centropagina margem6">Concursos</h2>
             <p> Não importa qual seja sua paixão ou habilidade, há um concurso esperando por você no Domingo Nerd. Junte-se a nós para uma experiência emocionante repleta de criatividade, camaradagem e, é claro, muita diversão! Muitos se prepararam para brilhar e mostrar todo o seu talento nos emocionantes concursos que os aguardavam no Domingo Nerd! Seja você um artista criativo, um mestre da caracterização ou um dançarino habilidoso, teve competições emocionantes que oferecem a chance de destacar suas habilidades e se divertir ao máximo. </p>
         </div>
