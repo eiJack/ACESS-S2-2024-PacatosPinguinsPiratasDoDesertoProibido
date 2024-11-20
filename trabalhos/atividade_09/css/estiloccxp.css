@@ -194,4 +194,11 @@ img {  display: block;
         width: 100%;}
 }
 
+.galeria2 {margin-bottom: 10px;
+    padding: 0px ;
+    border: 2px solid #8A2BE2; 
+    border-radius: 10px; 
+    height: 550px;
+}
+
 
