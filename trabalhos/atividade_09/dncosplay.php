@@ -17,6 +17,13 @@
 <div class="container">
     <div class="row">
         <div class="col-12"><!-- em todos os tamanhos -->
+            <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                <li class="breadcrumb-item"><a href="dn.php">Domingo Nerd</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Cosplays</li>
+                </ol>
+            </nav>
             <h2 class="centropagina margem6">Cosplays</h2>
             <p> Cosplay é uma forma de performance artística onde os participantes, conhecidos como cosplayers, se vestem e interpretam personagens fictícios de diversos lugares, como filmes, séries, jogos de vídeo game, histórias em quadrinhos, animes, mangás e literatura. Os cosplayers geralmente se esforçam para reproduzir fielmente os trajes, acessórios, maquiagem e até mesmo os gestos e maneirismos dos personagens que estão retratando. Alguns cosplayers também constroem seus próprios trajes, muitas vezes utilizando técnicas de costura, modelagem e artesanato para alcançar um alto nível de detalhe e precisão.</p>
             <p>Os cosplays são frequentemente exibidos em convenções, eventos temáticos, concursos de cosplay e encontros da comunidade geek, onde os participantes têm a oportunidade de compartilhar sua paixão pelos personagens e pela cultura pop, além de interagir com outros fãs e admiradores.</p>
