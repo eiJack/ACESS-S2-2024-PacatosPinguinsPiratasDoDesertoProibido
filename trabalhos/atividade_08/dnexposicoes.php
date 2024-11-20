@@ -17,6 +17,13 @@
 
         <div class="row">
            <div class="col-12">
+           <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                <li class="breadcrumb-item"><a href="dn.php">Domingo Nerd</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Exposições</li>
+                </ol>
+            </nav>
                 <h2 class="centropagina margem6">Exposições</h2> <!-- em todos os tamanhos -->
                 <p> Se preparando para satisfazer seus desejos gastronômicos e adquirir produtos exclusivos que fizeram o coração geek do público bater mais forte! No Domingo Nerd, não apenas é celebrado a cultura geek, mas também oferecido uma variedade de opções de comida e mercadorias para tornar a experiência de todos ainda mais memorável. Tendo desde barracas de comida de sabores inspirados na cultura geek, até barracas de produtos geek, que  tinham itens colecionáveis e acessórios inspirados em diversos personagens favoritos do público.</p>
             </div>

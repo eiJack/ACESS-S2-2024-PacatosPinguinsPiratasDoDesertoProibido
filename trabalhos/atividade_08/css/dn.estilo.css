@@ -80,6 +80,39 @@ ul li a {text-decoration: none;margin-right: 20px;}
 .bordapreta:target {text-decoration: underline overline; text-decoration-color: black; text-shadow: 1px 1px 0px;}
 
 
+
+/*BreadcrumbCSS*/
+.breadcrumbajuste{
+    padding-top: 50px;
+    padding-left: 40px;
+    background-color: white;
+    color: #7600D1;
+}
+.breadcrumbajuste a{
+    color: #7600D1;
+    text-decoration: none;
+}
+.breadcrumbajuste a:hover{
+    text-decoration: underline;
+}
+
+/*BreadcrumbCSS Páginas Sem Sub Menu*/
+.breadcrumbajustep{
+    padding-top: 10px;
+    padding-left: 40px;
+    background-color: white;
+    color: #7600D1;
+}
+.breadcrumbajustep a{
+    color: #7600D1;
+    text-decoration: none;
+}
+.breadcrumbajustep a:hover{
+    text-decoration: underline;
+}
+
+
+
 /*footer*/
 footer {
     background-color: black;

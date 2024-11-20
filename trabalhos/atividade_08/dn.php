@@ -17,6 +17,12 @@
 
     <div class="row">
         <div class="col-12">
+                <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                    <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Domingo Nerd</li>
+                    </ol>
+                </nav>
             <figure class="centropagina margemtop">
                 <img class = "img margem5"  src="imagem/dn2.webp" alt="é uma imagem da logo e dos personagens que representam o domingo nerd">
             </figure>
