@@ -1,6 +1,6 @@
 Nome do grupo: Pacatos Pinguins Piratas do Deserto Proibido <br>
 
-Integrantes: 
+Nomes dos integrantes do grupo: 
 - Abner Lucas Brito da Silva
 - Cristiane Aparecida Barros Pereira
 - Gabriel Pires Vilanova Albuquerque
