@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Incluir Cosplay</title>
+    <title>Incluir Artista</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <link rel="stylesheet" href="css/estilo.css">
     <link rel="stylesheet" href="css/estiloccxp.css">
@@ -14,7 +14,7 @@
     <?php require "ccxp.nav.inc.php"; ?>
 
     <div class="container margem" style= "margin-top: 50px;"> 
-        <h2>Incluir Novo Cosplay</h2> 
+        <h2>Incluir Novo Artista</h2> 
         <form action="processar_artista.php" method="post" style = "text-align: left;"> 
             <div class="mb-4"> <label for="nomeCosplayer" class="form-label">Nome do Artista</label> 
             <input type="text" class="form-control" id="nomeArtista" name="nomeArtista" required> </div> 
