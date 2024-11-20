@@ -13,7 +13,12 @@
 <?php require "header.inc.php"; ?>
 
 <div class="container">
-
+                            <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajustep">
+                            <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Sobre</li>
+                            </ol>
+                            </nav>
     <article>
         <div class="row">
             <div  class="col-12">

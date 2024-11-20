@@ -19,20 +19,27 @@
 
         <div class="row">
             <div class="col-12">
+            <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                    <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="fatecon.php">Fatecon</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Jogos</li>
+                    </ol>
+                    </nav>
                 <article>
                     <h2 class="titulo shadow-sm p-3 mb-5 bg-white rounded">Jogos</h2>
                     <figure class="imagem2">
-                        <img class="img-fluid" src="Imagem/fjogos.webp" alt="Imagem Incial">
+                        <img class="img-fluid" src="Imagem/fjogos.webp" alt="Imagem Incial mostrando pessoas em volta de uma mesa jogando jogos de cartas">
                     </figure>
                     <p class="texto1">
                         Apresentando ao público as temáticas de RPG de mesa e Suwordplays na área de jogos da Fatecon é possível conhecer, aprender e praticar jogos diversos com amigos e entusiastas da área.
 
                         Com jogadores experientes, os jogos apresentados na Fatecon atrai tanto profissionais como iniciantes para aprimorar ou aprender novas habilidades em uma troca de experiências únicas.
                         </p>
-                    <section class="elemento1 container-fluid  shadow p-3 mb-5 bg-white rounded">
+                    <section class="elemento1 container-fluid  shadow p-3 mb-5 bg-white rounded" role="article">
                         <h3 class="titulo">RPG de Mesa</h3>
                         <figure class="imagem2">
-                            <img src="Imagem/RPG_de_Mesa.webp" alt="Imagem sobre o Jogo">
+                            <img src="Imagem/RPG_de_Mesa.webp" alt="Imagem sobre o Jogo ilustrando bonecos de RPG em cima de um mapa">
                         </figure>
                         <p class="texto1">Envolvendo muita criatividade e Imaginação o RPG de mesa traz aos participantes uma história narrada que pode ser totalmente alterada no decorrer do jogo, através de ações e decisões os jogadores dão vida aos seus personagens como se estivessem vivendo nesse mundo alterando totalmente o rumo de suas histórias.
                         </p>
@@ -45,7 +52,7 @@
                                 <div class="titulo3">
                                     <h4 class="titulo">Trabalho em Equipe</h4>
                                     <figure class="imagem">
-                                        <img src="imagem/RPG.webp" alt="Imagem sobre o Jogo">
+                                        <img src="imagem/RPG.webp" alt="Imagem mostrando um grupo de jovens jogando jogos de tabuleiro juntos">
                                     </figure>
                                     <p class="texto">No RPG de mesa é necessário um trabalho junto com sua equipe para passar por obstáculos, vencer monstros e alcançar objetivos.</p> 
                                 </div>                                     
@@ -54,7 +61,7 @@
                                 <div class="titulo3">
                                     <h4 class="titulo">Criatividade</h4>
                                     <figure class="imagem">
-                                        <img src="imagem/Criatividade.webp" alt="Imagem sobre o Jogo">
+                                        <img src="imagem/Criatividade.webp" alt="Imagem sobre o Jogo mostrando bonecos em cima de um mapa">
                                     </figure>   
                                     <p class="texto">É necessário muita criatividade e imaginação para vivenciar os personagens do RPG de mesa e definir suas ações e movimentos.</p>      
                                 </div>                               
@@ -63,17 +70,17 @@
                                 <div class="titulo3">
                                     <h4 class="titulo">Interpretação</h4>
                                     <figure class="imagem">
-                                        <img src="imagem/Interpretação.webp" alt="Imagem sobre o Jogo">
+                                        <img src="imagem/Interpretação.webp" alt="Imagem mostrando grupo de pessoas jogando jogos de tabuleiro">
                                     </figure> 
                                     <p class="texto">Necessário a interpretação do jogo obtendo informações necessárias para se tomar cada decisão. </p> 
                                 </div>                                  
                             </div>
                         </div>    
                     </section>
-                    <section class="elemento1 container-fluid shadow p-3 mb-5 bg-white rounded">
+                    <section class="elemento1 container-fluid shadow p-3 mb-5 bg-white rounded" role="article">
                             <h2 class="titulo">Swordplay</h2>
                             <figure class="imagem">
-                                <img src="imagem/Swordplay.webp" alt="Imagem sobre o Jogo">
+                                <img src="imagem/Swordplay.webp" alt="Imagem sobre o Jogo mostrando um grupo de homens lutando contra outro com espadas e escudos">
                             </figure>
                             <p class="texto1">Swordplay é o nome dado ao esporte que simula uma batalha entre combatentes equipados com réplicas de espadas ou instrumentos de combate revestidos com espuma para garantir a segurança dos participantes envolvidos.
                             </p>
@@ -86,7 +93,7 @@
                                     <div class="titulo3">
                                         <h4 class="titulo">Companheirismo</h4>
                                         <figure class="imagem">
-                                            <img src="imagem/Companheirismo.webp" alt="Imagem sobre o Jogo">
+                                            <img src="imagem/Companheirismo.webp" alt="Imagem mostrando dois homens ventindo armaduras e com espadas monstados em cavalos se comprimentando">
                                         </figure>
                                         <p class="texto">Acima de tudo, um treino ou torneio de Swordplay é um encontro de amigos com interesses em comum, trazendo colaboração entre eles e ajuda conjunta.</p> 
                                     </div>                                 
@@ -95,7 +102,7 @@
                                     <div class="titulo3">  
                                         <h4 class="titulo">Esportes</h4>                                      
                                         <figure class="imagem">
-                                            <img src="imagem/Esporte.webp" alt="Imagem sobre o Jogo">
+                                            <img src="imagem/Esporte.webp" alt="Imagem mostrando soldados com espadas lutando">
                                         </figure>   
                                         <p class="texto">Para muitos Jovens o Swordplay tem sido a maneira mais divertida e atraente para se sair de casa conhecer amigos e praticar atividade fisica.                      
                                         </p>                                           
@@ -105,7 +112,7 @@
                                     <div class="titulo3">
                                         <h4 class="titulo">Diversão</h4>
                                         <figure class="imagem">
-                                            <img src="imagem/Diversão.webp" alt="Imagem sobre o Jogo">
+                                            <img src="imagem/Diversão.webp" alt="Imagem mostrando duas pessoas simulando uma luta de espadas">
                                         </figure> 
                                         <p class="texto">Muitas pessoas gostam de jogos e filmes com temática medieval. No Swordplay é possível participar de combates, jogos e dinâmicas que envolvem batalhas com espadas, machados, escudos e outros equipamentos inspirados no período medieval.                                          
                                         </p>  
