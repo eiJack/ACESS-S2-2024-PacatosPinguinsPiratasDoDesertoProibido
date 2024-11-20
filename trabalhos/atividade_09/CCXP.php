@@ -18,6 +18,12 @@
     <?php require "header.inc.php"; ?>
     <?php require "ccxp.nav.inc.php"; ?>
     <div class="container text-center">
+                            <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                            <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">CCXP</li>
+                            </ol>
+                            </nav>
         <main>
             <section>
                 <h1 class="espacotopo">Apresentando a CCXP</h1>

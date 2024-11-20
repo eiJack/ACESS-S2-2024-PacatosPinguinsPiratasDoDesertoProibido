@@ -28,6 +28,13 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12">
+                <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                    <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="fatecon.php">Fatecon</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Artistas</li>
+                    </ol>
+                    </nav>
                     <h1 class="hheader text-center"> <i class="bi bi-palette"></i>Artistas</h1>
                     <p class="text-center">Segue abaixo alguns dos artistas que participaram da FATECon!</p>
                 <div class="row">
@@ -79,7 +86,7 @@
                         
 
                         </div>
-                        <footer>
+                        <footer class="fixfootercolor">
                         <h3 class="fontd">Redes Sociais: </h3>
                         <div class="fixnvdatag">
                         <a class="fixnvdaitem" aria-label="Acesso ao Instagram da Grazzi Diffonso." href="https://www.instagram.com/grazidiffonso/"><i aria-hidden="true"  class="bi bi-instagram"></i></a>
@@ -138,7 +145,7 @@
                         </figure>
 
                         </div>
-                        <footer>
+                        <footer class="fixfootercolor">
                         <h3 class="fontd">Redes Sociais: </h3>
                         <div class="fixnvdatag">
                         <a class="fixnvdaitem" aria-label="Instagram Guilherme Infante" href="https://www.instagram.com/guilherme.infante/"><i aria-hidden="true" class="bi bi-instagram"></i></a>
@@ -197,7 +204,7 @@
                         </figure>
 
                         </div>
-                        <footer>
+                        <footer class="fixfootercolor">
                         <h3 class="fontd">Redes Sociais: </h3>
                         <div class="fixnvdatag">
                         <a class="fixnvdaitem" aria-label="Instagram Marcos Venceslau" href="https://www.instagram.com/marcosvenceslau21/"><i aria-hidden="true" class="bi bi-instagram"></i></a>
@@ -251,7 +258,7 @@
                         </figure>
 
                         </div>
-                        <footer>
+                        <footer class="fixfootercolor">
                         <h3 class="fontd">Redes Sociais: </h3>
                         <div class="fixnvdatag">
                         <a class="fixnvdaitem" aria-label="Instagram Mel Meow" href="https://www.instagram.com/melmeowart/"><i aria-hidden="true" class="bi bi-instagram"></i></a>
@@ -306,7 +313,7 @@
                         </figure>
 
                         </div>
-                        <footer>
+                        <footer class="fixfootercolor">
                         <h3 class="fontd">Redes Sociais: </h3>
                         <div class="fixnvdatag">
                         <a class="fixnvdaitem" aria-label="Instagram Mushi Indeciso" href="https://www.instagram.com/mushi.indeciso/"><i aria-hidden="true" class="bi bi-instagram"></i></a>
@@ -363,7 +370,7 @@
                         </figure>
 
                         </div>
-                        <footer>
+                        <footer class="fixfootercolor">
                         <h3 class="fontd">Redes Sociais: </h3>
                         <div class="fixnvdatag">
                         <a class="fixnvdaitem" aria-label="Instagram Sam Hart" href="https://www.instagram.com/samrahart/"><i aria-hidden="true" class="bi bi-instagram"></i></a>

@@ -23,4 +23,5 @@ R.A.:
 - 2650832323016
 - 2650832323011
 
-Descrição do trabalho: Atividade Prática 09: integração de banco de dados para o portal HTML para acessibilidade
+Descrição do trabalho: Atividade Prática 08: Estilização de elementos
+HTML para acessibilidade.
