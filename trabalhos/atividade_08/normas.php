@@ -16,6 +16,12 @@
     <article>
         <div class="row">
             <div  class="col-12">
+                            <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajustep">
+                            <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Politicas de Privacidade</li>
+                            </ol>
+                            </nav>
                 <h2 class="centropagina margem6">Politicas de Privacidade</h2> <!-- em todos os tamanhos -->
             </div>
             <div class="col-12">
