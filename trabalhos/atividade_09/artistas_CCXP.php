@@ -24,7 +24,7 @@
     <?php require "header.inc.php"; ?>
     <?php require "ccxp.nav.inc.php"; ?>
 
-	<?php
+    <?php
         $nome_servidor = "localhost";
         $nome_usuario = "root";
         $senha = "";
@@ -49,7 +49,7 @@
                     </nav>
         <article class="h1 text-center">  
                 <h1 class="h1">Artists' Valley by Bis</h1>
-		<p>O Artist's Valley By Bis é um  espaço no evento onde diversos artistas apresentam suas obras ao público</p>
+                <p> </p>
         </article>
 
         
@@ -57,13 +57,12 @@
         <div role="table" class="row" aria-label="tabela de artistas da CCXP">
             
         <?php
-
         $sql = "SELECT a.NomeArtista, a.FontePesquisa, a.DescricaoArtista FROM Artistas a";
         $result = $conecta->query($sql);
 
         if ($result->num_rows > 0) {
             while ($row = $result->fetch_assoc()) {
-                echo '<div class="col-lg-4 col-md-6 col-sm-12">';
+                echo '<div role="cell" class="col-lg-4 col-md-6 col-sm-12">';
                 echo '<div class="galeria2 text-center"/>';
                 echo '<figure class="text-center">';
                 echo '<img src="imagem/' . $row["NomeArtista"] . '_ccxp.webp" alt="Imagem do artista"/>';
@@ -94,6 +93,7 @@
 
 
     </div>
+
     <?php require "footer.inc.php"; ?>
 
 </body>
