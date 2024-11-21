@@ -24,6 +24,21 @@
     <?php require "header.inc.php"; ?>
     <?php require "ccxp.nav.inc.php"; ?>
 
+	<?php
+        $nome_servidor = "localhost";
+        $nome_usuario = "root";
+        $senha = "";
+        $nome_banco = "artistasccxp";
+
+        // Criar conexão
+        $conecta = new mysqli($nome_servidor, $nome_usuario, $senha, $nome_banco);
+
+        // Verificar conexão
+        if ($conecta->connect_error) {
+            die("Conexão falhou: " . $conecta->connect_error);
+        }
+    ?>
+
     <div role="main" class="container margem">
                     <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
                     <ol class="breadcrumb">
@@ -42,6 +57,7 @@
         <div role="table" class="row" aria-label="tabela de artistas da CCXP">
             
         <?php
+
         $sql = "SELECT a.NomeArtista, a.FontePesquisa, a.DescricaoArtista FROM Artistas a";
         $result = $conecta->query($sql);
 
