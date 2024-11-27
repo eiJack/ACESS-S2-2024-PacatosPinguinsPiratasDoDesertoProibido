@@ -24,6 +24,21 @@
     <?php require "header.inc.php"; ?>
     <?php require "ccxp.nav.inc.php"; ?>
 
+    <?php
+        $nome_servidor = "localhost";
+        $nome_usuario = "root";
+        $senha = "";
+        $nome_banco = "artistasccxp";
+
+        // Criar conexão
+        $conecta = new mysqli($nome_servidor, $nome_usuario, $senha, $nome_banco);
+
+        // Verificar conexão
+        if ($conecta->connect_error) {
+            die("Conexão falhou: " . $conecta->connect_error);
+        }
+    ?>
+
     <div role="main" class="container margem">
                     <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
                     <ol class="breadcrumb">
@@ -34,7 +49,7 @@
                     </nav>
         <article class="h1 text-center">  
                 <h1 class="h1">Artists' Valley by Bis</h1>
-		<p>O Artist's Valley By Bis é um  espaço no evento onde diversos artistas apresentam suas obras ao público</p>
+                <p> </p>
         </article>
 
         
@@ -47,7 +62,7 @@
 
         if ($result->num_rows > 0) {
             while ($row = $result->fetch_assoc()) {
-                echo '<div class="col-lg-4 col-md-6 col-sm-12">';
+                echo '<div role="cell" class="col-lg-4 col-md-6 col-sm-12">';
                 echo '<div class="galeria2 text-center"/>';
                 echo '<figure class="text-center">';
                 echo '<img src="imagem/' . $row["NomeArtista"] . '_ccxp.webp" alt="Imagem do artista"/>';
@@ -78,6 +93,7 @@
 
 
     </div>
+
     <?php require "footer.inc.php"; ?>
 
 </body>
