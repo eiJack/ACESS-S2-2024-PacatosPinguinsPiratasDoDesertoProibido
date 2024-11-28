@@ -3,7 +3,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
 $nome_servidor = "localhost";
 $nome_usuario = "root";
 $senha = "";
-$nome_banco = "formulario_contato";
+$nome_banco = "pinguinspiratas";
 
 // Criar conexão
 $conecta = new mysqli($nome_servidor, $nome_usuario, $senha, $nome_banco);

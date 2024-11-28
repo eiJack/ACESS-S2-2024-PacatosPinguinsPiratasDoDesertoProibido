@@ -16,14 +16,16 @@
     <article>
         <div class="row">
             <div  class="col-12">
-                            <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajustep">
-                            <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Politicas de Privacidade</li>
-                            </ol>
-                            </nav>
+                <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajustep">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Politicas de Privacidade</li>
+                    </ol>
+                </nav>
+
                 <h2 class="centropagina margem6">Politicas de Privacidade</h2> <!-- em todos os tamanhos -->
             </div>
+
             <div class="col-12">
                 <p>Olá, somos a empresa Pacatos Pinguins Piratas Ltda, inscrita no CNPJ 26.446.690/0001-09, com sede na cidade de São Roque, estado de São Paulo, na rua Rua da Fatec, 1590, em respeito a sua privacidade e pela garantia da transparência com os seus dados pessoais, dedicamos esta Política de Privacidade para explicar como os seus dados são tratados, para qual finalidade os utilizamos, quais as medidas que aplicamos para mantê-los seguros, entre outros assuntos.</p>
                 <p>Cumpre ressaltar que prezamos pela segurança das suas informações e adotamos as melhores práticas de integridade, garantindo a conformidade com as legislações vigentes.</p>
