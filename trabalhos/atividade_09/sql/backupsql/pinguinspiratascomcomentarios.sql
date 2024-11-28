@@ -1,10 +1,10 @@
-
+----- Nome do banco: pinguinspiratas -----
 
 CREATE DATABASE pinguinspiratas;
 
 USE pinguinspiratas;
 
-
+--pagina de noticias--
 
 CREATE TABLE noticias (
     id INT AUTO_INCREMENT,
@@ -93,7 +93,7 @@ VALUES
  'Ler mais sobre a notícia 6 jogos RPGs curtos para terminar a campanha em até 20 horas', 
  'https://www.tecmundo.com.br/voxel/281995-6-rpgs-curtos-zerar-20-horas.htm');
 
-
+-- pagina contatos, sendo dos formularios --
 CREATE TABLE divulgar_evento (
   id int PRIMARY KEY NOT NULL,
   nomeEvento varchar(150) NOT NULL,
@@ -118,7 +118,7 @@ ALTER TABLE deixar_comentario
   MODIFY id int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 COMMIT;
 
-
+-- Tabela pagina cosplays --
 CREATE TABLE Personagens (
     CodigoPersonagem INT AUTO_INCREMENT PRIMARY KEY,
     NomePersonagem VARCHAR(100) NOT NULL,
@@ -151,7 +151,7 @@ INSERT INTO Cosplayers (NomeCosplayer, CodigoPersonagem) VALUES
 ('JULIO CÉSAR DOS SANTOS', 6);
 
 
-
+-- Pagina Artistas --
 Create Table Artistas (
     CodigoArtista INT AUTO_INCREMENT Primary Key,
     NomeArtista Varchar(100) NOT NULL,
