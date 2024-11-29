@@ -17,7 +17,7 @@
                 include "dn.nav.inc.fatecon.php";
             ?>        
             <div class="row">
-            <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+            <nav aria-label="Guia de Localização da Página" class="breadcrumb-custom breadcrumbajuste">
                                 <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                                 <li class="breadcrumb-item"><a href="fatecon.php">Fatecon</a></li>
