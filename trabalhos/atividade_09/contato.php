@@ -15,7 +15,7 @@
 
 <main role="main">
 <div class="container">
-	<nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajustep">
+	<nav aria-label="Guia de Localização da Página" class="breadcrumb-custom breadcrumbajustep">
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php">Home</a></li>
             <li class="breadcrumb-item active" aria-current="page">Entre em contato com nossa equipe</li>
