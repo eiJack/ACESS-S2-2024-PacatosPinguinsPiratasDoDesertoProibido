@@ -87,8 +87,8 @@
 
         <a href="#" class="bt"></a>
 
-        <p><a href="incluir_artistas.php">Inserir mais dados</a></p>
-        <p><a href="listar_artistas.php">Excluir dados</a></p>
+        <p><a href="incluir_artistas.php" hidden>Inserir mais dados</a></p>
+        <p><a href="listar_artistas.php" hidden>Excluir dados</a></p>
     
 
 
