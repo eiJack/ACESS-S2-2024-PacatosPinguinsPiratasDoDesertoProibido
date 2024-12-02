@@ -14,7 +14,7 @@
     <?php require "ccxp.nav.inc.php"; ?>
 
     <div class="container margem" style= "margin-top: 50px;"> 
-        <h2>Incluir Novo Cosplay</h2> 
+        <h2>Incluir Novo Artista</h2> 
         <form action="processar_artista.php" method="post" style = "text-align: left;"> 
             <div class="mb-4"> <label for="nomeCosplayer" class="form-label">Nome do Artista</label> 
             <input type="text" class="form-control" id="nomeArtista" name="nomeArtista" required> </div> 

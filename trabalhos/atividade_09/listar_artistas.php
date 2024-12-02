@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Incluir Cosplay</title>
+    <title>Incluir Artista</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <link rel="stylesheet" href="css/estilo.css">
     <link rel="stylesheet" href="css/estiloccxp.css">
@@ -31,7 +31,7 @@
                 $nome_servidor = "localhost";
                 $nome_usuario = "root";
                 $senha = "";
-                $nome_banco = "artistasccxp";
+                $nome_banco = "pinguinspiratas";
 
                 // Criar conexão
                 $conecta = new mysqli($nome_servidor, $nome_usuario, $senha, $nome_banco);

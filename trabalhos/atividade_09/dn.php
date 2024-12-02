@@ -17,12 +17,12 @@
 
     <div class="row">
         <div class="col-12">
-                <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
-                    <ol class="breadcrumb">
+            <nav aria-label="Guia de Localização da Página" class="breadcrumb-custom breadcrumbajuste">
+                <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Domingo Nerd</li>
-                    </ol>
-                </nav>
+                </ol>
+            </nav>
             <figure class="centropagina margemtop">
                 <img class = "img margem5"  src="imagem/dn2.webp" alt="é uma imagem da logo e dos personagens que representam o domingo nerd">
             </figure>
@@ -82,7 +82,7 @@
                 </figure>
                 <div class="card-img-overlay text-purple">
                     <h5 class="card-title">Cosplays</h5>
-                    <a href="dncosplay.php" class="btn btn-primary">Ver mais</a>
+                    <a href="dncosplay.php" class="btn btn-primary" aria-label="Botão que ira te levar para outra pagina, sendo seu conteudo relacionado a cosplays do Domingo Nerd">Ver mais</a>
                 </div>
             </div>    
         </div>
@@ -94,7 +94,7 @@
                 </figure>
                 <div class="card-img-overlay text-purple">
                     <h5 class="card-title">Concursos</h5>
-                    <a href="dnconcursos.php" class="btn btn-primary">Ver mais</a>
+                    <a href="dnconcursos.php" class="btn btn-primary" aria-label="Botão que ira te levar para outra pagina, sendo seu conteudo relacionado aos concursos do Domingo Nerd">Ver mais</a>
                 </div>
             </div>
         </div>
@@ -105,7 +105,7 @@
                 </figure>
                 <div class="card-img-overlay text-purple">
                     <h5 class="card-title">Jogos</h5>
-                    <a href="dnjogos.php" class="btn btn-primary">Ver mais</a>
+                    <a href="dnjogos.php" class="btn btn-primary" aria-label="Botão que ira te levar para outra pagina, sendo seu conteudo relacionado aos jogos que tiveram no Domingo Nerd">Ver mais</a>
                 </div>
             </div>
         </div>
@@ -116,7 +116,7 @@
                 </figure>
                 <div class="card-img-overlay text-purple">
                     <h5 class="card-title">Exposições</h5>
-                    <a href="dnexposicoes.php" class="btn btn-primary">Ver mais</a>
+                    <a href="dnexposicoes.php" class="btn btn-primary" aria-label="Botão que ira te levar para outra pagina, sendo seu conteudo relacionado as exposições e barraquinhas de vendas que tiveram no Domingo Nerd">Ver mais</a>
                 </div>
             </div>
         </div>
@@ -132,7 +132,7 @@
                 <div class="col-md-12 col-lg-12">
                     <h5 class="card-title centropagina">Cosplays</h5>
                     <p> Os cosplays são uma forma de performance artística onde pessoas se vestem e interpretam personagens que gostão. Frequentemente exibidos em convenções, eventos temáticos, concursos de cosplay e encontros da comunidade geek, tendo a oportunidade de compartilhar sua paixão pelos personagens,interagindo com outros fãs e admiradores.</p>
-                    <a href="dncosplay.php" class="btn btn-primary">Ver mais</a>
+                    <a href="dncosplay.php" class="btn btn-primary" aria-label="Botão que ira te levar para outra pagina, sendo seu conteudo relacionado a cosplays do Domingo Nerd">Ver mais</a>
                 </div>
             </div>
         </section>
@@ -148,7 +148,7 @@
                 <div class="col-md-12 col-lg-12">
                     <h5 class="card-title centropagina">Concursos</h5>
                     <p> Seja você um artista criativo, um mestre da caracterização ou um dançarino habilidoso, teve competições emocionantes que oferecem a chance de destacar suas habilidades e se divertir ao máximo. Muitos se prepararam para brilhar e mostrar todo o seu talento nos emocionantes concursos que os aguardavam no Domingo Nerd!</p>
-                    <a href="dnconcursos.php" class="btn btn-primary">Ver mais</a>
+                    <a href="dnconcursos.php" class="btn btn-primary"  aria-label="Botão que ira te levar para outra pagina, sendo seu conteudo relacionado aos concursos do Domingo Nerd">Ver mais</a>
                 </div>
             </div>
         </section>
@@ -163,7 +163,7 @@
                 <div class="col-md-12 col-lg-12">
                     <h5 class="card-title centropagina">Jogos</h5>
                     <p> Do mais habilidoso guerreiro de espada ao dançarino mais animado, o Domingo Nerd de Ibiúna ofereceu uma variedade de atrações para todos os tipos de nerds e geeks! Deixe-nos guiá-lo através das aventuras que esperavam os participantes em nossos quatro cantos de entretenimento.</p>
-                    <a href="dnjogos.php" class="btn btn-primary">Ver mais</a>
+                    <a href="dnjogos.php" class="btn btn-primary" aria-label="Botão que ira te levar para outra pagina, sendo seu conteudo relacionado aos jogos que tiveram no Domingo Nerd">Ver mais</a>
                 </div>
             </div>
         </section>
@@ -177,7 +177,7 @@
                 <div class="col-md-12 col-lg-12">
                     <h5 class="card-title centropagina">Exposições</h5>
                     <p> No Domingo Nerd, não apenas é celebrado a cultura geek, mas também oferecido uma variedade de opções de comida e mercadorias para tornar a experiência de todos ainda mais memorável. Se preparando para satisfazer seus desejos gastronômicos e adquirir produtos exclusivos que fizeram o coração geek do público bater mais forte!</p>
-                    <a href="dnexposicoes.php" class="btn btn-primary">Ver mais</a>
+                    <a href="dnexposicoes.php" class="btn btn-primary" aria-label="Botão que ira te levar para outra pagina, sendo seu conteudo relacionado as exposições e barraquinhas de vendas que tiveram no Domingo Nerd">Ver mais</a>
                 </div>
             </div>
         </section>

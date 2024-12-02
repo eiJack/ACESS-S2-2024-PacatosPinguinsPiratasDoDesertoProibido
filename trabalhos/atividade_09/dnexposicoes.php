@@ -17,13 +17,14 @@
 
         <div class="row">
            <div class="col-12">
-           <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+           <nav aria-label="Guia de Localização da Página" class="breadcrumb-custom breadcrumbajuste">
                 <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item"><a href="dn.php">Domingo Nerd</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Exposições</li>
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="dn.php">Domingo Nerd</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Exposições</li>
                 </ol>
             </nav>
+
                 <h2 class="centropagina margem6">Exposições</h2> <!-- em todos os tamanhos -->
                 <p> Se preparando para satisfazer seus desejos gastronômicos e adquirir produtos exclusivos que fizeram o coração geek do público bater mais forte! No Domingo Nerd, não apenas é celebrado a cultura geek, mas também oferecido uma variedade de opções de comida e mercadorias para tornar a experiência de todos ainda mais memorável. Tendo desde barracas de comida de sabores inspirados na cultura geek, até barracas de produtos geek, que  tinham itens colecionáveis e acessórios inspirados em diversos personagens favoritos do público.</p>
             </div>
@@ -38,7 +39,7 @@
                         <img class = "img" src="imagem/cf.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
                     </figure>
                     <p> Desde pratos prontos até os ingredientes frescos, a seleção dos seus ingredientes é cuidadosamente escolhida para garantir que cada produto seja livre de qualquer componente de origem animal. Proporcionando uma experiência culinária excepcional, ao mesmo tempo em que respeitam o bem-estar animal e o meio ambiente.</p>
-                    <a target="_blank" href="https://www.instagram.com/contrafile_veganfoods/" class="btn btn-primary">Ver perfil do instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/contrafile_veganfoods/" class="btn btn-primary" aria-label="Link que leva ao instagram da empresa alimencia Contra File">Ver perfil do instagram</a>
                 </div>
             </div>
         </section>

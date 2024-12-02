@@ -15,7 +15,7 @@
 	<?php require "header.inc.php"; ?>     
     <?php require "ccxp.nav.inc.php"; ?>
 <div class="container margem">
-                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                    <nav aria-label="Guia de Localização da Página" class="breadcrumb-custom breadcrumbajuste">
                     <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item"><a href="CCXP.php">CCXP</a></li>
