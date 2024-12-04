@@ -15,12 +15,12 @@
 
 <main role="main">
 <div class="container">
-	<nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajustep">
-                            <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Entre em contato com nossa equipe</li>
-                            </ol>
-                            </nav>
+	<nav aria-label="Guia de Localização da Página" class="breadcrumb-custom breadcrumbajustep">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Entre em contato com nossa equipe</li>
+        </ol>
+    </nav>
     <article>
         <div class="row">
         <section class="col-sm-12 col-md-12 col-lg-6">
@@ -31,7 +31,7 @@
                 <p> Você está organizando um evento emocionante e quer garantir que ele receba a atenção que merece? Não procure mais! Nos dos Pinguins Piratas, estamos comprometidos em ajudar a promover os melhores eventos da comunidade geek e nerd. Seja um festival de cosplay, uma convenção de quadrinhos, um torneio de videogames ou qualquer outra celebração da cultura pop, estamos aqui para ajudar a divulgar seu evento para nossa apaixonada e engajada base de fãs. Para isso é só preencher o formulário a seguir, que entraremos em contato para explicar melhor como funciona essa divulgação.</p>
             </div>
             <div>
-                <form class="margem formulario" action="questionario.php" method="post" role="form">
+                <form class="margem formulario" action="formulario_contato.php" method="post" role="form">
                     <div class="field">
                         <label for="NomeDoEvento">Nome do evento:</label>
                         <input type="text" id="NomeDoEvento" name="NomeDoEvento" placeholder="Digite o nome do evento" aria-describedby="Coloque nessa área o nome do evento para divulgação">
@@ -63,7 +63,7 @@
                     <p> Você que deu uma passada pelo nosso site, gostou do conteudo e quer deixar algum elogio, sugestão de melhorias ou apenas um comentário, é só preencher o pequeno formulario abaixo com seu nome e seu comentario, que nós veremos.</p>
                 </div>
                 <div>
-                    <form>
+                    <form action="formulario_contato2.php" method="post">
                         <div class="field">
                             <label for="nome">Seu nome:</label>
                             <input type="text" id="nome" name="nome" placeholder="Digite o seu nome" aria-describedby="Coloque nessa área o seu nome, para sabermos quem deixou o comentario">

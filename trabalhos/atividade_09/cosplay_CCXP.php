@@ -18,7 +18,7 @@
         $nome_servidor = "localhost";
         $nome_usuario = "root";
         $senha = "";
-        $nome_banco = "CosplayCCXP";
+        $nome_banco = "pinguinspiratas";
 
         // Criar conexão
         $conecta = new mysqli($nome_servidor, $nome_usuario, $senha, $nome_banco);
@@ -31,7 +31,7 @@
 
 
     <div class="container margem">
-        <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+        <nav aria-label="Guia de Localização da Página" class="breadcrumb-custom breadcrumbajuste">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                 <li class="breadcrumb-item"><a href="CCXP.php">CCXP</a></li>

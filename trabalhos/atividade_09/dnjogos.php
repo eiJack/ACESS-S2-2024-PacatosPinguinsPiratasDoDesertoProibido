@@ -17,13 +17,14 @@
         <article>
         <div class="row">
             <div class="col-12">
-            <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
-                <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item"><a href="dn.php">Domingo Nerd</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Jogos</li>
-                </ol>
-            </nav>
+                <nav aria-label="Guia de Localização da Página" class="breadcrumb-custom breadcrumbajuste">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                        <li class="breadcrumb-item"><a href="dn.php">Domingo Nerd</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Jogos</li>
+                    </ol>
+                </nav>
+
                 <h2 class="centropagina margem6">Jogos</h2> <!-- em todos os tamanhos -->
                 <p> Do mais habilidoso guerreiro de espada ao dançarino mais animado, o Domingo Nerd de Ibiúna ofereceu uma variedade de atrações para todos os tipos de nerds e geeks! Deixe-nos guiá-lo através das aventuras que esperavam os participantes em nossos quatro cantos de entretenimento:</p>
             </div>
@@ -100,7 +101,7 @@
                     </figure>
                 </div>
                 <div class="col-sm-12 col-md-7 col-lg-7">
-                    <p> Ficando aos cuidados dos <a href="https://www.instagram.com/warlords_swordplay/">Warlords</a> no campo de batalha do Swordplay, muitos guerreiros mostraram sua habilidade e destreza em duelos épicos. Com espadas de espuma em punho, eles mergulharam em combates simulados cheios de adrenalina, onde os combatentes mostraram seu domínio das artes marciais, desviando-se de ataques, lançando contra-ataques calculados e defendendo suas posições com ferocidade. Cada batalha foi uma exibição de técnica e estratégia, com os guerreiros se esforçando ao máximo para alcançar a vitória.</p>
+                    <p> Ficando aos cuidados dos <a href="https://www.instagram.com/warlords_swordplay/" aria-label="Link que leva ao instagram da empresa de Swordplay que participou do evento">Warlords</a> no campo de batalha do Swordplay, muitos guerreiros mostraram sua habilidade e destreza em duelos épicos. Com espadas de espuma em punho, eles mergulharam em combates simulados cheios de adrenalina, onde os combatentes mostraram seu domínio das artes marciais, desviando-se de ataques, lançando contra-ataques calculados e defendendo suas posições com ferocidade. Cada batalha foi uma exibição de técnica e estratégia, com os guerreiros se esforçando ao máximo para alcançar a vitória.</p>
                     <p>E para os espectadores, foi um espetaculo emocionante, repleto de reviravoltas e momentos de inesperados. Cada golpe de espada, cada esquiva e cada vitória triunfante inspiravam aplausos e admiração, criando uma atmosfera eletrizante que envolvia a todos.</p>
                 </div>
                 <div class="col-sm-12 d-block d-lg-none d-md-none">

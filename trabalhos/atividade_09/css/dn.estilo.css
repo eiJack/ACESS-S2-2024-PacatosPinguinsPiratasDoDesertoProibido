@@ -106,3 +106,40 @@ footer {
         max-width: 100%;
         }
 }
+
+/* Breadcrumb Ajustes */
+.breadcrumbajuste {
+    padding-top: 50px;
+    padding-left: 40px;
+    background-color: #fff;
+    color: #7600d1;
+}
+
+.breadcrumbajuste a {
+    color: #7600d1;
+    text-decoration: none;
+}
+
+.breadcrumbajuste a:hover {
+    text-decoration: underline;
+}
+
+.breadcrumbajustep {
+    padding-top: 10px;
+    padding-left: 40px;
+    background-color: #fff;
+    color: #7600d1;
+}
+
+.breadcrumbajustep a {
+    color: #7600d1;
+    text-decoration: none;
+}
+
+.breadcrumbajustep a:hover {
+    text-decoration: underline;
+}
+
+.breadcrumb-custom {
+    --bs-breadcrumb-divider: '>';;
+  }
