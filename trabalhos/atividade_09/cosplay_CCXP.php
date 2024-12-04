@@ -78,9 +78,6 @@
         <p>Fonte: https://www.ccxp.com.br</p>
         <a href="#" class="bt"></a>
      
-        <p><a href="incluir_cosplay.php">Inserir mais dados</a></p>
-        <p><a href="listar_cosplays.php">Excluir dados</a></p>
-
     </div>
 
     <?php require "footer.inc.php"; ?>
