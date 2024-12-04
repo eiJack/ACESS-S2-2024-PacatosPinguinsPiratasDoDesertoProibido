@@ -3,6 +3,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="pt_BR">
+    <meta name="author" content="Pacatos Pinguins Piratas">
+    <meta name="description" content="Pacatos Pinguins Piratas - O evento Domingo Nerd sendo mais do que apenas um evento, é uma celebração da cultura geek e de tudo o que ela representa, parte dessa celebração são as exposições que vemos a seguir.">
 	<title>Exposições - Domingo Nerd</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -36,7 +40,7 @@
                 </div>   
                 <div class="col-12">
                     <figure class="centropagina margem2">
-                        <img class = "img" src="imagem/cf.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                        <img class = "img" src="imagem/cf.webp" alt="é uma imagem de apresentação que tem o logo da empresa alimencia Contra File">
                     </figure>
                     <p> Desde pratos prontos até os ingredientes frescos, a seleção dos seus ingredientes é cuidadosamente escolhida para garantir que cada produto seja livre de qualquer componente de origem animal. Proporcionando uma experiência culinária excepcional, ao mesmo tempo em que respeitam o bem-estar animal e o meio ambiente.</p>
                     <a target="_blank" href="https://www.instagram.com/contrafile_veganfoods/" class="btn btn-primary" aria-label="Link que leva ao instagram da empresa alimencia Contra File">Ver perfil do instagram</a>
@@ -50,10 +54,10 @@
                 </div>   
                 <div class="col-12">
                     <figure class="centropagina margem2">
-                        <img class = "img" src="imagem/cm.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                        <img class = "img" src="imagem/cm.webp" alt="é uma imagem de apresentação que tem o logo da empresa alimencia CaraMelada">
                     </figure>
                     <p> É uma confeitaria apaixonada por transformar ingredientes de alta qualidade em obras-primas irresistíveis. Onde a specialidade inclui cupcakes delicadamente decorados, brigadeiros gourmet derretendo na boca, bolos de pote repletos de camadas irresistíveis de sabor, além das clássicas e elegantes tortas e sobremesas.</p>
-                    <a target="_blank" href="https://www.instagram.com/caramelada.cupcake/" class="btn btn-primary">Ver perfil do instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/caramelada.cupcake/" class="btn btn-primary" aria-label="Link que leva ao instagram da empresa alimencia CaraMelada">Ver perfil do instagram</a>
                 </div>
             </div>
         </section>
@@ -64,10 +68,10 @@
                 </div>   
                 <div class="col-12">
                     <figure class="centropagina margem2">
-                        <img class = "img" src="imagem/itaraku.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                        <img class = "img" src="imagem/itaraku.webp" alt="é uma imagem de apresentação que tem o logo da empresa alimencia Itiraku">
                     </figure>
                     <p> Adentre em um mundo de sabores que ecoam os corações dos ninjas de Konoha com comidas inspirada em Naruto. Onde a missão é desvendar os segredos culinários guardados nas ruas de Konoha, trazendo para você pratos que são uma verdadeira homenagem à rica tradição gastronômica da Vila Oculta da Folha. </p>
-                    <a target="_blank" href="https://www.instagram.com/barraca_do_itiraku/" class="btn btn-primary">Ver perfil do instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/barraca_do_itiraku/" class="btn btn-primary" aria-label="Link que leva ao instagram da empresa alimencia Itiraku">Ver perfil do instagram</a>
                 </div>
             </div>
         </section>
@@ -78,10 +82,10 @@
                 </div>   
                 <div class="col-12">
                     <figure class="centropagina margem2">
-                        <img class = "img" src="imagem/mikka.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                        <img class = "img" src="imagem/mikka.webp" alt="é uma imagem de apresentação que tem o logo da empresa de produtos artesanais da Mikka Telles">
                     </figure>
                     <p> Vemos uma artesã apaixonada por transformar fios em personagens que habitam os mundos nerds que tanto amamos. Com agulha e linha, ela da vida a amigurumis que são uma ode à cultura geek, dando vida a personagens da infancia de cada um, indo desde filmes, animes até livros.</p>
-                    <a target="_blank" href="https://www.instagram.com/mikka_telles/" class="btn btn-primary">Ver perfil do instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/mikka_telles/" class="btn btn-primary" aria-label="Link que leva ao instagram da empresa de produtos artesanais da Mikka Telles">Ver perfil do instagram</a>
                 </div>
             </div>
         </section>
@@ -92,10 +96,10 @@
                 </div>   
                 <div class="col-12">
                     <figure class="centropagina margem2">
-                        <img class = "img" src="imagem/cgotico.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                        <img class = "img" src="imagem/cgotico.webp" alt="é uma imagem de apresentação que tem o logo da empresa de produtos artesanais do Caldeirão Gotico">
                     </figure>
                     <p> Uma lojinha onde a arte se encontra com a escuridão para criar acessórios e decorações alternativas e góticas, feitas à mão com amor e dedicação. Onde cada peça encontrada em suas prateleiras é mais do que apenas um item decorativo ou um acessório, é uma expressão de individualidade e estilo pessoal.</p>
-                    <a target="_blank" href="https://www.instagram.com/gotico_caldeirao/" class="btn btn-primary">Ver perfil do instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/gotico_caldeirao/" class="btn btn-primary" aria-label="Link que leva ao instagram da empresa de produtos artesanais do Caldeirão Gotico">Ver perfil do instagram</a>
                 </div>
             </div>
         </section>
@@ -106,10 +110,10 @@
                 </div>   
                 <div class="col-12">
                     <figure class="centropagina margem2">
-                        <img class = "img" src="imagem/catomica.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                        <img class = "img" src="imagem/catomica.webp" alt="é uma imagem de apresentação que tem o logo da empresa de itens colecionaveis do Cartela Atomica">
                     </figure>
                     <p> Entre em um universo de maravilhas geek e itens colecionáveis, onde cada peça é uma porta de entrada para os mundos fantásticos que amamos. Descubrindo uma ampla variedade de itens selecionados, como action figures e estatuetas de diversos personagens até réplicas autênticas de objetos icônicos de filmes e séries.</p>
-                    <a target="_blank" href="https://www.instagram.com/cartolaatomica/" class="btn btn-primary">Ver perfil do instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/cartolaatomica/" class="btn btn-primary" aria-label="Link que leva ao instagram da empresa de itens colecionaveis do Cartela Atomica">Ver perfil do instagram</a>
                 </div>
             </div>
         </section>
@@ -120,10 +124,10 @@
                 </div>   
                 <div class="col-12">
                     <figure class="centropagina margem2">
-                        <img class = "img" src="imagem/fd.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                        <img class = "img" src="imagem/fd.webp" alt="é uma imagem de apresentação que tem a foto do ilustrador e escritos Fabio Dantas">
                     </figure>
                     <p> Entre nas páginas de mundos imaginários criados pela mente de um ilustrador e escritor independente de HQs. Com traços meticulosos e narrativas cativantes, ele da vida a personagens vibrantes e universos envolventes que prendem a imaginação do leitor, onde cada quadrinho se torna uma jornada única.</p>
-                    <a target="_blank" href="https://www.instagram.com/fabiodantas_art/" class="btn btn-primary">Ver perfil do instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/fabiodantas_art/" class="btn btn-primary" aria-label="Link que leva ao instagram do ilustrador e escritos Fabio Dantas">Ver perfil do instagram</a>
                 </div>
             </div>
         </section>
@@ -134,10 +138,10 @@
                 </div>   
                 <div class="col-12">
                     <figure class="centropagina margem2">
-                        <img class = "img" src="imagem/cs.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                        <img class = "img" src="imagem/cs.webp" alt="é uma imagem de apresentação que tem a foto do livro Castelo de Sofia">
                     </figure>
                     <p> Em meio às páginas do livro, conhecemos uma garotinha que descobre a alegria nos pequenos momentos da vida. Com delicadeza e ternura, as ilustrações dão vida às aventuras simples e cheias de significado dessa personagem adorável, enquanto ela explora o mundo com olhos curiosos e um coração cheio de alegria.</p>
-                    <a target="_blank" href="https://www.instagram.com/castelodesofia/" class="btn btn-primary">Ver perfil do instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/castelodesofia/" class="btn btn-primary" aria-label="Link que leva ao instagram do livro Castelo de Sofia">Ver perfil do instagram</a>
                 </div>
             </div>
         </section>
@@ -148,10 +152,10 @@
                 </div>   
                 <div class="col-12">
                     <figure class="centropagina margem2">
-                        <img class = "img" src="imagem/ptalbot.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                        <img class = "img" src="imagem/ptalbot.webp" alt="é uma imagem de apresentação que tem a foto do ilustrador Paul Rikky">
                     </figure>
                     <p> Adentre um universo sombrio e fascinante, criado pelas mãos habilidosas de um ilustrador e quadrinista que explora o lado mais obscuro da imaginação. Com linhas intensas e sombrias, suas ilustrações em preto e branco ganham vida, revelando um mundo de mistério, terror e beleza.</p>
-                    <a target="_blank" href="https://www.instagram.com/paulrikkytalbot/" class="btn btn-primary">Ver perfil do instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/paulrikkytalbot/" class="btn btn-primary" aria-label="Link que leva ao instagram do ilustrador Paul Rikky">Ver perfil do instagram</a>
                 </div>
             </div>
         </section>
@@ -162,10 +166,10 @@
                 </div>   
                 <div class="col-12">
                     <figure class="centropagina margem2">
-                        <img class = "img" src="imagem/fstore.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                        <img class = "img" src="imagem/fstore.webp" alt="é uma imagem de apresentação que tem o logo da empresa de produtos colecionaveis Fictio Store">
                     </figure>
                     <p>Uma loja onde a paixão pelo universo geek ganha vida em forma de action figures, estátuas, canecas e uma variedade de outros itens colecionáveis. Nela, os fãs mais dedicados encontram o paraíso, com uma seleção cuidadosa dos personagens mais amados dos quadrinhos, filmes, séries de TV e jogos.</p>
-                    <a target="_blank" href="https://www.instagram.com/fictiostore/" class="btn btn-primary">Ver perfil do instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/fictiostore/" class="btn btn-primary" aria-label="Link que leva ao instagram da empresa de produtos colecionaveis Fictio Store">Ver perfil do instagram</a>
                 </div>
             </div>
         </section>
@@ -176,10 +180,10 @@
                 </div>   
                 <div class="col-12">
                     <figure class="centropagina margem2">
-                        <img class = "img" src="imagem/mary.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                        <img class = "img" src="imagem/mary.webp" alt="é uma imagem de apresentação que tem o logo da empresa de produtos colecionaveis Mary Geek">
                     </figure>
                     <p> Explore o seu estilo geek as coleção exclusiva de roupas estampadas com os ícones mais queridos do universo nerd! Onde cada peça de roupa tem estampadas com os emblemas dos super-heróis mais famosos até hoodies com referências épicas da cultura pop, feita para os fãs adoram esse universo.</p>
-                    <a target="_blank" href="https://www.instagram.com/mary_geek_e_kids/" class="btn btn-primary">Ver perfil do instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/mary_geek_e_kids/" class="btn btn-primary" aria-label="Link que leva ao instagram da empresa de produtos colecionaveis Mary Geek">Ver perfil do instagram</a>
                 </div>
             </div>
         </section>
@@ -190,10 +194,10 @@
                 </div>   
                 <div class="col-12">
                     <figure class="centropagina margem2">
-                        <img class = "img" src="imagem/animairinq.webp" alt="é uma imagem de apresentação que tem o logo da fatecon junto com a nossa logo">
+                        <img class = "img" src="imagem/animairinq.webp" alt="é uma imagem de apresentação que tem o logo da empresa de produtos colecionaveis Animairinq">
                     </figure>
                     <p> Um lugar onde a magia dos animes ganha vida em forma de produtos incríveis para todos os fãs apaixonados! Está loja está sempre em busca das últimas novidades e dos itens mais exclusivos do mundo dos animes, como acessórios inspirados nos personagens mais amados até roupas estilosas que tem a essência dos animes.</p>
-                    <a target="_blank" href="https://www.instagram.com/animairinq/" class="btn btn-primary">Ver perfil do instagram</a>
+                    <a target="_blank" href="https://www.instagram.com/animairinq/" class="btn btn-primary" aria-label="Link que leva ao instagram da empresa de produtos colecionaveis Animairinq">Ver perfil do instagram</a>
                 </div>
             </div>
         </section>
