@@ -16,7 +16,7 @@
         <main>
             <div class="row justify-content-md-center">
                 <article class="col-12">
-                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajustep">
+                    <nav aria-label="Guia de Localização da Página" class="breadcrumb-custom breadcrumbajustep">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item active" aria-current="page">Home</li>
                         </ol>

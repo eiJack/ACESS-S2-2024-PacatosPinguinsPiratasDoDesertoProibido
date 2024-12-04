@@ -40,7 +40,7 @@
     ?>
 
     <div role="main" class="container margem">
-                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="Guia de Localização da Página" class="breadcrumbajuste">
+                    <nav aria-label="Guia de Localização da Página" class="breadcrumb-custom breadcrumbajuste">
                     <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item"><a href="CCXP.php">CCXP</a></li>
@@ -87,8 +87,8 @@
 
         <a href="#" class="bt"></a>
 
-        <p><a href="incluir_artistas.php">Inserir mais dados</a></p>
-        <p><a href="listar_artistas.php">Excluir dados</a></p>
+        <p><a href="incluir_artistas.php" hidden>Inserir mais dados</a></p>
+        <p><a href="listar_artistas.php" hidden>Excluir dados</a></p>
     
 
 

@@ -20,19 +20,19 @@ function buscarNoticias2 () {
 
 
 function exibirNoticia2($titulo,$tituloimg,$img,$altimg,$fonteimg,$texto,$fontetext,$arialabellink,$linknoticia) {
-    echo '<div class="row">';
-    echo '    <div class="bordaroxanoticia2">';
+    echo '<div class="row paginanoticiasprincipalrow">';
+    echo '    <div class="paginanoticiasprincipalbordaroxanoticia2">';
     echo '        <div class="col-12">';
     echo '            <section>';
     echo '                <h2>'.$titulo.'</h2>';
-    echo '                <figure class="imgesq col-lg-4 col-md-6 col-sm-12 col-12">';
-    echo '                    <h3 aria-hidden="true" class="tituloimg">'.$tituloimg.'</h3>';
-    echo '                    <img class="col-12 imgcem" src="'.$img.'" alt="'.$altimg.'">';
+    echo '                <figure class="paginanoticiasprincipalimgesq col-lg-4 col-md-6 col-sm-12 col-12">';
+    echo '                    <h3 aria-hidden="true" class="paginanoticiasprincipaltituloimg">'.$tituloimg.'</h3>';
+    echo '                    <img class="col-12 paginanoticiasprincipalimgcem" src="'.$img.'" alt="'.$altimg.'">';
     echo '                    <figcaption class="figure-caption">'.$fonteimg.'</figcaption>';
     echo '                </figure>';
-    echo '                <p class="ajustap">'.$texto.'</p>';
+    echo '                <p class="paginanoticiasprincipalajustap">'.$texto.'</p>';
     echo '                <small>'.$fontetext.'</small>';
-    echo '                <div class="row col-12">';
+    echo '                <div class="row col-12 paginanoticiasprincipalrow">';
     echo '                    <div class="col-12 d-flex justify-content-end">';
     echo '                        <a aria-label="'.$arialabellink.'" class="btn btn-primary" href="'.$linknoticia.'">Ler mais</a>';
     echo '                    </div>';
@@ -40,7 +40,7 @@ function exibirNoticia2($titulo,$tituloimg,$img,$altimg,$fonteimg,$texto,$fontet
     echo '            </section>';
     echo '        </div>';
     echo '    </div>';
-    echo '</div>';    
+    echo '</div>';
     }
 
 buscarNoticias2();

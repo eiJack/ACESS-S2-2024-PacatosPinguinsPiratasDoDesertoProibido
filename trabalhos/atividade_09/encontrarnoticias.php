@@ -20,27 +20,27 @@ function buscarNoticias () {
 
 
 function exibirNoticia($titulo,$tituloimg,$img,$altimg,$fonteimg,$texto,$fontetext,$arialabellink,$linknoticia) {
-        echo '<div class="col-lg-6 col-md-6 col-sm-12">';
-        echo '    <div class="bordaroxanoticiatopo">';
-        echo '        <div class="bordaroxanoticia">';
-        echo '            <section>';
-        echo '                <h2>' . $titulo . '</h2>';
-        echo '                <figure>';
-        echo '                    <h3 aria-hidden="true" class="tituloimg">' . $tituloimg . '</h3>';
-        echo '                    <img class="imgcem" src="' . $img . '" alt="' . $altimg . '">';
-        echo '                    <figcaption class="figure-caption">' . $fonteimg . '</figcaption>';
-        echo '                </figure>';
-        echo '                <p>' . $texto . '</p>';
-        echo '                <small>' . $fontetext . '</small>';
-        echo '                <div class="row">';
-        echo '                    <div class="col-12 d-flex justify-content-end">';
-        echo '                        <a aria-label="' . $arialabellink . '" class="btn btn-primary" href="' . $linknoticia . '">Ler mais</a>';
-        echo '                    </div>';
-        echo '                </div>';
-        echo '            </section>';
-        echo '        </div>';
-        echo '    </div>';
-        echo '</div>';
+    echo '<div class="col-lg-6 col-md-6 col-sm-12">';
+    echo '    <div class="paginanoticiasprincipalbordaroxanoticiatopo">';
+    echo '        <div class="paginanoticiasprincipalbordaroxanoticia">';
+    echo '            <section>';
+    echo '                <h2>' . $titulo . '</h2>';
+    echo '                <figure>';
+    echo '                    <h3 aria-hidden="true" class="paginanoticiasprincipaltituloimg">' . $tituloimg . '</h3>';
+    echo '                    <img class="paginanoticiasprincipalimgcem" src="' . $img . '" alt="' . $altimg . '">';
+    echo '                    <figcaption class="figure-caption">' . $fonteimg . '</figcaption>';
+    echo '                </figure>';
+    echo '                <p>' . $texto . '</p>';
+    echo '                <small>' . $fontetext . '</small>';
+    echo '                <div class="row paginanoticiasprincipalrow">';
+    echo '                    <div class="col-12 d-flex justify-content-end">';
+    echo '                        <a aria-label="' . $arialabellink . '" class="btn btn-primary" href="' . $linknoticia . '">Ler mais</a>';
+    echo '                    </div>';
+    echo '                </div>';
+    echo '            </section>';
+    echo '        </div>';
+    echo '    </div>';
+    echo '</div>';
     }
 
 buscarNoticias();
